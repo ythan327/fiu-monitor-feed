@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T06:12:29+09:00",
+  "generatedAt": "2026-09-11T06:41:09+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "partial",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "error",
         "label": "금융위",
-        "lastAttemptAt": "2026-09-11T06:12:29+09:00",
+        "lastAttemptAt": "2026-09-11T06:41:09+09:00",
         "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fsc.go.kr/no010101\", waiting until \"networkidle\"\n"
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-11T06:12:29+09:00",
+        "lastSuccessAt": "2026-09-11T06:41:09+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "error",
         "label": "FIU 보도자료",
-        "lastAttemptAt": "2026-09-11T06:12:29+09:00",
+        "lastAttemptAt": "2026-09-11T06:41:09+09:00",
         "message": "fetch failed"
       },
       "FIU_NOTICE": {
         "status": "error",
         "label": "FIU 공지사항",
-        "lastAttemptAt": "2026-09-11T06:12:29+09:00",
+        "lastAttemptAt": "2026-09-11T06:41:09+09:00",
         "message": "fetch failed"
       },
       "FIU_SANCTIONS": {
         "status": "error",
         "label": "FIU 제재공시",
-        "lastAttemptAt": "2026-09-11T06:12:29+09:00",
+        "lastAttemptAt": "2026-09-11T06:41:09+09:00",
         "message": "fetch failed"
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
+    "newSinceLastFeed": 0,
     "totalVisible": 10
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-09-11T00:00:00+09:00",
       "displayDate": "2026-09-10",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "25f09179db7a40282a19903c18e12fbcef268d9ae0a0b3e67c8bed2f391cbaba"
     },

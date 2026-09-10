@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-10T15:40:00+09:00",
+  "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
+  "status": {
+    "overall": "ok",
+    "sources": {
+      "FSC": {
+        "status": "ok",
+        "label": "금융위"
+      },
+      "FSS": {
+        "status": "ok",
+        "label": "금감원"
+      },
+      "FIU": {
+        "status": "ok",
+        "label": "FIU"
+      }
+    }
+  },
+  "counts": {
+    "newSinceLastFeed": 1,
+    "totalVisible": 3
+  },
+  "items": [
+    {
+      "id": "FSC-1",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "샘플 금융위 보도자료",
+      "url": "https://www.fsc.go.kr/no010101",
+      "publishedAt": "2026-09-10T00:00:00+09:00",
+      "displayDate": "2026-09-10",
+      "dept": "금융정책과",
+      "isNew": true,
+      "ageHours": 5
+    },
+    {
+      "id": "FSS-1",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "샘플 금감원 보도자료",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/list.do?menuNo=200218",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-09",
+      "dept": "국제업무국",
+      "isNew": false,
+      "ageHours": 24
+    },
+    {
+      "id": "FIU-1",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "NOTICE",
+      "categoryLabel": "공지사항",
+      "title": "샘플 FIU 공지사항",
+      "url": "https://www.kofiu.go.kr/kor/notification/notice.do",
+      "publishedAt": "2026-09-08T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "",
+      "isNew": false,
+      "ageHours": 48
+    }
+  ]
+}

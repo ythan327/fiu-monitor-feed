@@ -1,70 +1,435 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T15:40:00+09:00",
+  "generatedAt": "2026-09-10T17:43:36+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
     "sources": {
       "FSC": {
         "status": "ok",
-        "label": "금융위"
+        "label": "금융위",
+        "lastSuccessAt": "2026-09-10T17:43:36+09:00",
+        "itemCount": 10
       },
       "FSS": {
         "status": "ok",
-        "label": "금감원"
+        "label": "금감원",
+        "lastSuccessAt": "2026-09-10T17:43:36+09:00",
+        "itemCount": 10
       },
-      "FIU": {
+      "FIU_REPORT": {
         "status": "ok",
-        "label": "FIU"
+        "label": "FIU 보도자료",
+        "lastSuccessAt": "2026-09-10T17:43:36+09:00",
+        "itemCount": 1
+      },
+      "FIU_NOTICE": {
+        "status": "ok",
+        "label": "FIU 공지사항",
+        "lastSuccessAt": "2026-09-10T17:43:36+09:00",
+        "itemCount": 1
+      },
+      "FIU_SANCTIONS": {
+        "status": "ok",
+        "label": "FIU 제재공시",
+        "lastSuccessAt": "2026-09-10T17:43:36+09:00",
+        "itemCount": 2
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
-    "totalVisible": 3
+    "newSinceLastFeed": 24,
+    "totalVisible": 24
   },
   "items": [
     {
-      "id": "FSC-1",
+      "id": "FSC-d750420cedc5aa18",
       "source": "FSC",
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "내가 테스트한 샘플 금융위 보도자료",
-      "url": "https://www.fsc.go.kr/no010101",
+      "title": "PF보증이 주택공급으로 이억원 금융위원장, 김포 PF사업장 방문. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87690?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-10T00:00:00+09:00",
-      "displayDate": "2026-09-10",
+      "displayDate": "2026-09-09",
       "dept": "금융정책과",
       "isNew": true,
-      "ageHours": 5
+      "attachments": [],
+      "hash": "4b7affef0cdc9e914dae57474e11230b269b35012edf78693dc3d764762b3813"
     },
     {
-      "id": "FSS-1",
+      "id": "FSS-1f6a68bc5baff492",
       "source": "FSS",
       "sourceLabel": "금감원",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "샘플 금감원 보도자료",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/list.do?menuNo=200218",
-      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "title": "금감원장, 금감원-지자체-금융권 공동개최 해외IR 참석 및 영국 금융감독당국 최고위급 등 면담",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227683&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-10T00:00:00+09:00",
       "displayDate": "2026-09-09",
-      "dept": "국제업무국",
-      "isNew": false,
-      "ageHours": 24
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "33d423f9c9a7d8c191acf56ede223f337e2e3c0b3b5e0f3cfa073584a15318e2"
     },
     {
-      "id": "FIU-1",
+      "id": "FSS-0f82f0d17dcb7464",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2026년 2분기 증권, 선물회사 영업실적",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227674&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-10T00:00:00+09:00",
+      "displayDate": "2026-09-09",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "a4c0d06919ee43009c6eac6c85fc8d3f348625b177d0e02a39211cbfc4dbaf0b"
+    },
+    {
+      "id": "FSC-5f1c28667ad32b74",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제15차 금융위원회(’26.9.9.) 조치 의결",
+      "url": "https://www.fsc.go.kr/no010101/87687?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "회계제도팀",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1240ea532ed95fe7a0eed7c008a022a0b62370f8bb8360048e14c0cc938ed716"
+    },
+    {
+      "id": "FSC-300a5a7761899201",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "삼성증권㈜에 대한 단기금융업 인가",
+      "url": "https://www.fsc.go.kr/no010101/87676?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "b9ddc79a67409a87adf97131abf72b6430334876a9b2dc837a13b137de548f6a"
+    },
+    {
+      "id": "FSC-1a9a12ab6df59080",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2026년 8월 가계대출 동향(잠정) 및 ｢가계부채 점검회의｣ 개최",
+      "url": "https://www.fsc.go.kr/no010101/87675?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "금융정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1983419931888c487714e903e27a8972614e5405642da1855fe4b46616e2a7d8"
+    },
+    {
+      "id": "FSC-a2156e3f82766d8f",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "주택공급 촉진을 위한 금융지원 대책 점검회의 개최",
+      "url": "https://www.fsc.go.kr/no010101/87674?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "금융정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "e1a06c01ba61e8447d6ec940aaa6ad4b626fecaadf6e1f46a2d17d7ee9b9077f"
+    },
+    {
+      "id": "FSS-d03eb4f725fdf609",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "사업보고서 등에 대한 조사, 감리결과 조치",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227588&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "4de250bf9d242ecafa5848bbc8935cc3d0ffbd6c9bda7233274f043200a2a140"
+    },
+    {
+      "id": "FSS-b853e631f4e8c54c",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금감원, 보험회사 성과평가 관행 개선 워크숍 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227573&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "acb36025d2e853ddfcf41ef84dfacc2bac41ef4581ac386b41e4b4e43d43a7ca"
+    },
+    {
+      "id": "FSS-a945218c81bdc3e1",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "삼성증권(주)에 대한 단기금융업 인가",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227563&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "79bd8495d95b25083b0ebcdf9f2591c43002798d30649012b7bb6394a719826c"
+    },
+    {
+      "id": "FSS-5ce4c9e9cc1a6954",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "프런티어 AI 기반 보안위협 대비 강화 등을 위한 전금융권 CISO 간담회",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227558&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "e90036bbda6e63e3ec490d5f0323a64fda58bfd05afd4c11fcd1ee857f63c82c"
+    },
+    {
+      "id": "FSS-4a48c958b1ee9423",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융감독원, 금융업계의 다크패턴 예방을 위한 상시협의체 킥오프 회의 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227559&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "86553b83e571097fd0c002505573c950c89becb733b8f56a7b820b7621ec2fe3"
+    },
+    {
+      "id": "FSS-f32a9ed3fa608b99",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "공모 목표전환형 펀드 현황 및 투자자 유의사항 안내",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227554&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5b4526263a99f0b5df013b8787e55b37dd083e4a5c2af246852fe17667ca9755"
+    },
+    {
+      "id": "FSS-772bd0ca74967267",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2026년 8월 가계대출 동향(잠정) 및 가계부채 점검회의 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227555&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "c18d469d94e429e546a48ab2f08183b637c6d17030fe4e04d980150ba4f15027"
+    },
+    {
+      "id": "FSS-2f9d45edc74cc0ce",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "주택공급 촉진을 위한 금융지원 대책 점검회의 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227556&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "displayDate": "2026-09-08",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "7671e3f08a464106d4cf46e8e70e7a14de56c1facef660574676ed2d3f96ccec"
+    },
+    {
+      "id": "FSC-d1db28fde392a9e4",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "제2차 국민참여성장펀드가 9.30일(수)부터 2주간(10영업일) 일반국민을 대상으로 판매됩니다.",
+      "url": "https://www.fsc.go.kr/no010101/87667?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-08T00:00:00+09:00",
+      "displayDate": "2026-09-07",
+      "dept": "국민지역참여지원과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "de0330d1615f8dcf2ca6075048a7a62fef4a4c71d5317de9ee4d37962bad7c09"
+    },
+    {
+      "id": "FSC-f3ca33a0eb84428e",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "사망자 명의의 불법 금융거래, 사망신고 ‘다음 날’부터 즉시 막는다.",
+      "url": "https://www.fsc.go.kr/no010101/87657?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-07T00:00:00+09:00",
+      "displayDate": "2026-09-06",
+      "dept": "금융데이터정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "664154b73ff0ac321a7ddc8fcc946f76e3386d91788eafe42f43035e17e9834f"
+    },
+    {
+      "id": "FIU-SANCTIONS-136",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "SANCTIONS",
+      "categoryLabel": "제재공시",
+      "title": "유안타증권 제재내용 공개안",
+      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=136&seCd=0022",
+      "publishedAt": "2026-09-04T13:36:52+09:00",
+      "displayDate": "2026-09-04",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "유안타증권 제재내용 공개안.pdf",
+          "type": "application/pdf",
+          "size": 100743
+        }
+      ],
+      "hash": "f7688c7f38b4a4be3748d895ac7b3885219a1affe4e6b4a53851f870a29bfe0f"
+    },
+    {
+      "id": "FIU-SANCTIONS-135",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "SANCTIONS",
+      "categoryLabel": "제재공시",
+      "title": "농협은행 제재내용 공개안",
+      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=135&seCd=0022",
+      "publishedAt": "2026-09-04T13:36:38+09:00",
+      "displayDate": "2026-09-04",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "농협은행 제재내용 공개안.pdf",
+          "type": "application/pdf",
+          "size": 111191
+        }
+      ],
+      "hash": "7a825afb1d4c1ab20121b78a70f66e1804b60bffb7c119c3f1e3715f258ef586"
+    },
+    {
+      "id": "FSC-15020d29fc7cc03d",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "지역 밀착형 서민금융 복합지원으로 강원도민의 경제적 자립을 돕겠습니다. - 이억원 금융위원장, 강원 지역 밀착형 복합지원 업무협약식 참석",
+      "url": "https://www.fsc.go.kr/no010101/87652?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-04T00:00:00+09:00",
+      "displayDate": "2026-09-03",
+      "dept": "복합지원팀",
+      "isNew": true,
+      "attachments": [],
+      "hash": "12e87bbf4e8f1e84ba79212eee1153f4f831528c72bb2bfb2d8f10b6753f2ddf"
+    },
+    {
+      "id": "FSC-20dfd8b62c69264d",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "토큰증권 정책방향 발표- 민·관 합동 토큰증권 협의체 3차회의 개최",
+      "url": "https://www.fsc.go.kr/no010101/87650?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-04T00:00:00+09:00",
+      "displayDate": "2026-09-03",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "f2dba6c91790704842685fd0fef3ffbc52123b4a93672e14a68b88263dd56a76"
+    },
+    {
+      "id": "FSC-6f07edc6ef2f1093",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융·외환·부동산 등 부문별 리스크 종합 점검",
+      "url": "https://www.fsc.go.kr/no010101/87648?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-04T00:00:00+09:00",
+      "displayDate": "2026-09-03",
+      "dept": "자본시장과,금융시장분석과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "f4ccc0b48351a9539a9a9074d16bb6bc869863b810c085025a3670cff2913825"
+    },
+    {
+      "id": "FIU-NOTICE-194",
       "source": "FIU",
       "sourceLabel": "FIU",
       "category": "NOTICE",
       "categoryLabel": "공지사항",
-      "title": "샘플 FIU 공지사항",
-      "url": "https://www.kofiu.go.kr/kor/notification/notice.do",
-      "publishedAt": "2026-09-08T00:00:00+09:00",
-      "displayDate": "2026-09-08",
+      "title": "가상자산사업자 신고 현황(2026.8.31. 기준)",
+      "url": "https://www.kofiu.go.kr/kor/notification/notice_view.do?ntcnYardOrdrNo=194&seCd=0007",
+      "publishedAt": "2026-08-31T18:10:22+09:00",
+      "displayDate": "2026-08-31",
       "dept": "",
-      "isNew": false,
-      "ageHours": 48
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "가상자산사업자 신고에 관한 정보공개현황(2026.8.31. 기준).xlsx",
+          "type": "application/haansoftxlsx",
+          "size": 19451
+        }
+      ],
+      "hash": "415953ec13bdcc0742d94daeedb98964ff44e01e3c31290cfc1b8da0c7e60bcc"
+    },
+    {
+      "id": "FIU-REPORT-415",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "FIU 자금세탁방지 유관기관 협의회 개최",
+      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=415&seCd=0001",
+      "publishedAt": "2026-08-31T10:46:30+09:00",
+      "displayDate": "2026-08-31",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "260827(보도자료) FIU  자금세탁방지 유관기관 협의회 개최.pdf",
+          "type": "application/pdf",
+          "size": 241567
+        },
+        {
+          "name": "260827(보도자료) FIU  자금세탁방지 유관기관 협의회 개최.hwpx",
+          "type": "application/octet-stream",
+          "size": 242688
+        }
+      ],
+      "hash": "98eb81dddab420764dba4541aa7e5889eee3687dcad591d7ff9547f8350643a5"
     }
   ]
 }

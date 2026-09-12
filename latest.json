@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T14:11:30+09:00",
+  "generatedAt": "2026-09-12T14:39:54+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-12T14:11:30+09:00",
+        "lastSuccessAt": "2026-09-12T14:39:54+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-12T14:11:30+09:00",
+        "lastSuccessAt": "2026-09-12T14:39:54+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-12T14:11:30+09:00",
+        "lastSuccessAt": "2026-09-12T14:39:54+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-12T14:11:30+09:00",
+        "lastSuccessAt": "2026-09-12T14:39:54+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-12T14:11:30+09:00",
+        "lastSuccessAt": "2026-09-12T14:39:54+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 12,
+    "newSinceLastFeed": 0,
     "totalVisible": 22
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-09-11T00:00:00+09:00",
       "displayDate": "2026-09-10",
       "dept": "가계금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0e0adbeca7a63f037b0479ad6a3c042462644719c5999bcdc2ef4066a3389f51"
     },
@@ -68,7 +68,7 @@
       "publishedAt": "2026-09-11T00:00:00+09:00",
       "displayDate": "2026-09-10",
       "dept": "보험과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e150a968ce0f003ac2a3c8e0ff46b0a9843f9180b9662164f896bac337718a87"
     },
@@ -113,7 +113,7 @@
       "publishedAt": "2026-09-10T00:00:00+09:00",
       "displayDate": "2026-09-09",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "bf3e043c2b83334b04591b961f35690b061d72acf44986efd1bd04cc9fb30829"
     },
@@ -158,7 +158,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "회계제도팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "1240ea532ed95fe7a0eed7c008a022a0b62370f8bb8360048e14c0cc938ed716"
     },
@@ -173,7 +173,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "b9ddc79a67409a87adf97131abf72b6430334876a9b2dc837a13b137de548f6a"
     },
@@ -188,7 +188,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "1983419931888c487714e903e27a8972614e5405642da1855fe4b46616e2a7d8"
     },
@@ -203,7 +203,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e1a06c01ba61e8447d6ec940aaa6ad4b626fecaadf6e1f46a2d17d7ee9b9077f"
     },
@@ -308,7 +308,7 @@
       "publishedAt": "2026-09-08T00:00:00+09:00",
       "displayDate": "2026-09-07",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "de0330d1615f8dcf2ca6075048a7a62fef4a4c71d5317de9ee4d37962bad7c09"
     },
@@ -323,7 +323,7 @@
       "publishedAt": "2026-09-07T00:00:00+09:00",
       "displayDate": "2026-09-06",
       "dept": "금융데이터정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "664154b73ff0ac321a7ddc8fcc946f76e3386d91788eafe42f43035e17e9834f"
     },
@@ -338,7 +338,7 @@
       "publishedAt": "2026-09-04T00:00:00+09:00",
       "displayDate": "2026-09-03",
       "dept": "복합지원팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "12e87bbf4e8f1e84ba79212eee1153f4f831528c72bb2bfb2d8f10b6753f2ddf"
     },
@@ -353,7 +353,7 @@
       "publishedAt": "2026-08-31T18:10:22+09:00",
       "displayDate": "2026-08-31",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "가상자산사업자 신고에 관한 정보공개현황(2026.8.31. 기준).xlsx",
@@ -374,7 +374,7 @@
       "publishedAt": "2026-08-31T10:46:30+09:00",
       "displayDate": "2026-08-31",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "260827(보도자료) FIU  자금세탁방지 유관기관 협의회 개최.pdf",

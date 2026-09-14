@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T11:42:11+09:00",
+  "generatedAt": "2026-09-14T12:13:21+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-14T11:42:11+09:00",
+        "lastSuccessAt": "2026-09-14T12:13:21+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-14T11:42:11+09:00",
+        "lastSuccessAt": "2026-09-14T12:13:21+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-14T11:42:11+09:00",
+        "lastSuccessAt": "2026-09-14T12:13:21+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-14T11:42:11+09:00",
+        "lastSuccessAt": "2026-09-14T12:13:21+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-14T11:42:11+09:00",
+        "lastSuccessAt": "2026-09-14T12:13:21+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 21
   },
   "items": [
@@ -71,6 +71,21 @@
       "isNew": false,
       "attachments": [],
       "hash": "a463305fd3eb93d9686b05ea2f69e524ac3798d373d7bd65722c53976dd272c4"
+    },
+    {
+      "id": "FSS-b51c879a58d4a2bd",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "기후금융 협업체계를 강화하여 우리경제 탄소감축과 녹색전환을 충실히 지원하겠습니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=228399&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-14T00:00:00+09:00",
+      "displayDate": "2026-09-13",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ac74b6f7bb3e3f983894cf4ceffff9b584a9704381e0e10e346a884bd67dec12"
     },
     {
       "id": "FSS-c0facc7001a8e799",
@@ -311,21 +326,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "79bd8495d95b25083b0ebcdf9f2591c43002798d30649012b7bb6394a719826c"
-    },
-    {
-      "id": "FSS-5ce4c9e9cc1a6954",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "프런티어 AI 기반 보안위협 대비 강화 등을 위한 전금융권 CISO 간담회",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227558&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-09T00:00:00+09:00",
-      "displayDate": "2026-09-08",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "e90036bbda6e63e3ec490d5f0323a64fda58bfd05afd4c11fcd1ee857f63c82c"
     },
     {
       "id": "FSC-d1db28fde392a9e4",

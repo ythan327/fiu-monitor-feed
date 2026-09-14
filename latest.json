@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T03:14:15+09:00",
+  "generatedAt": "2026-09-15T03:46:08+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-15T03:14:15+09:00",
+        "lastSuccessAt": "2026-09-15T03:46:08+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-15T03:14:15+09:00",
+        "lastSuccessAt": "2026-09-15T03:46:08+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-15T03:14:15+09:00",
+        "lastSuccessAt": "2026-09-15T03:46:08+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-15T03:14:15+09:00",
+        "lastSuccessAt": "2026-09-15T03:46:08+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-15T03:14:15+09:00",
+        "lastSuccessAt": "2026-09-15T03:46:08+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 10,
+    "newSinceLastFeed": 0,
     "totalVisible": 20
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-09-14T00:00:00+09:00",
       "displayDate": "2026-09-13",
       "dept": "산업금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c488009ae73ca1936357badcde05f022ab3f0cd23c2dbe48c300fb1add108eb6"
     },
@@ -68,7 +68,7 @@
       "publishedAt": "2026-09-14T00:00:00+09:00",
       "displayDate": "2026-09-13",
       "dept": "은행과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "97ed32456ff5b559f5529fda329f6a19fc18988bc25fa199e96edce6fc4ebd1e"
     },
@@ -83,7 +83,7 @@
       "publishedAt": "2026-09-14T00:00:00+09:00",
       "displayDate": "2026-09-13",
       "dept": "디지털금융총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "2f98cc8b09305ffb2713ec9372f5e769726be181d632b50dbc6cf2b20adcc628"
     },
@@ -158,7 +158,7 @@
       "publishedAt": "2026-09-11T00:00:00+09:00",
       "displayDate": "2026-09-10",
       "dept": "가계금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0e0adbeca7a63f037b0479ad6a3c042462644719c5999bcdc2ef4066a3389f51"
     },
@@ -173,7 +173,7 @@
       "publishedAt": "2026-09-11T00:00:00+09:00",
       "displayDate": "2026-09-10",
       "dept": "보험과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e150a968ce0f003ac2a3c8e0ff46b0a9843f9180b9662164f896bac337718a87"
     },
@@ -218,7 +218,7 @@
       "publishedAt": "2026-09-10T00:00:00+09:00",
       "displayDate": "2026-09-09",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "bf3e043c2b83334b04591b961f35690b061d72acf44986efd1bd04cc9fb30829"
     },
@@ -263,7 +263,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "회계제도팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "1240ea532ed95fe7a0eed7c008a022a0b62370f8bb8360048e14c0cc938ed716"
     },
@@ -278,7 +278,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "b9ddc79a67409a87adf97131abf72b6430334876a9b2dc837a13b137de548f6a"
     },
@@ -293,7 +293,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "1983419931888c487714e903e27a8972614e5405642da1855fe4b46616e2a7d8"
     },
@@ -308,7 +308,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e1a06c01ba61e8447d6ec940aaa6ad4b626fecaadf6e1f46a2d17d7ee9b9077f"
     },

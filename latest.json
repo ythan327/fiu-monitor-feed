@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T23:46:40+09:00",
+  "generatedAt": "2026-09-15T00:14:24+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-14T23:46:40+09:00",
+        "lastSuccessAt": "2026-09-15T00:14:24+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-14T23:46:40+09:00",
+        "lastSuccessAt": "2026-09-15T00:14:24+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-14T23:46:40+09:00",
+        "lastSuccessAt": "2026-09-15T00:14:24+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-14T23:46:40+09:00",
+        "lastSuccessAt": "2026-09-15T00:14:24+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-14T23:46:40+09:00",
+        "lastSuccessAt": "2026-09-15T00:14:24+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 10,
+    "newSinceLastFeed": 0,
     "totalVisible": 20
   },
   "items": [
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "기후금융 협업체계를 강화하여 우리경제 탄소감축과 녹색전환을 충실히 지원하겠습니다. - ｢기후금융 관계기관 TF｣ 제1차 회의 개최. 금일 등록된 게시글",
+      "title": "기후금융 협업체계를 강화하여 우리경제 탄소감축과 녹색전환을 충실히 지원하겠습니다. - ｢기후금융 관계기관 TF｣ 제1차 회의 개최",
       "url": "https://www.fsc.go.kr/no010101/87708?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-14T00:00:00+09:00",
       "displayDate": "2026-09-13",
       "dept": "산업금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "95e6503c5f2cd4a66c798d76f312494ef29744a31872c9a65a3bcfaf8f56eeed"
+      "hash": "c488009ae73ca1936357badcde05f022ab3f0cd23c2dbe48c300fb1add108eb6"
     },
     {
       "id": "FSC-fc7f7c3f31d02d46",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "추석 연휴에도 국민 여러분의 금융이용 불편이 없도록 최선을 다하겠습니다.. 금일 등록된 게시글",
+      "title": "추석 연휴에도 국민 여러분의 금융이용 불편이 없도록 최선을 다하겠습니다.",
       "url": "https://www.fsc.go.kr/no010101/87706?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-14T00:00:00+09:00",
       "displayDate": "2026-09-13",
       "dept": "은행과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "1e81b3f6a046bb285ace17d646902a79cd47eb3f6dd13e5a01b43281f363adad"
+      "hash": "97ed32456ff5b559f5529fda329f6a19fc18988bc25fa199e96edce6fc4ebd1e"
     },
     {
       "id": "FSC-e5b1f788fcc42f13",
@@ -78,14 +78,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "’26년 3분기 혁신금융서비스 지정 정기신청 개시. 금일 등록된 게시글",
+      "title": "’26년 3분기 혁신금융서비스 지정 정기신청 개시",
       "url": "https://www.fsc.go.kr/no010101/87705?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-14T00:00:00+09:00",
       "displayDate": "2026-09-13",
       "dept": "디지털금융총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "a463305fd3eb93d9686b05ea2f69e524ac3798d373d7bd65722c53976dd272c4"
+      "hash": "2f98cc8b09305ffb2713ec9372f5e769726be181d632b50dbc6cf2b20adcc628"
     },
     {
       "id": "FSS-1776fa11593f64c3",
@@ -158,7 +158,7 @@
       "publishedAt": "2026-09-11T00:00:00+09:00",
       "displayDate": "2026-09-10",
       "dept": "가계금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0e0adbeca7a63f037b0479ad6a3c042462644719c5999bcdc2ef4066a3389f51"
     },
@@ -173,7 +173,7 @@
       "publishedAt": "2026-09-11T00:00:00+09:00",
       "displayDate": "2026-09-10",
       "dept": "보험과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e150a968ce0f003ac2a3c8e0ff46b0a9843f9180b9662164f896bac337718a87"
     },
@@ -218,7 +218,7 @@
       "publishedAt": "2026-09-10T00:00:00+09:00",
       "displayDate": "2026-09-09",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "bf3e043c2b83334b04591b961f35690b061d72acf44986efd1bd04cc9fb30829"
     },
@@ -263,7 +263,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "회계제도팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "1240ea532ed95fe7a0eed7c008a022a0b62370f8bb8360048e14c0cc938ed716"
     },
@@ -278,7 +278,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "b9ddc79a67409a87adf97131abf72b6430334876a9b2dc837a13b137de548f6a"
     },
@@ -293,7 +293,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "1983419931888c487714e903e27a8972614e5405642da1855fe4b46616e2a7d8"
     },
@@ -308,7 +308,7 @@
       "publishedAt": "2026-09-09T00:00:00+09:00",
       "displayDate": "2026-09-08",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e1a06c01ba61e8447d6ec940aaa6ad4b626fecaadf6e1f46a2d17d7ee9b9077f"
     },

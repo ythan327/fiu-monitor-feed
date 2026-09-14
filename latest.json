@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T09:18:34+09:00",
+  "generatedAt": "2026-09-14T09:46:31+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-14T09:18:34+09:00",
+        "lastSuccessAt": "2026-09-14T09:46:31+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-14T09:18:34+09:00",
+        "lastSuccessAt": "2026-09-14T09:46:31+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-14T09:18:34+09:00",
+        "lastSuccessAt": "2026-09-14T09:46:31+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-14T09:18:34+09:00",
+        "lastSuccessAt": "2026-09-14T09:46:31+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-14T09:18:34+09:00",
+        "lastSuccessAt": "2026-09-14T09:46:31+09:00",
         "itemCount": 0
       }
     }
@@ -42,6 +42,21 @@
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-fc7f7c3f31d02d46",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "추석 연휴에도 국민 여러분의 금융이용 불편이 없도록 최선을 다하겠습니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87706?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-14T00:00:00+09:00",
+      "displayDate": "2026-09-13",
+      "dept": "은행과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1e81b3f6a046bb285ace17d646902a79cd47eb3f6dd13e5a01b43281f363adad"
+    },
     {
       "id": "FSC-e5b1f788fcc42f13",
       "source": "FSC",
@@ -53,7 +68,7 @@
       "publishedAt": "2026-09-14T00:00:00+09:00",
       "displayDate": "2026-09-13",
       "dept": "디지털금융총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "a463305fd3eb93d9686b05ea2f69e524ac3798d373d7bd65722c53976dd272c4"
     },
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "de0330d1615f8dcf2ca6075048a7a62fef4a4c71d5317de9ee4d37962bad7c09"
-    },
-    {
-      "id": "FSC-f3ca33a0eb84428e",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "사망자 명의의 불법 금융거래, 사망신고 ‘다음 날’부터 즉시 막는다.",
-      "url": "https://www.fsc.go.kr/no010101/87657?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-07T00:00:00+09:00",
-      "displayDate": "2026-09-06",
-      "dept": "금융데이터정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "664154b73ff0ac321a7ddc8fcc946f76e3386d91788eafe42f43035e17e9834f"
     },
     {
       "id": "FIU-NOTICE-194",

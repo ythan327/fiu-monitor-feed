@@ -1,107 +1,47 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T08:11:33+09:00",
+  "generatedAt": "2026-09-16T08:40:16+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "ok",
+    "overall": "partial",
     "sources": {
       "FSC": {
-        "status": "ok",
+        "status": "error",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-16T08:11:33+09:00",
-        "itemCount": 10
+        "lastAttemptAt": "2026-09-16T08:40:16+09:00",
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fsc.go.kr/no010101\", waiting until \"networkidle\"\n"
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-16T08:11:33+09:00",
+        "lastSuccessAt": "2026-09-16T08:40:16+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-16T08:11:33+09:00",
-        "itemCount": 0
+        "lastAttemptAt": "2026-09-16T08:40:16+09:00",
+        "message": "fetch failed"
       },
       "FIU_NOTICE": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-16T08:11:33+09:00",
-        "itemCount": 0
+        "lastAttemptAt": "2026-09-16T08:40:16+09:00",
+        "message": "fetch failed"
       },
       "FIU_SANCTIONS": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-16T08:11:33+09:00",
-        "itemCount": 0
+        "lastAttemptAt": "2026-09-16T08:40:16+09:00",
+        "message": "fetch failed"
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 10,
-    "totalVisible": 20
+    "newSinceLastFeed": 0,
+    "totalVisible": 10
   },
   "items": [
-    {
-      "id": "FSC-e98f61c51c6840b8",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "이억원 금융위원장, 독일 연방하원 재정위원회 위원장 면담",
-      "url": "https://www.fsc.go.kr/no010101/87716?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-15T00:00:00+09:00",
-      "displayDate": "2026-09-14",
-      "dept": "글로벌금융과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "17d4327be6a37fec9d88c6ccd55f765b173ec118c386afb2e1856165c61ea358"
-    },
-    {
-      "id": "FSC-7b38cb46965184ac",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "합병가액 산정방식 변경(시가→공정가액) 등 자본시장법 개정에 따른 하위법규 개정예고 실시 ※예고기간 ‘26.9.16일 ~ 10.6일",
-      "url": "https://www.fsc.go.kr/no010101/87715?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-15T00:00:00+09:00",
-      "displayDate": "2026-09-14",
-      "dept": "공정시장과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "6fa717e281e50897976fdb42dabad08b7b965136cff0536fffc07e687da4c395"
-    },
-    {
-      "id": "FSC-bcd178642885b247",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "“아시아에서 가장 역동적인 자본시장을 향한 관문 (Gateway to Asia’s Most Dynamic Capital Market)” 「Korea Premium Weeks 2026」 개최 안내",
-      "url": "https://www.fsc.go.kr/no010101/87714?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-15T00:00:00+09:00",
-      "displayDate": "2026-09-14",
-      "dept": "자본시장과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "92ab94af7379d8e5bbca71ea6b5ab7107b442e68483ea16fd66cf058e73e0528"
-    },
-    {
-      "id": "FSC-6d058fca01434790",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융위원회, 제5차 「금융업권 생산적 금융협의체」 개최 - 지주사, 보험사, 증권사, 정책금융기관과 생산적 금융 Fact book 등 생산적 금융 내재화 방안 논의",
-      "url": "https://www.fsc.go.kr/no010101/87711?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-15T00:00:00+09:00",
-      "displayDate": "2026-09-14",
-      "dept": "금융정책과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "f964490f609ea98ec0396d359ce1eb1156f218243cbcd238d67b17748f62ff60"
-    },
     {
       "id": "FSS-d1934fb9bf07cf2a",
       "source": "FSS",
@@ -178,51 +118,6 @@
       "hash": "9cc5022d374ca986cbf5ad177430cc01ee511adfb857c87ae1a941a462db3e9d"
     },
     {
-      "id": "FSC-973d3ce8d9ca7365",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "기후금융 협업체계를 강화하여 우리경제 탄소감축과 녹색전환을 충실히 지원하겠습니다. - ｢기후금융 관계기관 TF｣ 제1차 회의 개최",
-      "url": "https://www.fsc.go.kr/no010101/87708?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-14T00:00:00+09:00",
-      "displayDate": "2026-09-13",
-      "dept": "산업금융과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "c488009ae73ca1936357badcde05f022ab3f0cd23c2dbe48c300fb1add108eb6"
-    },
-    {
-      "id": "FSC-fc7f7c3f31d02d46",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "추석 연휴에도 국민 여러분의 금융이용 불편이 없도록 최선을 다하겠습니다.",
-      "url": "https://www.fsc.go.kr/no010101/87706?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-14T00:00:00+09:00",
-      "displayDate": "2026-09-13",
-      "dept": "은행과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "97ed32456ff5b559f5529fda329f6a19fc18988bc25fa199e96edce6fc4ebd1e"
-    },
-    {
-      "id": "FSC-e5b1f788fcc42f13",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "’26년 3분기 혁신금융서비스 지정 정기신청 개시",
-      "url": "https://www.fsc.go.kr/no010101/87705?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-14T00:00:00+09:00",
-      "displayDate": "2026-09-13",
-      "dept": "디지털금융총괄과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "2f98cc8b09305ffb2713ec9372f5e769726be181d632b50dbc6cf2b20adcc628"
-    },
-    {
       "id": "FSS-1776fa11593f64c3",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -283,36 +178,6 @@
       "hash": "23f93716e336afb1adfa479a2820b5e5d79aa1378bb1d56c58ea8a42b2633ad2"
     },
     {
-      "id": "FSC-bd13f6d55f3f6ef5",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "“당일 대출·무서류” 추석 급전을 노린 불법사금융입니다 - 명절 급전 수요를 노린 불법사금융 주의 - - 불법사금융 피해예방 수칙 및 원스톱 지원 이용방법 안내",
-      "url": "https://www.fsc.go.kr/no010101/87702?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-11T00:00:00+09:00",
-      "displayDate": "2026-09-10",
-      "dept": "가계금융과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "0e0adbeca7a63f037b0479ad6a3c042462644719c5999bcdc2ef4066a3389f51"
-    },
-    {
-      "id": "FSC-145894c27c006b84",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "IFRS17 체계下 계리가정 보고서 도입으로 보험부채 평가의 합리성과 신뢰성을 제고하겠습니다.",
-      "url": "https://www.fsc.go.kr/no010101/87701?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-11T00:00:00+09:00",
-      "displayDate": "2026-09-10",
-      "dept": "보험과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "e150a968ce0f003ac2a3c8e0ff46b0a9843f9180b9662164f896bac337718a87"
-    },
-    {
       "id": "FSS-20bb13aff31c29da",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -326,21 +191,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "3f1afc6d6f054b13f3f0ffb5f798bd6be6aa1146b10005097a9f86e4c04fcc39"
-    },
-    {
-      "id": "FSC-d750420cedc5aa18",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "PF보증이 주택공급으로 이억원 금융위원장, 김포 PF사업장 방문",
-      "url": "https://www.fsc.go.kr/no010101/87690?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-10T00:00:00+09:00",
-      "displayDate": "2026-09-09",
-      "dept": "금융정책과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "bf3e043c2b83334b04591b961f35690b061d72acf44986efd1bd04cc9fb30829"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T17:14:31+09:00",
+  "generatedAt": "2026-09-15T17:44:40+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-15T17:14:31+09:00",
+        "lastSuccessAt": "2026-09-15T17:44:40+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-15T17:14:31+09:00",
+        "lastSuccessAt": "2026-09-15T17:44:40+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-15T17:14:31+09:00",
+        "lastSuccessAt": "2026-09-15T17:44:40+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-15T17:14:31+09:00",
+        "lastSuccessAt": "2026-09-15T17:44:40+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-15T17:14:31+09:00",
+        "lastSuccessAt": "2026-09-15T17:44:40+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 20
   },
   "items": [
+    {
+      "id": "FSC-e98f61c51c6840b8",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이억원 금융위원장, 독일 연방하원 재정위원회 위원장 면담. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87716?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-15T00:00:00+09:00",
+      "displayDate": "2026-09-14",
+      "dept": "글로벌금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "4557f1e5e3f4172d0ac5d21db9e7204c3937e6cf9cb0d2ace951f3f72da3f213"
+    },
     {
       "id": "FSC-7b38cb46965184ac",
       "source": "FSC",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "bf3e043c2b83334b04591b961f35690b061d72acf44986efd1bd04cc9fb30829"
-    },
-    {
-      "id": "FSC-5f1c28667ad32b74",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제15차 금융위원회(’26.9.9.) 조치 의결",
-      "url": "https://www.fsc.go.kr/no010101/87687?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-09T00:00:00+09:00",
-      "displayDate": "2026-09-08",
-      "dept": "회계제도팀",
-      "isNew": false,
-      "attachments": [],
-      "hash": "1240ea532ed95fe7a0eed7c008a022a0b62370f8bb8360048e14c0cc938ed716"
     }
   ]
 }

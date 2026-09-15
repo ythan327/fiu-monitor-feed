@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-15T13:44:46+09:00",
+  "generatedAt": "2026-09-15T14:13:39+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "partial",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "error",
         "label": "금융위",
-        "lastAttemptAt": "2026-09-15T13:44:46+09:00",
+        "lastAttemptAt": "2026-09-15T14:13:39+09:00",
         "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fsc.go.kr/no010101\", waiting until \"networkidle\"\n"
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-15T13:44:46+09:00",
+        "lastSuccessAt": "2026-09-15T14:13:39+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "error",
         "label": "FIU 보도자료",
-        "lastAttemptAt": "2026-09-15T13:44:46+09:00",
+        "lastAttemptAt": "2026-09-15T14:13:39+09:00",
         "message": "fetch failed"
       },
       "FIU_NOTICE": {
         "status": "error",
         "label": "FIU 공지사항",
-        "lastAttemptAt": "2026-09-15T13:44:46+09:00",
+        "lastAttemptAt": "2026-09-15T14:13:39+09:00",
         "message": "fetch failed"
       },
       "FIU_SANCTIONS": {
         "status": "error",
         "label": "FIU 제재공시",
-        "lastAttemptAt": "2026-09-15T13:44:46+09:00",
+        "lastAttemptAt": "2026-09-15T14:13:39+09:00",
         "message": "fetch failed"
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 10
   },
   "items": [
+    {
+      "id": "FSS-d1934fb9bf07cf2a",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금감원장, 임원회의(9.15.) 당부사항",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=228620&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-15T00:00:00+09:00",
+      "displayDate": "2026-09-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "3f484cafa6a1ebdb044923b345cede78d23177d6ed10be594e7c259f32bf9ef6"
+    },
     {
       "id": "FSS-9bdeb3d26976940e",
       "source": "FSS",
@@ -176,21 +191,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "3f1afc6d6f054b13f3f0ffb5f798bd6be6aa1146b10005097a9f86e4c04fcc39"
-    },
-    {
-      "id": "FSS-05ba70a64f8131bc",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "2026년 2분기 자산운용회사 영업실적(잠정)",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=227746&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-11T00:00:00+09:00",
-      "displayDate": "2026-09-10",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "25f09179db7a40282a19903c18e12fbcef268d9ae0a0b3e67c8bed2f391cbaba"
     }
   ]
 }

@@ -1,163 +1,47 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T21:16:31+09:00",
+  "generatedAt": "2026-09-16T21:47:23+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "ok",
+    "overall": "partial",
     "sources": {
       "FSC": {
-        "status": "ok",
+        "status": "error",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-16T21:16:31+09:00",
-        "itemCount": 10
+        "lastAttemptAt": "2026-09-16T21:47:23+09:00",
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fsc.go.kr/no010101\", waiting until \"networkidle\"\n"
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-16T21:16:31+09:00",
+        "lastSuccessAt": "2026-09-16T21:47:23+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-16T21:16:31+09:00",
-        "itemCount": 1
+        "lastAttemptAt": "2026-09-16T21:47:23+09:00",
+        "message": "fetch failed"
       },
       "FIU_NOTICE": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-16T21:16:31+09:00",
-        "itemCount": 0
+        "lastAttemptAt": "2026-09-16T21:47:23+09:00",
+        "message": "fetch failed"
       },
       "FIU_SANCTIONS": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-16T21:16:31+09:00",
-        "itemCount": 0
+        "lastAttemptAt": "2026-09-16T21:47:23+09:00",
+        "message": "fetch failed"
       }
     }
   },
   "counts": {
     "newSinceLastFeed": 0,
-    "totalVisible": 21
+    "totalVisible": 10
   },
   "items": [
-    {
-      "id": "FIU-REPORT-416",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "「국가 AML 전략과 정책운영방향」 발표",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=416&seCd=0001",
-      "publishedAt": "2026-09-16T16:31:11+09:00",
-      "displayDate": "2026-09-16",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "260916 (보도자료) 국가 AML 전략과 정책운영방향 발표_FN.hwpx",
-          "type": "application/octet-stream",
-          "size": 278757
-        },
-        {
-          "name": "260916(별첨) 국가 AML 전략 및 정책_대테러위원회 안건.hwpx",
-          "type": "application/octet-stream",
-          "size": 2937156
-        }
-      ],
-      "hash": "7294f1378d30d3e0fa1634d828c720f3129c0de0b82b3b0321b0a4d811f8f32a"
-    },
-    {
-      "id": "FSC-3ffea6afb01c04f2",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "내부자 등 미공개중요정보를 이용한 행위자에 대한 검찰 고발·통보 및 과징금 부과(4건) - 제16차 증권선물위원회(9.16.) 의결. 금일 등록된 게시글",
-      "url": "https://www.fsc.go.kr/no010101/87729?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-16T00:00:00+09:00",
-      "displayDate": "2026-09-15",
-      "dept": "자본시장조사총괄과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "c229e254ae1051e89fdc93fa420215fd5ad3f2461ef13c6b1157255962c1b4b6"
-    },
-    {
-      "id": "FSC-14704209b87c8ee7",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "「국가 자금세탁·테러자금조달·확산금융방지 전략 및 정책 운영방향」 발표. 금일 등록된 게시글",
-      "url": "https://www.fsc.go.kr/no010101/87728?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-16T00:00:00+09:00",
-      "displayDate": "2026-09-15",
-      "dept": "금융정보분석원 기획행정실",
-      "isNew": false,
-      "attachments": [],
-      "hash": "5978356ebcd2949c519e5f2b8b2843eaf7f9eb60fb2a8795adc79311c68bcf33"
-    },
-    {
-      "id": "FSC-1c3654feeaea3108",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "PG업권 보안 리스크를 빈틈없이 점검하고 AI 보안위협에도 철저히 대비하겠습니다. - 프런티어 AI 보안위협 금융권 상황대응반 제6차 회의 개최. 금일 등록된 게시글",
-      "url": "https://www.fsc.go.kr/no010101/87727?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-16T00:00:00+09:00",
-      "displayDate": "2026-09-15",
-      "dept": "금융안전과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "9961e7e413a58ea02c38d7337fd40df5b54882a42d5a2c4cd98fc915f89c0f9a"
-    },
-    {
-      "id": "FSC-5545109eb4c30aca",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "10월 7일부터 청년미래적금 2차 가입 신청을 받습니다.. 금일 등록된 게시글",
-      "url": "https://www.fsc.go.kr/no010101/87726?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-16T00:00:00+09:00",
-      "displayDate": "2026-09-15",
-      "dept": "청년정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "01af53100f4b5ebd231f3c76d8d938aa71c612ceb8f6cd1cbf03540a2857d4b8"
-    },
-    {
-      "id": "FSC-6fc2a7cf774f5c78",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "신용정보법 과징금 산정의 투명성과 합리성을 높이도록 하겠습니다. - 신용정보법 과징금 산정기준 개선을 위한 T/F 회의 개최. 금일 등록된 게시글",
-      "url": "https://www.fsc.go.kr/no010101/87722?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-16T00:00:00+09:00",
-      "displayDate": "2026-09-15",
-      "dept": "금융데이터정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ae364d442a5aab2c44a79f81e8061bd259df22eea4dfa47b8d5f672af8f4f0c5"
-    },
-    {
-      "id": "FSC-722c281580a91085",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융위원장-카자흐 ARDFM 청장 면담 및 한-카자흐 금융협력세미나 개최. 금일 등록된 게시글",
-      "url": "https://www.fsc.go.kr/no010101/87721?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-16T00:00:00+09:00",
-      "displayDate": "2026-09-15",
-      "dept": "글로벌금융과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "443a98d2ff4e26abfb0d51e57659e211c43e0b3709957a1e15b6caadb0eed3f5"
-    },
     {
       "id": "FSS-f748684769d584c1",
       "source": "FSS",
@@ -262,66 +146,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "bc352685d939f538144fabb02252c820f2fe2d146bb50753ce98ca6caf79bc0b"
-    },
-    {
-      "id": "FSC-e98f61c51c6840b8",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "이억원 금융위원장, 독일 연방하원 재정위원회 위원장 면담",
-      "url": "https://www.fsc.go.kr/no010101/87716?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-15T00:00:00+09:00",
-      "displayDate": "2026-09-14",
-      "dept": "글로벌금융과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "17d4327be6a37fec9d88c6ccd55f765b173ec118c386afb2e1856165c61ea358"
-    },
-    {
-      "id": "FSC-7b38cb46965184ac",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "합병가액 산정방식 변경(시가→공정가액) 등 자본시장법 개정에 따른 하위법규 개정예고 실시 ※예고기간 ‘26.9.16일 ~ 10.6일",
-      "url": "https://www.fsc.go.kr/no010101/87715?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-15T00:00:00+09:00",
-      "displayDate": "2026-09-14",
-      "dept": "공정시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "6fa717e281e50897976fdb42dabad08b7b965136cff0536fffc07e687da4c395"
-    },
-    {
-      "id": "FSC-bcd178642885b247",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "“아시아에서 가장 역동적인 자본시장을 향한 관문 (Gateway to Asia’s Most Dynamic Capital Market)” 「Korea Premium Weeks 2026」 개최 안내",
-      "url": "https://www.fsc.go.kr/no010101/87714?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-15T00:00:00+09:00",
-      "displayDate": "2026-09-14",
-      "dept": "자본시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "92ab94af7379d8e5bbca71ea6b5ab7107b442e68483ea16fd66cf058e73e0528"
-    },
-    {
-      "id": "FSC-6d058fca01434790",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융위원회, 제5차 「금융업권 생산적 금융협의체」 개최 - 지주사, 보험사, 증권사, 정책금융기관과 생산적 금융 Fact book 등 생산적 금융 내재화 방안 논의",
-      "url": "https://www.fsc.go.kr/no010101/87711?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-15T00:00:00+09:00",
-      "displayDate": "2026-09-14",
-      "dept": "금융정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f964490f609ea98ec0396d359ce1eb1156f218243cbcd238d67b17748f62ff60"
     },
     {
       "id": "FSS-d1934fb9bf07cf2a",

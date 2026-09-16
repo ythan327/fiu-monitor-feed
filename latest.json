@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T23:42:28+09:00",
+  "generatedAt": "2026-09-17T00:12:44+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-16T23:42:28+09:00",
+        "lastSuccessAt": "2026-09-17T00:12:44+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-16T23:42:28+09:00",
+        "lastSuccessAt": "2026-09-17T00:12:44+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-16T23:42:28+09:00",
+        "lastSuccessAt": "2026-09-17T00:12:44+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-16T23:42:28+09:00",
+        "lastSuccessAt": "2026-09-17T00:12:44+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-16T23:42:28+09:00",
+        "lastSuccessAt": "2026-09-17T00:12:44+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 11,
+    "newSinceLastFeed": 0,
     "totalVisible": 21
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-09-16T16:31:11+09:00",
       "displayDate": "2026-09-16",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "260916 (보도자료) 국가 AML 전략과 정책운영방향 발표_FN.hwpx",
@@ -74,14 +74,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "내부자 등 미공개중요정보를 이용한 행위자에 대한 검찰 고발·통보 및 과징금 부과(4건) - 제16차 증권선물위원회(9.16.) 의결. 금일 등록된 게시글",
+      "title": "내부자 등 미공개중요정보를 이용한 행위자에 대한 검찰 고발·통보 및 과징금 부과(4건) - 제16차 증권선물위원회(9.16.) 의결",
       "url": "https://www.fsc.go.kr/no010101/87729?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-16T00:00:00+09:00",
       "displayDate": "2026-09-15",
       "dept": "자본시장조사총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "c229e254ae1051e89fdc93fa420215fd5ad3f2461ef13c6b1157255962c1b4b6"
+      "hash": "0dbd652703b46b7772422651ddaf8881db38314eb7e9b182cc07140b2b1233d2"
     },
     {
       "id": "FSC-14704209b87c8ee7",
@@ -89,14 +89,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "「국가 자금세탁·테러자금조달·확산금융방지 전략 및 정책 운영방향」 발표. 금일 등록된 게시글",
+      "title": "「국가 자금세탁·테러자금조달·확산금융방지 전략 및 정책 운영방향」 발표",
       "url": "https://www.fsc.go.kr/no010101/87728?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-16T00:00:00+09:00",
       "displayDate": "2026-09-15",
       "dept": "금융정보분석원 기획행정실",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "5978356ebcd2949c519e5f2b8b2843eaf7f9eb60fb2a8795adc79311c68bcf33"
+      "hash": "ea1484b0dbc895df76eba0c239d92e14e6af2ee2f76db36e67a5b91559a67f7d"
     },
     {
       "id": "FSC-1c3654feeaea3108",
@@ -104,14 +104,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "PG업권 보안 리스크를 빈틈없이 점검하고 AI 보안위협에도 철저히 대비하겠습니다. - 프런티어 AI 보안위협 금융권 상황대응반 제6차 회의 개최. 금일 등록된 게시글",
+      "title": "PG업권 보안 리스크를 빈틈없이 점검하고 AI 보안위협에도 철저히 대비하겠습니다. - 프런티어 AI 보안위협 금융권 상황대응반 제6차 회의 개최",
       "url": "https://www.fsc.go.kr/no010101/87727?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-16T00:00:00+09:00",
       "displayDate": "2026-09-15",
       "dept": "금융안전과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "9961e7e413a58ea02c38d7337fd40df5b54882a42d5a2c4cd98fc915f89c0f9a"
+      "hash": "31bb81c1b02f029785151eabd7eaa1714f037ad363df392f404a3b0fcf16b7b5"
     },
     {
       "id": "FSC-5545109eb4c30aca",
@@ -119,14 +119,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "10월 7일부터 청년미래적금 2차 가입 신청을 받습니다.. 금일 등록된 게시글",
+      "title": "10월 7일부터 청년미래적금 2차 가입 신청을 받습니다.",
       "url": "https://www.fsc.go.kr/no010101/87726?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-16T00:00:00+09:00",
       "displayDate": "2026-09-15",
       "dept": "청년정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "01af53100f4b5ebd231f3c76d8d938aa71c612ceb8f6cd1cbf03540a2857d4b8"
+      "hash": "4ad9774a29dae4772c8fdf6f926998d9c02a90df369ca1b71e478a603f90adc5"
     },
     {
       "id": "FSC-6fc2a7cf774f5c78",
@@ -134,14 +134,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "신용정보법 과징금 산정의 투명성과 합리성을 높이도록 하겠습니다. - 신용정보법 과징금 산정기준 개선을 위한 T/F 회의 개최. 금일 등록된 게시글",
+      "title": "신용정보법 과징금 산정의 투명성과 합리성을 높이도록 하겠습니다. - 신용정보법 과징금 산정기준 개선을 위한 T/F 회의 개최",
       "url": "https://www.fsc.go.kr/no010101/87722?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-16T00:00:00+09:00",
       "displayDate": "2026-09-15",
       "dept": "금융데이터정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "ae364d442a5aab2c44a79f81e8061bd259df22eea4dfa47b8d5f672af8f4f0c5"
+      "hash": "0ac2bdea3a1337260eb9c11c71ef9b3fc6bbe3409f2b84fe1107445c3b3e4214"
     },
     {
       "id": "FSC-722c281580a91085",
@@ -149,14 +149,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "금융위원장-카자흐 ARDFM 청장 면담 및 한-카자흐 금융협력세미나 개최. 금일 등록된 게시글",
+      "title": "금융위원장-카자흐 ARDFM 청장 면담 및 한-카자흐 금융협력세미나 개최",
       "url": "https://www.fsc.go.kr/no010101/87721?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-16T00:00:00+09:00",
       "displayDate": "2026-09-15",
       "dept": "글로벌금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "443a98d2ff4e26abfb0d51e57659e211c43e0b3709957a1e15b6caadb0eed3f5"
+      "hash": "e4509038408aa6a03819d885805c2350897562f0bd7d1a0ea0241f561c1f81de"
     },
     {
       "id": "FSS-f748684769d584c1",
@@ -274,7 +274,7 @@
       "publishedAt": "2026-09-15T00:00:00+09:00",
       "displayDate": "2026-09-14",
       "dept": "글로벌금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "17d4327be6a37fec9d88c6ccd55f765b173ec118c386afb2e1856165c61ea358"
     },
@@ -289,7 +289,7 @@
       "publishedAt": "2026-09-15T00:00:00+09:00",
       "displayDate": "2026-09-14",
       "dept": "공정시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "6fa717e281e50897976fdb42dabad08b7b965136cff0536fffc07e687da4c395"
     },
@@ -304,7 +304,7 @@
       "publishedAt": "2026-09-15T00:00:00+09:00",
       "displayDate": "2026-09-14",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "92ab94af7379d8e5bbca71ea6b5ab7107b442e68483ea16fd66cf058e73e0528"
     },
@@ -319,7 +319,7 @@
       "publishedAt": "2026-09-15T00:00:00+09:00",
       "displayDate": "2026-09-14",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "f964490f609ea98ec0396d359ce1eb1156f218243cbcd238d67b17748f62ff60"
     },

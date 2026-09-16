@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T17:43:49+09:00",
+  "generatedAt": "2026-09-16T18:13:07+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-16T17:43:49+09:00",
+        "lastSuccessAt": "2026-09-16T18:13:07+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-16T17:43:49+09:00",
+        "lastSuccessAt": "2026-09-16T18:13:07+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-16T17:43:49+09:00",
+        "lastSuccessAt": "2026-09-16T18:13:07+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-16T17:43:49+09:00",
+        "lastSuccessAt": "2026-09-16T18:13:07+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-16T17:43:49+09:00",
+        "lastSuccessAt": "2026-09-16T18:13:07+09:00",
         "itemCount": 0
       }
     }
@@ -79,7 +79,7 @@
       "publishedAt": "2026-09-16T00:00:00+09:00",
       "displayDate": "2026-09-15",
       "dept": "자본시장조사총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c229e254ae1051e89fdc93fa420215fd5ad3f2461ef13c6b1157255962c1b4b6"
     },
@@ -157,6 +157,21 @@
       "isNew": false,
       "attachments": [],
       "hash": "443a98d2ff4e26abfb0d51e57659e211c43e0b3709957a1e15b6caadb0eed3f5"
+    },
+    {
+      "id": "FSS-60d5974f2cfb82db",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "내부자 등 미공개중요정보를 이용한 행위자에 대한 검찰 고발, 통보 및 과징금 부과(4건)",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=228868&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-16T00:00:00+09:00",
+      "displayDate": "2026-09-15",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ebf488cbe41008aa51c25bbe8f306b06a971a15f18647233eda5d277f8b6a630"
     },
     {
       "id": "FSS-89f4177dc1010fca",
@@ -352,21 +367,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "2096494ce9adaf7ba5c140066e5a9692ddf09bb35f418e76d4ce92517bd19e88"
-    },
-    {
-      "id": "FSS-1b854ece2b8dccc1",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "2026년 상반기 자동차보험 사업실적(잠정)",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=228597&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-15T00:00:00+09:00",
-      "displayDate": "2026-09-14",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "9cc5022d374ca986cbf5ad177430cc01ee511adfb857c87ae1a941a462db3e9d"
     }
   ]
 }

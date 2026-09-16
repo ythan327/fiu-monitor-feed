@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-16T14:41:46+09:00",
+  "generatedAt": "2026-09-16T15:16:41+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-16T14:41:45+09:00",
+        "lastSuccessAt": "2026-09-16T15:16:41+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-16T14:41:46+09:00",
+        "lastSuccessAt": "2026-09-16T15:16:41+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-16T14:41:46+09:00",
+        "lastSuccessAt": "2026-09-16T15:16:41+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-16T14:41:46+09:00",
+        "lastSuccessAt": "2026-09-16T15:16:41+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-16T14:41:46+09:00",
+        "lastSuccessAt": "2026-09-16T15:16:41+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 20
   },
   "items": [
@@ -71,6 +71,21 @@
       "isNew": false,
       "attachments": [],
       "hash": "443a98d2ff4e26abfb0d51e57659e211c43e0b3709957a1e15b6caadb0eed3f5"
+    },
+    {
+      "id": "FSS-89f4177dc1010fca",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "PG업권 보안 리스크를 빈틈없이 점검하고 AI 보안위협에도 철저히 대비하겠습니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=228839&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-16T00:00:00+09:00",
+      "displayDate": "2026-09-15",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "519f4c16e2982c25e556b3cbd663473a807b889f6bef9d1eab3b9061dea2f616"
     },
     {
       "id": "FSS-f3b7c940a06cbb8d",
@@ -311,21 +326,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "2f98cc8b09305ffb2713ec9372f5e769726be181d632b50dbc6cf2b20adcc628"
-    },
-    {
-      "id": "FSS-1776fa11593f64c3",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "보험권 소비자보호,보상담당 부서장 확대 간담회 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=228414&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-14T00:00:00+09:00",
-      "displayDate": "2026-09-13",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "b148799624d247ab642fb77332c1711484cd64fd6d46b73722ad8a09f97aa123"
     },
     {
       "id": "FSC-bd13f6d55f3f6ef5",

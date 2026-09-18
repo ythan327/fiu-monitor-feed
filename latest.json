@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T23:41:38+09:00",
+  "generatedAt": "2026-09-19T00:12:10+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-18T23:41:38+09:00",
+        "lastSuccessAt": "2026-09-19T00:12:10+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-18T23:41:38+09:00",
+        "lastSuccessAt": "2026-09-19T00:12:10+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-18T23:41:38+09:00",
+        "lastSuccessAt": "2026-09-19T00:12:10+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-18T23:41:38+09:00",
+        "lastSuccessAt": "2026-09-19T00:12:10+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-18T23:41:38+09:00",
+        "lastSuccessAt": "2026-09-19T00:12:10+09:00",
         "itemCount": 0
       }
     }
@@ -100,14 +100,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "금융정보분석원, 타지키스탄 국립은행과 정보교환 협력을 위한 양해각서(MOU) 체결. 금일 등록된 게시글",
+      "title": "금융정보분석원, 타지키스탄 국립은행과 정보교환 협력을 위한 양해각서(MOU) 체결",
       "url": "https://www.fsc.go.kr/no010101/87745?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-18T00:00:00+09:00",
       "displayDate": "2026-09-17",
       "dept": "금융정보분석원 기획행정실",
       "isNew": false,
       "attachments": [],
-      "hash": "ed090d44823911d56d06e2de8cf159c3bb46ba4730915549a0bb9832fa9a4078"
+      "hash": "e63e9fa19a16e0feaf65cc5a6476ecc4dce518510ed580743193c4efb17a29c2"
     },
     {
       "id": "FSS-f922a40a15642cec",

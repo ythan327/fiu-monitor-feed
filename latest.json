@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T05:39:45+09:00",
+  "generatedAt": "2026-09-21T06:12:06+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-21T05:39:45+09:00",
+        "lastSuccessAt": "2026-09-21T06:12:06+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-21T05:39:45+09:00",
+        "lastSuccessAt": "2026-09-21T06:12:06+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-21T05:39:45+09:00",
+        "lastSuccessAt": "2026-09-21T06:12:06+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-21T05:39:45+09:00",
+        "lastSuccessAt": "2026-09-21T06:12:06+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-21T05:39:45+09:00",
+        "lastSuccessAt": "2026-09-21T06:12:06+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 13,
+    "newSinceLastFeed": 1,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSS-289c68ec23e6730b",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "주요 민원사례로 알아보는 은행 이용시 소비자 유의사항",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230013&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-21T00:00:00+09:00",
+      "displayDate": "2026-09-20",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "791c1ffc08e57fd7b53162bc09114865e579c34116b716bff35b4921abee3333"
+    },
     {
       "id": "FSS-1d3222cb4bd46599",
       "source": "FSS",
@@ -68,7 +83,7 @@
       "publishedAt": "2026-09-18T15:20:38+09:00",
       "displayDate": "2026-09-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "'26년 자금세탁방지의 날 정부포상 후보 공개검증.hwpx",
@@ -94,7 +109,7 @@
       "publishedAt": "2026-09-18T13:51:38+09:00",
       "displayDate": "2026-09-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "260917보도자료(타직 중앙은행과의 MOU 체결).hwpx",
@@ -120,7 +135,7 @@
       "publishedAt": "2026-09-18T00:00:00+09:00",
       "displayDate": "2026-09-17",
       "dept": "금융정보분석원 기획행정실",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e63e9fa19a16e0feaf65cc5a6476ecc4dce518510ed580743193c4efb17a29c2"
     },
@@ -180,7 +195,7 @@
       "publishedAt": "2026-09-17T00:00:00+09:00",
       "displayDate": "2026-09-16",
       "dept": "국민성장펀드총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "cf9a324bd4c26047ba3903fc1f4bfd6aa91af45e1b326b5b42b4a14e058a4022"
     },
@@ -195,7 +210,7 @@
       "publishedAt": "2026-09-17T00:00:00+09:00",
       "displayDate": "2026-09-16",
       "dept": "가계금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "18e8a330add2f6a3d9a0ab09766091c0a9967b969d328ae1cdd749ca45ebd7e5"
     },
@@ -210,7 +225,7 @@
       "publishedAt": "2026-09-17T00:00:00+09:00",
       "displayDate": "2026-09-16",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "498be41ad81ee12f0527b2285487c7715d88366364da1b5e6dfb8844c2b8cd4a"
     },
@@ -225,7 +240,7 @@
       "publishedAt": "2026-09-17T00:00:00+09:00",
       "displayDate": "2026-09-16",
       "dept": "중소금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "141a171d5b0368722f247f9e3ef679c89bdcc9498b58dcb7b0901d7be4c6eafc"
     },
@@ -240,7 +255,7 @@
       "publishedAt": "2026-09-17T00:00:00+09:00",
       "displayDate": "2026-09-16",
       "dept": "회계제도팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c69706c87fa107630037406cd28b145d89b39324e5c7321d8ea8cf5f7e283a84"
     },
@@ -300,7 +315,7 @@
       "publishedAt": "2026-09-16T16:31:11+09:00",
       "displayDate": "2026-09-16",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "260916 (보도자료) 국가 AML 전략과 정책운영방향 발표_FN.hwpx",
@@ -326,7 +341,7 @@
       "publishedAt": "2026-09-16T00:00:00+09:00",
       "displayDate": "2026-09-15",
       "dept": "자본시장조사총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0dbd652703b46b7772422651ddaf8881db38314eb7e9b182cc07140b2b1233d2"
     },
@@ -341,7 +356,7 @@
       "publishedAt": "2026-09-16T00:00:00+09:00",
       "displayDate": "2026-09-15",
       "dept": "금융정보분석원 기획행정실",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "ea1484b0dbc895df76eba0c239d92e14e6af2ee2f76db36e67a5b91559a67f7d"
     },
@@ -356,7 +371,7 @@
       "publishedAt": "2026-09-16T00:00:00+09:00",
       "displayDate": "2026-09-15",
       "dept": "금융안전과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "31bb81c1b02f029785151eabd7eaa1714f037ad363df392f404a3b0fcf16b7b5"
     },
@@ -371,7 +386,7 @@
       "publishedAt": "2026-09-16T00:00:00+09:00",
       "displayDate": "2026-09-15",
       "dept": "청년정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "4ad9774a29dae4772c8fdf6f926998d9c02a90df369ca1b71e478a603f90adc5"
     },
@@ -404,21 +419,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "ebf488cbe41008aa51c25bbe8f306b06a971a15f18647233eda5d277f8b6a630"
-    },
-    {
-      "id": "FSS-89f4177dc1010fca",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "PG업권 보안 리스크를 빈틈없이 점검하고 AI 보안위협에도 철저히 대비하겠습니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=228839&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-16T00:00:00+09:00",
-      "displayDate": "2026-09-15",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "519f4c16e2982c25e556b3cbd663473a807b889f6bef9d1eab3b9061dea2f616"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-22T05:39:36+09:00",
+  "generatedAt": "2026-09-22T06:12:16+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-22T05:39:36+09:00",
+        "lastSuccessAt": "2026-09-22T06:12:16+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-22T05:39:36+09:00",
+        "lastSuccessAt": "2026-09-22T06:12:16+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-22T05:39:36+09:00",
+        "lastSuccessAt": "2026-09-22T06:12:16+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-22T05:39:36+09:00",
+        "lastSuccessAt": "2026-09-22T06:12:16+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-22T05:39:36+09:00",
+        "lastSuccessAt": "2026-09-22T06:12:16+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSS-7dd8fcba3ee9ac98",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "'26.7월말 국내은행의 원화대출 연체율 현황[잠정]",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230298&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-22T00:00:00+09:00",
+      "displayDate": "2026-09-21",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5da0d3ff9ab3436584f63b91aeca64a5dfedc67824f5d40b069dbadb79a4b8a5"
+    },
     {
       "id": "FSC-45778c90f22eba3c",
       "source": "FSC",
@@ -363,21 +378,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "514357ebde29a57a0ea032d4b7e793e54d6e3dbdc6b95be0ac9de155338d0318"
-    },
-    {
-      "id": "FSS-e1bb3b891d6c8a32",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금감원, 금융상황 점검회의 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=229066&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-17T00:00:00+09:00",
-      "displayDate": "2026-09-16",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "188d144e8f48418fe5c57bb6c72e2968e03e090872ed6ab9e951b0baae17bff5"
     },
     {
       "id": "FIU-REPORT-416",

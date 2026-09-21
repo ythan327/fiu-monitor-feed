@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-21T11:41:30+09:00",
+  "generatedAt": "2026-09-21T12:13:07+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-21T11:41:30+09:00",
+        "lastSuccessAt": "2026-09-21T12:13:07+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-21T11:41:30+09:00",
+        "lastSuccessAt": "2026-09-21T12:13:07+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-21T11:41:30+09:00",
+        "lastSuccessAt": "2026-09-21T12:13:07+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-21T11:41:30+09:00",
+        "lastSuccessAt": "2026-09-21T12:13:07+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-21T11:41:30+09:00",
+        "lastSuccessAt": "2026-09-21T12:13:07+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 2,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSS-84151759cbacaa06",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "풍성해야 할 한가위, ‘가짜 투자’에 눈물 흘리지 않으려면「",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230052&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-21T00:00:00+09:00",
+      "displayDate": "2026-09-20",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "886b2bc389151e54dbdfe848647ad47145e276bbd52355a107cb0f66b059b7e9"
+    },
+    {
+      "id": "FSS-1279a71aafc8ae54",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "무료 강연, 박람회에서 보험 가입 시 소비자 유의사항",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230051&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-21T00:00:00+09:00",
+      "displayDate": "2026-09-20",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "040104c9c0df31aeb1b42bbedcb1a5e53495bc231e9d58a456e4257913410ce3"
+    },
     {
       "id": "FSS-6fca1e3dcd1cba4d",
       "source": "FSS",
@@ -305,21 +335,6 @@
       "hash": "188d144e8f48418fe5c57bb6c72e2968e03e090872ed6ab9e951b0baae17bff5"
     },
     {
-      "id": "FSS-48af921175035c36",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "부실사업장 정상화를 통한 신속한 주택공급 권대영 금융위 부위원장, 캠코펀드 사업장 방문",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=229065&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-17T00:00:00+09:00",
-      "displayDate": "2026-09-16",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "89e137da4da037152ef8b60c5de6d781c60384de2c75bf856f8fc05c6653f397"
-    },
-    {
       "id": "FIU-REPORT-416",
       "source": "FIU",
       "sourceLabel": "FIU",
@@ -404,21 +419,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "4ad9774a29dae4772c8fdf6f926998d9c02a90df369ca1b71e478a603f90adc5"
-    },
-    {
-      "id": "FSS-f748684769d584c1",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "사업보고서 등에 대한 조사, 감리결과 조치",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=228895&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-16T00:00:00+09:00",
-      "displayDate": "2026-09-15",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "cfc55f9218faa5ff24d5bb9311320eb78a818eb0a11b498ad929a5047549b866"
     }
   ]
 }

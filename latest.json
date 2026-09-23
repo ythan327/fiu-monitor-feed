@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T14:11:41+09:00",
+  "generatedAt": "2026-09-23T14:40:58+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-23T14:11:41+09:00",
+        "lastSuccessAt": "2026-09-23T14:40:58+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-23T14:11:41+09:00",
+        "lastSuccessAt": "2026-09-23T14:40:58+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-23T14:11:41+09:00",
+        "lastSuccessAt": "2026-09-23T14:40:58+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-23T14:11:41+09:00",
+        "lastSuccessAt": "2026-09-23T14:40:58+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-23T14:11:41+09:00",
+        "lastSuccessAt": "2026-09-23T14:40:58+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-9bb1cafbbf66502c",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "신라자산운용(주) 및 제니스투자자문(주)에 대한 금융투자업 인가(등록) 취소 - 제16차 금융위원회(‘26.9.23.) 조치 의결. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87778?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "금융위원회 자산운용과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "d005bbdfc1bde4634d2ce613d941e6abb94a6f10c23d9cc97503850f0b4c9013"
+    },
     {
       "id": "FSC-4471cfb302128dbc",
       "source": "FSC",
@@ -378,21 +393,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "cf9a324bd4c26047ba3903fc1f4bfd6aa91af45e1b326b5b42b4a14e058a4022"
-    },
-    {
-      "id": "FSC-48f092e70c32563d",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "청소년에서 군 장병까지, 도박문제 예방·치유 안전망 확대",
-      "url": "https://www.fsc.go.kr/no010101/87741?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-17T00:00:00+09:00",
-      "displayDate": "2026-09-16",
-      "dept": "가계금융과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "18e8a330add2f6a3d9a0ab09766091c0a9967b969d328ae1cdd749ca45ebd7e5"
     },
     {
       "id": "FIU-REPORT-416",

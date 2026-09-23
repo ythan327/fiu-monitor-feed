@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T09:16:34+09:00",
+  "generatedAt": "2026-09-23T09:44:27+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-23T09:16:34+09:00",
+        "lastSuccessAt": "2026-09-23T09:44:27+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-23T09:16:34+09:00",
+        "lastSuccessAt": "2026-09-23T09:44:27+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-23T09:16:34+09:00",
+        "lastSuccessAt": "2026-09-23T09:44:27+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-23T09:16:34+09:00",
+        "lastSuccessAt": "2026-09-23T09:44:27+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-23T09:16:34+09:00",
+        "lastSuccessAt": "2026-09-23T09:44:27+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 13,
+    "newSinceLastFeed": 2,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-4ddd51ad7d443e8e",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "온라인투자연계금융업의 포용금융 역할 강화와 신뢰 회복을 지원하겠습니다. - 중저신용자 자금공급 활성화를 위한 간담회 개최. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87771?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "디지털금융총괄과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "4501e3c4276b42eacb2599ee460bedcc18b08ed34f6230cd17070609da0b7d94"
+    },
+    {
+      "id": "FSC-85dbde7548da9c11",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융위원장, 「피지컬 AI 지역거점 발전 포럼」 참석, 피지컬 AI 지역거점 지원 의지 강조. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87770?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "산업금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "c4a156562d7574caa942474a41f159a378077bc4b66d38195303e58f76f57e96"
+    },
     {
       "id": "FSS-0526fe535cbd67dc",
       "source": "FSS",
@@ -68,7 +98,7 @@
       "publishedAt": "2026-09-22T00:00:00+09:00",
       "displayDate": "2026-09-21",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "91fc0e298ee2c35fe060e7e23225a9a0c969cc42a11d424b696a0fb67e85d56c"
     },
@@ -143,7 +173,7 @@
       "publishedAt": "2026-09-21T00:00:00+09:00",
       "displayDate": "2026-09-20",
       "dept": "행정인사과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "b3c2f7f2432682731d7a6c7b6ad1ed6d4bef15d490fa74a05e407f5c517e86ef"
     },
@@ -158,7 +188,7 @@
       "publishedAt": "2026-09-21T00:00:00+09:00",
       "displayDate": "2026-09-20",
       "dept": "청년정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "d5f7871045a1e6b431a7771a33c37988254921cf166e8b96493ae43842017371"
     },
@@ -173,7 +203,7 @@
       "publishedAt": "2026-09-21T00:00:00+09:00",
       "displayDate": "2026-09-20",
       "dept": "산업금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "662c235f80bb7d6e07394ae813147066ab8fc4d35b294e2b769c7fe4cb1e7624"
     },
@@ -263,7 +293,7 @@
       "publishedAt": "2026-09-18T15:20:38+09:00",
       "displayDate": "2026-09-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "'26년 자금세탁방지의 날 정부포상 후보 공개검증.hwpx",
@@ -289,7 +319,7 @@
       "publishedAt": "2026-09-18T13:51:38+09:00",
       "displayDate": "2026-09-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "260917보도자료(타직 중앙은행과의 MOU 체결).hwpx",
@@ -315,7 +345,7 @@
       "publishedAt": "2026-09-18T00:00:00+09:00",
       "displayDate": "2026-09-17",
       "dept": "금융정보분석원 기획행정실",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e63e9fa19a16e0feaf65cc5a6476ecc4dce518510ed580743193c4efb17a29c2"
     },
@@ -330,7 +360,7 @@
       "publishedAt": "2026-09-17T00:00:00+09:00",
       "displayDate": "2026-09-16",
       "dept": "국민성장펀드총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "cf9a324bd4c26047ba3903fc1f4bfd6aa91af45e1b326b5b42b4a14e058a4022"
     },
@@ -345,7 +375,7 @@
       "publishedAt": "2026-09-17T00:00:00+09:00",
       "displayDate": "2026-09-16",
       "dept": "가계금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "18e8a330add2f6a3d9a0ab09766091c0a9967b969d328ae1cdd749ca45ebd7e5"
     },
@@ -360,39 +390,9 @@
       "publishedAt": "2026-09-17T00:00:00+09:00",
       "displayDate": "2026-09-16",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "498be41ad81ee12f0527b2285487c7715d88366364da1b5e6dfb8844c2b8cd4a"
-    },
-    {
-      "id": "FSC-0a865a7194d42e54",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "“투자자와 벤처기업, 전문가의 의견을 균형있게 청취하였습니다.” - 신기술금융업권 제3자 연대책임 관련 간담회 개최",
-      "url": "https://www.fsc.go.kr/no010101/87735?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-17T00:00:00+09:00",
-      "displayDate": "2026-09-16",
-      "dept": "중소금융과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "141a171d5b0368722f247f9e3ef679c89bdcc9498b58dcb7b0901d7be4c6eafc"
-    },
-    {
-      "id": "FSC-25445e662d866797",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제16차 증권선물위원회(‘26.9.16.) 조치 의결",
-      "url": "https://www.fsc.go.kr/no010101/87731?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-17T00:00:00+09:00",
-      "displayDate": "2026-09-16",
-      "dept": "회계제도팀",
-      "isNew": true,
-      "attachments": [],
-      "hash": "c69706c87fa107630037406cd28b145d89b39324e5c7321d8ea8cf5f7e283a84"
     },
     {
       "id": "FIU-REPORT-416",
@@ -405,7 +405,7 @@
       "publishedAt": "2026-09-16T16:31:11+09:00",
       "displayDate": "2026-09-16",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "260916 (보도자료) 국가 AML 전략과 정책운영방향 발표_FN.hwpx",

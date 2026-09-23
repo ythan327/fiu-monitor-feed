@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T15:45:57+09:00",
+  "generatedAt": "2026-09-23T16:13:52+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-23T15:45:57+09:00",
+        "lastSuccessAt": "2026-09-23T16:13:52+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-23T15:45:57+09:00",
+        "lastSuccessAt": "2026-09-23T16:13:52+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-23T15:45:57+09:00",
+        "lastSuccessAt": "2026-09-23T16:13:52+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-23T15:45:57+09:00",
+        "lastSuccessAt": "2026-09-23T16:13:52+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-23T15:45:57+09:00",
+        "lastSuccessAt": "2026-09-23T16:13:52+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 5,
+    "newSinceLastFeed": 0,
     "totalVisible": 23
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "가상자산과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e115f66b8b18dc20d8644602a63058759fdea2c4be682d679ee217a623515694"
     },
@@ -68,7 +68,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "35bdcf17b9e6da0f36d26dd59752b41f3ef514bcd232f5aeaa8da14b73408d6a"
     },
@@ -83,7 +83,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "회계제도팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "510fb3235e9b569843146025605197433e92bdc06cc599e57bcc9f390f7dd7cc"
     },
@@ -158,7 +158,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "94a1b5139fffd8ef9e22232913df624deb28d141c2e4cef746e52695924f12b7"
     },
@@ -173,7 +173,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0f5211517c33f64b2ad29b4a3c3417b6f0ac52ca6ef9e7ae8976ea1aa5a7f5e9"
     },

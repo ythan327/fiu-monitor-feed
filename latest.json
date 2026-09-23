@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T09:44:27+09:00",
+  "generatedAt": "2026-09-23T10:11:54+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-23T09:44:27+09:00",
+        "lastSuccessAt": "2026-09-23T10:11:54+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-23T09:44:27+09:00",
+        "lastSuccessAt": "2026-09-23T10:11:54+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-23T09:44:27+09:00",
+        "lastSuccessAt": "2026-09-23T10:11:54+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-23T09:44:27+09:00",
+        "lastSuccessAt": "2026-09-23T10:11:54+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-23T09:44:27+09:00",
+        "lastSuccessAt": "2026-09-23T10:11:54+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 2,
+    "newSinceLastFeed": 0,
     "totalVisible": 23
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "디지털금융총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "4501e3c4276b42eacb2599ee460bedcc18b08ed34f6230cd17070609da0b7d94"
     },
@@ -68,7 +68,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "산업금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c4a156562d7574caa942474a41f159a378077bc4b66d38195303e58f76f57e96"
     },

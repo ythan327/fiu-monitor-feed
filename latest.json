@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T12:42:10+09:00",
+  "generatedAt": "2026-09-23T13:13:24+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-23T12:42:10+09:00",
+        "lastSuccessAt": "2026-09-23T13:13:24+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-23T12:42:10+09:00",
+        "lastSuccessAt": "2026-09-23T13:13:24+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-23T12:42:10+09:00",
+        "lastSuccessAt": "2026-09-23T13:13:24+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-23T12:42:10+09:00",
+        "lastSuccessAt": "2026-09-23T13:13:24+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-23T12:42:10+09:00",
+        "lastSuccessAt": "2026-09-23T13:13:24+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 13,
+    "newSinceLastFeed": 0,
     "totalVisible": 23
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "d17d1e3ae7879f9473c193038751d30264bd3c8a8a6a09a63929feb3375c419d"
     },
@@ -68,7 +68,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "디지털금융총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "4501e3c4276b42eacb2599ee460bedcc18b08ed34f6230cd17070609da0b7d94"
     },
@@ -83,7 +83,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "산업금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c4a156562d7574caa942474a41f159a378077bc4b66d38195303e58f76f57e96"
     },
@@ -113,7 +113,7 @@
       "publishedAt": "2026-09-22T00:00:00+09:00",
       "displayDate": "2026-09-21",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "91fc0e298ee2c35fe060e7e23225a9a0c969cc42a11d424b696a0fb67e85d56c"
     },
@@ -188,7 +188,7 @@
       "publishedAt": "2026-09-21T00:00:00+09:00",
       "displayDate": "2026-09-20",
       "dept": "행정인사과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "b3c2f7f2432682731d7a6c7b6ad1ed6d4bef15d490fa74a05e407f5c517e86ef"
     },
@@ -203,7 +203,7 @@
       "publishedAt": "2026-09-21T00:00:00+09:00",
       "displayDate": "2026-09-20",
       "dept": "청년정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "d5f7871045a1e6b431a7771a33c37988254921cf166e8b96493ae43842017371"
     },
@@ -218,7 +218,7 @@
       "publishedAt": "2026-09-21T00:00:00+09:00",
       "displayDate": "2026-09-20",
       "dept": "산업금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "662c235f80bb7d6e07394ae813147066ab8fc4d35b294e2b769c7fe4cb1e7624"
     },
@@ -308,7 +308,7 @@
       "publishedAt": "2026-09-18T15:20:38+09:00",
       "displayDate": "2026-09-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "'26년 자금세탁방지의 날 정부포상 후보 공개검증.hwpx",
@@ -334,7 +334,7 @@
       "publishedAt": "2026-09-18T13:51:38+09:00",
       "displayDate": "2026-09-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "260917보도자료(타직 중앙은행과의 MOU 체결).hwpx",
@@ -360,7 +360,7 @@
       "publishedAt": "2026-09-18T00:00:00+09:00",
       "displayDate": "2026-09-17",
       "dept": "금융정보분석원 기획행정실",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e63e9fa19a16e0feaf65cc5a6476ecc4dce518510ed580743193c4efb17a29c2"
     },
@@ -375,7 +375,7 @@
       "publishedAt": "2026-09-17T00:00:00+09:00",
       "displayDate": "2026-09-16",
       "dept": "국민성장펀드총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "cf9a324bd4c26047ba3903fc1f4bfd6aa91af45e1b326b5b42b4a14e058a4022"
     },
@@ -390,7 +390,7 @@
       "publishedAt": "2026-09-17T00:00:00+09:00",
       "displayDate": "2026-09-16",
       "dept": "가계금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "18e8a330add2f6a3d9a0ab09766091c0a9967b969d328ae1cdd749ca45ebd7e5"
     },
@@ -405,7 +405,7 @@
       "publishedAt": "2026-09-16T16:31:11+09:00",
       "displayDate": "2026-09-16",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "260916 (보도자료) 국가 AML 전략과 정책운영방향 발표_FN.hwpx",

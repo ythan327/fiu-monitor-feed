@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T14:40:58+09:00",
+  "generatedAt": "2026-09-23T15:16:31+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-23T14:40:58+09:00",
+        "lastSuccessAt": "2026-09-23T15:16:31+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-23T14:40:58+09:00",
+        "lastSuccessAt": "2026-09-23T15:16:31+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-23T14:40:58+09:00",
+        "lastSuccessAt": "2026-09-23T15:16:31+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-23T14:40:58+09:00",
+        "lastSuccessAt": "2026-09-23T15:16:31+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-23T14:40:58+09:00",
+        "lastSuccessAt": "2026-09-23T15:16:31+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
+    "newSinceLastFeed": 2,
     "totalVisible": 23
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "금융위원회 자산운용과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "d005bbdfc1bde4634d2ce613d941e6abb94a6f10c23d9cc97503850f0b4c9013"
     },
@@ -101,6 +101,36 @@
       "isNew": false,
       "attachments": [],
       "hash": "c4a156562d7574caa942474a41f159a378077bc4b66d38195303e58f76f57e96"
+    },
+    {
+      "id": "FSS-8e47e328c92a51d8",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "메리츠증권(주)에 대한 종합금융투자사업자 지정 및 단기금융업 인가",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230566&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5b61c19017a39e324debb6c18466339c66d8f0e1229f7e11bf2127b529893530"
+    },
+    {
+      "id": "FSS-f95561523ddbacd0",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "신라자산운용(주) 및 제니스투자자문(주)에 대한 금융투자업 인가(등록) 취소",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230565&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "da1b2e2b371ad7a50e913abeeff9fa6d9f3abd7e690452fdb98c4ce197682767"
     },
     {
       "id": "FSS-0526fe535cbd67dc",
@@ -281,36 +311,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "75efc83321b41d336c46e13d758800514cf394d949b12a738c6beb07d9da090d"
-    },
-    {
-      "id": "FSS-289c68ec23e6730b",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "주요 민원사례로 알아보는 은행 이용시 소비자 유의사항",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230013&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-21T00:00:00+09:00",
-      "displayDate": "2026-09-20",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "791c1ffc08e57fd7b53162bc09114865e579c34116b716bff35b4921abee3333"
-    },
-    {
-      "id": "FSS-1d3222cb4bd46599",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "추석 명절 전후 보이스피싱 피해에 주의하세요!",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=229732&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-20T00:00:00+09:00",
-      "displayDate": "2026-09-19",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "92269f1ce3443611bd29ba65b99404fc5d02f6c13ed0631600cee603fdf93985"
     },
     {
       "id": "FIU-NOTICE-227",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T16:40:05+09:00",
+  "generatedAt": "2026-09-26T17:13:38+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-26T16:40:05+09:00",
+        "lastSuccessAt": "2026-09-26T17:13:38+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-26T16:40:05+09:00",
+        "lastSuccessAt": "2026-09-26T17:13:38+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-26T16:40:05+09:00",
+        "lastSuccessAt": "2026-09-26T17:13:38+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-26T16:40:05+09:00",
+        "lastSuccessAt": "2026-09-26T17:13:38+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-26T16:40:05+09:00",
+        "lastSuccessAt": "2026-09-26T17:13:38+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 10,
+    "newSinceLastFeed": 0,
     "totalVisible": 23
   },
   "items": [
@@ -158,7 +158,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "94a1b5139fffd8ef9e22232913df624deb28d141c2e4cef746e52695924f12b7"
     },
@@ -173,7 +173,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0f5211517c33f64b2ad29b4a3c3417b6f0ac52ca6ef9e7ae8976ea1aa5a7f5e9"
     },
@@ -188,7 +188,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "5b61c19017a39e324debb6c18466339c66d8f0e1229f7e11bf2127b529893530"
     },
@@ -203,7 +203,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "da1b2e2b371ad7a50e913abeeff9fa6d9f3abd7e690452fdb98c4ce197682767"
     },
@@ -218,7 +218,7 @@
       "publishedAt": "2026-09-23T00:00:00+09:00",
       "displayDate": "2026-09-22",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c1ef0e6b6d0969f0d88e4aeb5aaf859cfeda16907b0b174beebb4e32dc9b2cf0"
     },
@@ -248,7 +248,7 @@
       "publishedAt": "2026-09-22T00:00:00+09:00",
       "displayDate": "2026-09-21",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "da094be4b4abc4381e581b34914c325f86b24e2c560a62df09a7de25fa0aaf2e"
     },
@@ -263,7 +263,7 @@
       "publishedAt": "2026-09-22T00:00:00+09:00",
       "displayDate": "2026-09-21",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "559e0cf1d22ec4a72dce832792032145a7d21c9ebcfb900222734a6efde68f70"
     },
@@ -278,7 +278,7 @@
       "publishedAt": "2026-09-22T00:00:00+09:00",
       "displayDate": "2026-09-21",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "8dd9f677bbcca565f5d456f1e71faabee99af713e93c65e3db0cd4d9366cf723"
     },
@@ -293,7 +293,7 @@
       "publishedAt": "2026-09-22T00:00:00+09:00",
       "displayDate": "2026-09-21",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "5da0d3ff9ab3436584f63b91aeca64a5dfedc67824f5d40b069dbadb79a4b8a5"
     },
@@ -338,7 +338,7 @@
       "publishedAt": "2026-09-21T00:00:00+09:00",
       "displayDate": "2026-09-20",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "a62c1338d9577bed7e3fdf3478df861bae5f9a0b7039606234fa34f958117ae4"
     },

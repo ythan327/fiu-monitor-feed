@@ -1,45 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T16:12:37+09:00",
+  "generatedAt": "2026-09-26T16:40:05+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "partial",
+    "overall": "ok",
     "sources": {
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-26T16:12:37+09:00",
+        "lastSuccessAt": "2026-09-26T16:40:05+09:00",
         "itemCount": 10
       },
       "FSS": {
-        "status": "error",
+        "status": "ok",
         "label": "금감원",
-        "lastAttemptAt": "2026-09-26T16:12:37+09:00",
-        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fss.or.kr/fss/bbs/B0000188/list.do?menuNo=200218\", waiting until \"networkidle\"\n"
+        "lastSuccessAt": "2026-09-26T16:40:05+09:00",
+        "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-26T16:12:37+09:00",
+        "lastSuccessAt": "2026-09-26T16:40:05+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-26T16:12:37+09:00",
+        "lastSuccessAt": "2026-09-26T16:40:05+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-26T16:12:37+09:00",
+        "lastSuccessAt": "2026-09-26T16:40:05+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
-    "totalVisible": 13
+    "newSinceLastFeed": 10,
+    "totalVisible": 23
   },
   "items": [
     {
@@ -148,6 +148,81 @@
       "hash": "9aec4b21a0a8be63f93766795f5cf227b95808c3e59da2c831a6406a01d2b282"
     },
     {
+      "id": "FSS-ee4eb2ba6d8506ea",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "가상자산시장 불공정거래 혐의자 수사기관 고발,통보",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230579&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "94a1b5139fffd8ef9e22232913df624deb28d141c2e4cef746e52695924f12b7"
+    },
+    {
+      "id": "FSS-97bd7e8b228f65cc",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "기업의 가치를 보다 정확히 보여주기 위해 기업의 토지 공시지가가 주석에 공시됩니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230578&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "0f5211517c33f64b2ad29b4a3c3417b6f0ac52ca6ef9e7ae8976ea1aa5a7f5e9"
+    },
+    {
+      "id": "FSS-8e47e328c92a51d8",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "메리츠증권(주)에 대한 종합금융투자사업자 지정 및 단기금융업 인가",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230566&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5b61c19017a39e324debb6c18466339c66d8f0e1229f7e11bf2127b529893530"
+    },
+    {
+      "id": "FSS-f95561523ddbacd0",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "신라자산운용(주) 및 제니스투자자문(주)에 대한 금융투자업 인가(등록) 취소",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230565&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "da1b2e2b371ad7a50e913abeeff9fa6d9f3abd7e690452fdb98c4ce197682767"
+    },
+    {
+      "id": "FSS-0526fe535cbd67dc",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이찬진 금융감독원장, 은행지주회장 간담회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230549&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "c1ef0e6b6d0969f0d88e4aeb5aaf859cfeda16907b0b174beebb4e32dc9b2cf0"
+    },
+    {
       "id": "FSC-2b184219354d7fdb",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -161,6 +236,66 @@
       "isNew": false,
       "attachments": [],
       "hash": "91fc0e298ee2c35fe060e7e23225a9a0c969cc42a11d424b696a0fb67e85d56c"
+    },
+    {
+      "id": "FSS-c2520e3e63dfda42",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "해외 카드결제 취소시 환율 하락으로 발생하는 소비자 환차손 보상을 한층 강화합니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230357&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-22T00:00:00+09:00",
+      "displayDate": "2026-09-21",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "da094be4b4abc4381e581b34914c325f86b24e2c560a62df09a7de25fa0aaf2e"
+    },
+    {
+      "id": "FSS-85fdbe50b80144c9",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "최근 국제분쟁 등으로 변동성, 괴리율이 증가하는 원자재 ETP(ETN, ETF) 투자 시 유의하세요",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230356&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-22T00:00:00+09:00",
+      "displayDate": "2026-09-21",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "559e0cf1d22ec4a72dce832792032145a7d21c9ebcfb900222734a6efde68f70"
+    },
+    {
+      "id": "FSS-81bdd2496d038a8a",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "온라인투자연계금융업의 포용금융 역할 강화와 신뢰 회복을 지원하겠습니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230317&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-22T00:00:00+09:00",
+      "displayDate": "2026-09-21",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "8dd9f677bbcca565f5d456f1e71faabee99af713e93c65e3db0cd4d9366cf723"
+    },
+    {
+      "id": "FSS-7dd8fcba3ee9ac98",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "'26.7월말 국내은행의 원화대출 연체율 현황[잠정]",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230298&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-22T00:00:00+09:00",
+      "displayDate": "2026-09-21",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5da0d3ff9ab3436584f63b91aeca64a5dfedc67824f5d40b069dbadb79a4b8a5"
     },
     {
       "id": "FSC-45778c90f22eba3c",
@@ -191,6 +326,21 @@
       "isNew": false,
       "attachments": [],
       "hash": "d5f7871045a1e6b431a7771a33c37988254921cf166e8b96493ae43842017371"
+    },
+    {
+      "id": "FSS-84151759cbacaa06",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "풍성해야 할 한가위, ‘가짜 투자’에 눈물 흘리지 않으려면",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230052&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-21T00:00:00+09:00",
+      "displayDate": "2026-09-20",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "a62c1338d9577bed7e3fdf3478df861bae5f9a0b7039606234fa34f958117ae4"
     },
     {
       "id": "FIU-NOTICE-227",

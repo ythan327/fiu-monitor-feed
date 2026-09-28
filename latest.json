@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T14:43:46+09:00",
+  "generatedAt": "2026-09-28T15:18:33+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-28T14:43:46+09:00",
+        "lastSuccessAt": "2026-09-28T15:18:33+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-28T14:43:46+09:00",
+        "lastSuccessAt": "2026-09-28T15:18:33+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-28T14:43:46+09:00",
+        "lastSuccessAt": "2026-09-28T15:18:33+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-28T14:43:46+09:00",
+        "lastSuccessAt": "2026-09-28T15:18:33+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-28T14:43:46+09:00",
+        "lastSuccessAt": "2026-09-28T15:18:33+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-cbd4527c57e9126e",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "골드만삭스, 블랙록, 日 금융청, UN PRI 등 글로벌 핵심 투자자‧기관 등 한 자리에... 「Korea Premium Weeks 2026」 성황리 개막 - 금융위원회‧한국거래소 공동으로 최초 개최, 3주간 K-자본시장 대표 IR 대장정 돌입 -. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87793?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "displayDate": "2026-09-27",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "9ee11fe36e12e1c4ad396d72b5cfa704afb93053eed146b50032ca6402d5f3ab"
+    },
     {
       "id": "FSC-972fed7eea45a9c6",
       "source": "FSC",
@@ -311,21 +326,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "c1ef0e6b6d0969f0d88e4aeb5aaf859cfeda16907b0b174beebb4e32dc9b2cf0"
-    },
-    {
-      "id": "FSC-2b184219354d7fdb",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 출시 관련 세부사항을 안내해 드립니다.",
-      "url": "https://www.fsc.go.kr/no010101/87766?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-22T00:00:00+09:00",
-      "displayDate": "2026-09-21",
-      "dept": "국민지역참여지원과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "91fc0e298ee2c35fe060e7e23225a9a0c969cc42a11d424b696a0fb67e85d56c"
     },
     {
       "id": "FSS-c2520e3e63dfda42",

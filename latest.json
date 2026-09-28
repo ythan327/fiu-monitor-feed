@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T10:13:17+09:00",
+  "generatedAt": "2026-09-28T10:42:35+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-28T10:13:17+09:00",
+        "lastSuccessAt": "2026-09-28T10:42:35+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-28T10:13:17+09:00",
+        "lastSuccessAt": "2026-09-28T10:42:35+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-28T10:13:17+09:00",
+        "lastSuccessAt": "2026-09-28T10:42:35+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-28T10:13:17+09:00",
+        "lastSuccessAt": "2026-09-28T10:42:35+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-28T10:13:17+09:00",
+        "lastSuccessAt": "2026-09-28T10:42:35+09:00",
         "itemCount": 0
       }
     }
@@ -53,9 +53,24 @@
       "publishedAt": "2026-09-28T00:00:00+09:00",
       "displayDate": "2026-09-27",
       "dept": "금융소비자정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "1dfe58058b52cea70feaeb1abe051200a92e8a72c7a3c2e3a5985438ce999f49"
+    },
+    {
+      "id": "FSS-8e86276526388ae4",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융소비자 보호에 관한 감독규정 개정안 규정변경예고",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=231802&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "displayDate": "2026-09-27",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "2512003309e1baa5d1217351a90f0ba2b83de04c24fbe20ccf99d0c27e0747eb"
     },
     {
       "id": "FSS-4c96cdf15daff373",
@@ -311,21 +326,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "8dd9f677bbcca565f5d456f1e71faabee99af713e93c65e3db0cd4d9366cf723"
-    },
-    {
-      "id": "FSS-7dd8fcba3ee9ac98",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "'26.7월말 국내은행의 원화대출 연체율 현황[잠정]",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230298&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-22T00:00:00+09:00",
-      "displayDate": "2026-09-21",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "5da0d3ff9ab3436584f63b91aeca64a5dfedc67824f5d40b069dbadb79a4b8a5"
     },
     {
       "id": "FSC-45778c90f22eba3c",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T17:44:59+09:00",
+  "generatedAt": "2026-09-28T18:15:57+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-28T17:44:59+09:00",
+        "lastSuccessAt": "2026-09-28T18:15:57+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-28T17:44:59+09:00",
+        "lastSuccessAt": "2026-09-28T18:15:57+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-28T17:44:59+09:00",
+        "lastSuccessAt": "2026-09-28T18:15:57+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-28T17:44:59+09:00",
+        "lastSuccessAt": "2026-09-28T18:15:57+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-28T17:44:59+09:00",
+        "lastSuccessAt": "2026-09-28T18:15:57+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-a928a42d10967c56",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이억원 금융위원장, 유엔 책임투자원칙(PRI) 이사회 의장 면담. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87800?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "displayDate": "2026-09-27",
+      "dept": "공정시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "f5dca466db473c68a94336c2341d9e445a37fee0d8316fa62774760258506e34"
+    },
     {
       "id": "FSC-d23ddff4bc8c64d0",
       "source": "FSC",
@@ -236,21 +251,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "9d392f4e835418b3b810c3569a638d0dc47b5ae4f56857e3e8b169af29b3f834"
-    },
-    {
-      "id": "FSC-4ddd51ad7d443e8e",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "온라인투자연계금융업의 포용금융 역할 강화와 신뢰 회복을 지원하겠습니다. - 중저신용자 자금공급 활성화를 위한 간담회 개최",
-      "url": "https://www.fsc.go.kr/no010101/87771?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-23T00:00:00+09:00",
-      "displayDate": "2026-09-22",
-      "dept": "디지털금융총괄과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "17218bb16e90b674a445e6fd9ddb4201179df547ada759aa617f15de456a5462"
     },
     {
       "id": "FSS-ee4eb2ba6d8506ea",

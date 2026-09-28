@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T05:43:32+09:00",
+  "generatedAt": "2026-09-29T06:12:59+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-29T05:43:32+09:00",
+        "lastSuccessAt": "2026-09-29T06:12:59+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-29T05:43:32+09:00",
+        "lastSuccessAt": "2026-09-29T06:12:59+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-29T05:43:32+09:00",
+        "lastSuccessAt": "2026-09-29T06:12:59+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-29T05:43:32+09:00",
+        "lastSuccessAt": "2026-09-29T06:12:59+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-29T05:43:32+09:00",
+        "lastSuccessAt": "2026-09-29T06:12:59+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSS-0700823975ab7606",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2026년 상반기 금융민원 접수 및 처리 동향",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=232216&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-29T00:00:00+09:00",
+      "displayDate": "2026-09-28",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "2efa1999c30e5a704976b577809758f4ada1dec9ac4ff68c761c699cc4163b67"
+    },
     {
       "id": "FSC-a928a42d10967c56",
       "source": "FSC",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "c1ef0e6b6d0969f0d88e4aeb5aaf859cfeda16907b0b174beebb4e32dc9b2cf0"
-    },
-    {
-      "id": "FSS-c2520e3e63dfda42",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "해외 카드결제 취소시 환율 하락으로 발생하는 소비자 환차손 보상을 한층 강화합니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230357&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-22T00:00:00+09:00",
-      "displayDate": "2026-09-21",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "da094be4b4abc4381e581b34914c325f86b24e2c560a62df09a7de25fa0aaf2e"
     },
     {
       "id": "FIU-NOTICE-227",

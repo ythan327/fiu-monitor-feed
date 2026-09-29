@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T11:42:32+09:00",
+  "generatedAt": "2026-09-29T12:13:35+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-29T11:42:32+09:00",
-        "itemCount": 0
+        "lastSuccessAt": "2026-09-29T12:13:35+09:00",
+        "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-29T11:42:32+09:00",
+        "lastSuccessAt": "2026-09-29T12:13:35+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-29T11:42:32+09:00",
+        "lastSuccessAt": "2026-09-29T12:13:35+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-29T11:42:32+09:00",
+        "lastSuccessAt": "2026-09-29T12:13:35+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-29T11:42:32+09:00",
+        "lastSuccessAt": "2026-09-29T12:13:35+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 3,
-    "totalVisible": 13
+    "newSinceLastFeed": 11,
+    "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-834c9aa7ebd0dc24",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이억원 금융위원장 일본 금융청장 면담 - 한-일 금융시장 정책‧동향을 공유하고, 양국 간 지속적인 금융 협력 강화를 약속. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87805?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-29T00:00:00+09:00",
+      "displayDate": "2026-09-28",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "d524320cecaf5c440a6764619d0ce490ba5646e9cf1ec6debdbbb3b91a618d5e"
+    },
+    {
+      "id": "FSS-4bfb0653d2fbd915",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "취약계층 보호 및 금융소비자 편의 제고를 위해 은행권 최저생계비 조회용 계좌통합조회서비스를 시행합니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=232271&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-29T00:00:00+09:00",
+      "displayDate": "2026-09-28",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "c7db9f94b793af5efa12c4f8df21290a5ffa348eb586d4899c6d226c35fa62c1"
+    },
     {
       "id": "FSS-ac1f997cbae4797e",
       "source": "FSS",
@@ -71,6 +101,81 @@
       "isNew": false,
       "attachments": [],
       "hash": "2efa1999c30e5a704976b577809758f4ada1dec9ac4ff68c761c699cc4163b67"
+    },
+    {
+      "id": "FSC-a928a42d10967c56",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이억원 금융위원장, 유엔 책임투자원칙(PRI) 이사회 의장 면담",
+      "url": "https://www.fsc.go.kr/no010101/87800?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "displayDate": "2026-09-27",
+      "dept": "공정시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "0ba4f02f91b3977001515d36abd7948e35e3284cc3ba93fdb35fb51307176c9b"
+    },
+    {
+      "id": "FSC-d23ddff4bc8c64d0",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이억원 금융위원장, 골드만삭스(Goldman Sachs) 아‧태 대표 및 블랙록(Blackrock) 글로벌 파트너스 공동 총괄 면담",
+      "url": "https://www.fsc.go.kr/no010101/87797?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "displayDate": "2026-09-27",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1a8e3bfa635b45482d259ed4fadb20b28e91d2c7595a0431a5faad2c02bee088"
+    },
+    {
+      "id": "FSC-cbd4527c57e9126e",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "골드만삭스, 블랙록, 日 금융청, UN PRI 등 글로벌 핵심 투자자‧기관 등 한 자리에... 「Korea Premium Weeks 2026」 성황리 개막 - 금융위원회‧한국거래소 공동으로 최초 개최, 3주간 K-자본시장 대표 IR 대장정 돌입 -",
+      "url": "https://www.fsc.go.kr/no010101/87793?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "displayDate": "2026-09-27",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1ac1cadd636eb6df7a3d9e40b5dc29cee59e56de78420eb4183207d530218858"
+    },
+    {
+      "id": "FSC-972fed7eea45a9c6",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "휴면자산 환급실적 등을 공개하고 금융회사의 휴면자산 관리체계를 강화합니다.",
+      "url": "https://www.fsc.go.kr/no010101/87789?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "displayDate": "2026-09-27",
+      "dept": "금융소비자정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "bf79190c89ab15d585baf5750fd50c8069ccd02ce0ec2e12fd038ef4f26bd5eb"
+    },
+    {
+      "id": "FSC-d8cb6ad2f3ab4dc8",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "｢금융소비자 보호에 관한 감독규정｣ 개정안 규정변경예고 (‘26.9.28. ~ ’26.11.9.)",
+      "url": "https://www.fsc.go.kr/no010101/87787?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "displayDate": "2026-09-27",
+      "dept": "금융소비자정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "639d73f03d1e0b575daf0381e190878819afd507ee07207c7e78c4882fbbbc9a"
     },
     {
       "id": "FSS-d9d3e9a7e971696b",
@@ -133,6 +238,66 @@
       "hash": "81f7607564c82c09f86bf591475cfe4c26c107f85f195f41689d447076fd1db4"
     },
     {
+      "id": "FSC-246d3ebcc286b2c2",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "가상자산시장 불공정거래 혐의자 수사기관 고발·통보 - 제16차 금융위원회 정례회의(’26.9.23.) 의결 -",
+      "url": "https://www.fsc.go.kr/no010101/87783?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "가상자산과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "634e081c8e7c59b7e744d228c1f9092eac763b6e8eb2fe62d0aedc2ef904935a"
+    },
+    {
+      "id": "FSC-88b7df352388e9f9",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "메리츠증권㈜에 대한 종합금융투자사업자 지정 및 단기금융업 인가 ✓ 자기자본 4조원 이상의 종투사 지정 및 단기금융업 인가로 메리츠증권㈜은 발행어음 업무영위 예정",
+      "url": "https://www.fsc.go.kr/no010101/87782?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "cc364d20ee76b9b05f810fbb403f24dcffd565636485e3ad0e09f2adfd0215c4"
+    },
+    {
+      "id": "FSC-547244cbf7c541df",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "기업의 가치를 보다 정확히 보여주기 위해 기업의 토지 ‘공시지가’가 주석에 공시됩니다.",
+      "url": "https://www.fsc.go.kr/no010101/87781?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "회계제도팀",
+      "isNew": true,
+      "attachments": [],
+      "hash": "4be8ae8091edaf29e54e12a35ead36cc3c593c9f8baa2e030c2f6462c3197e1e"
+    },
+    {
+      "id": "FSC-9bb1cafbbf66502c",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "신라자산운용(주) 및 제니스투자자문(주)에 대한 금융투자업 인가(등록) 취소 - 제16차 금융위원회(‘26.9.23.) 조치 의결",
+      "url": "https://www.fsc.go.kr/no010101/87778?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-23T00:00:00+09:00",
+      "displayDate": "2026-09-22",
+      "dept": "금융위원회 자산운용과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5aeb8c6d5ac590426734cb7af0cfa1d258eb268f7f0765b22bded702d404b960"
+    },
+    {
       "id": "FSS-ee4eb2ba6d8506ea",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -178,21 +343,6 @@
       "hash": "5b61c19017a39e324debb6c18466339c66d8f0e1229f7e11bf2127b529893530"
     },
     {
-      "id": "FSS-f95561523ddbacd0",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "신라자산운용(주) 및 제니스투자자문(주)에 대한 금융투자업 인가(등록) 취소",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230565&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-23T00:00:00+09:00",
-      "displayDate": "2026-09-22",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "da1b2e2b371ad7a50e913abeeff9fa6d9f3abd7e690452fdb98c4ce197682767"
-    },
-    {
       "id": "FIU-NOTICE-227",
       "source": "FIU",
       "sourceLabel": "FIU",
@@ -203,7 +353,7 @@
       "publishedAt": "2026-09-18T15:20:38+09:00",
       "displayDate": "2026-09-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "'26년 자금세탁방지의 날 정부포상 후보 공개검증.hwpx",
@@ -229,7 +379,7 @@
       "publishedAt": "2026-09-18T13:51:38+09:00",
       "displayDate": "2026-09-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "260917보도자료(타직 중앙은행과의 MOU 체결).hwpx",
@@ -255,7 +405,7 @@
       "publishedAt": "2026-09-16T16:31:11+09:00",
       "displayDate": "2026-09-16",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "260916 (보도자료) 국가 AML 전략과 정책운영방향 발표_FN.hwpx",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T23:45:52+09:00",
+  "generatedAt": "2026-09-30T00:15:54+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-29T23:45:52+09:00",
+        "lastSuccessAt": "2026-09-30T00:15:54+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-29T23:45:52+09:00",
+        "lastSuccessAt": "2026-09-30T00:15:54+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-29T23:45:52+09:00",
+        "lastSuccessAt": "2026-09-30T00:15:54+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-29T23:45:52+09:00",
+        "lastSuccessAt": "2026-09-30T00:15:54+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-29T23:45:52+09:00",
+        "lastSuccessAt": "2026-09-30T00:15:54+09:00",
         "itemCount": 0
       }
     }
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "합동대응단은 명문대 경영동아리 출신 정보카르텔을 적발하여 압수수색을 실시하고 혐의자 재산을 동결하였습니다.. 금일 등록된 게시글",
+      "title": "합동대응단은 명문대 경영동아리 출신 정보카르텔을 적발하여 압수수색을 실시하고 혐의자 재산을 동결하였습니다.",
       "url": "https://www.fsc.go.kr/no010101/87807?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-29T00:00:00+09:00",
       "displayDate": "2026-09-28",
       "dept": "자본시장조사과",
       "isNew": false,
       "attachments": [],
-      "hash": "ed218c0395ae79067467344539a89053d1862d41f548227ddf368d0fc11619e8"
+      "hash": "013c769be314130f2854d1dc23fc2761f8eda6d27c5974f457b73d2ca6fe673b"
     },
     {
       "id": "FSC-834c9aa7ebd0dc24",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "이억원 금융위원장 일본 금융청장 면담 - 한-일 금융시장 정책‧동향을 공유하고, 양국 간 지속적인 금융 협력 강화를 약속. 금일 등록된 게시글",
+      "title": "이억원 금융위원장 일본 금융청장 면담 - 한-일 금융시장 정책‧동향을 공유하고, 양국 간 지속적인 금융 협력 강화를 약속",
       "url": "https://www.fsc.go.kr/no010101/87805?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-09-29T00:00:00+09:00",
       "displayDate": "2026-09-28",
       "dept": "자본시장과",
       "isNew": false,
       "attachments": [],
-      "hash": "d524320cecaf5c440a6764619d0ce490ba5646e9cf1ec6debdbbb3b91a618d5e"
+      "hash": "0e78bd0c8c8e77147e20247ddba0e5b6ffd2edb6d7a277d66cc41a1c07f5854c"
     },
     {
       "id": "FSS-cf8c6c4d22be8422",

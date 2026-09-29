@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T05:44:14+09:00",
+  "generatedAt": "2026-09-30T06:12:58+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-30T05:44:14+09:00",
+        "lastSuccessAt": "2026-09-30T06:12:58+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-30T05:44:14+09:00",
+        "lastSuccessAt": "2026-09-30T06:12:58+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-30T05:44:14+09:00",
+        "lastSuccessAt": "2026-09-30T06:12:58+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-30T05:44:14+09:00",
+        "lastSuccessAt": "2026-09-30T06:12:58+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-30T05:44:14+09:00",
+        "lastSuccessAt": "2026-09-30T06:12:58+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSS-0e2e88dd2e042596",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "26.8월중 기업의 직접금융 조달실적",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=232572&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-09-30T00:00:00+09:00",
+      "displayDate": "2026-09-29",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "fe5bd1f1e56f90f9aeb1be1007278e28697ad407f0ea0224b313a798dba0d0b9"
+    },
     {
       "id": "FSC-58927acd164951df",
       "source": "FSC",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "94a1b5139fffd8ef9e22232913df624deb28d141c2e4cef746e52695924f12b7"
-    },
-    {
-      "id": "FSS-97bd7e8b228f65cc",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "기업의 가치를 보다 정확히 보여주기 위해 기업의 토지 공시지가가 주석에 공시됩니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=230578&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-23T00:00:00+09:00",
-      "displayDate": "2026-09-22",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "0f5211517c33f64b2ad29b4a3c3417b6f0ac52ca6ef9e7ae8976ea1aa5a7f5e9"
     },
     {
       "id": "FIU-NOTICE-227",

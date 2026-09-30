@@ -1,45 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T03:47:22+09:00",
+  "generatedAt": "2026-10-01T04:15:06+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "ok",
+    "overall": "partial",
     "sources": {
       "FSC": {
-        "status": "ok",
+        "status": "error",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-01T03:47:22+09:00",
-        "itemCount": 10
+        "lastAttemptAt": "2026-10-01T04:15:06+09:00",
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fsc.go.kr/no010101\", waiting until \"networkidle\"\n"
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-01T03:47:22+09:00",
+        "lastSuccessAt": "2026-10-01T04:15:06+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-01T03:47:22+09:00",
+        "lastSuccessAt": "2026-10-01T04:15:06+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-01T03:47:22+09:00",
+        "lastSuccessAt": "2026-10-01T04:15:06+09:00",
         "itemCount": 2
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-01T03:47:22+09:00",
+        "lastSuccessAt": "2026-10-01T04:15:06+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
     "newSinceLastFeed": 0,
-    "totalVisible": 23
+    "totalVisible": 13
   },
   "items": [
     {
@@ -62,111 +62,6 @@
         }
       ],
       "hash": "314a6c47f1a6b72272906277f12c88687afe4927f1c992f525c7d8794746e7d5"
-    },
-    {
-      "id": "FSC-9cb451d00e0c2b88",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(9.30일)",
-      "url": "https://www.fsc.go.kr/no010101/87825?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "국민지역참여지원과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "2111da2feae17e8f75d77b38daeae0c562023bc3a021e2c7acce0a21f5b8d54f"
-    },
-    {
-      "id": "FSC-2467771a9b02ede9",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "은행업감독규정 규정변경예고 실시 ※예고기간 ‘26.9.30일 ~ 11.9일",
-      "url": "https://www.fsc.go.kr/no010101/87824?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "은행과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "c1d74843f50aa0f3bc7ceeac490aa62f1be7019bbd69ac70676bf91ca2e13c3c"
-    },
-    {
-      "id": "FSC-6c8692a1597890b6",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "전남광주에서 서민·취약계층과 소상공인을 위한 희망사다리를 놓겠습니다 - 이억원 금융위원장, 「전남광주 서민금융 복합지원센터」 개소식 및 지역 소상공인 현장 간담회 참석",
-      "url": "https://www.fsc.go.kr/no010101/87821?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "복합지원팀",
-      "isNew": false,
-      "attachments": [],
-      "hash": "02c86204e8af4b4badd529d36846914af80e041edc6cca8eb746d98b642b2112"
-    },
-    {
-      "id": "FSC-d2b8e499784a5bad",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "10월 7일부터 2차 가입신청 시작! 청년미래적금 가입 전 달라진 절차와 주요일정을 확인하세요.",
-      "url": "https://www.fsc.go.kr/no010101/87820?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "청년정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "82bc114b34d7f999588ac895895f3b6947924f5af418f38bf0192f9cfbea94dc"
-    },
-    {
-      "id": "FSC-758fac091f90eee1",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "권대영 부위원장,제2차 국민참여성장펀드 출시 첫날펀드가입 및 현장점검",
-      "url": "https://www.fsc.go.kr/no010101/87819?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "국민지역참여지원과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "d9385f9f131381dcb34c06819a46b7637b41e3ef0a35e8feedb35f51876042de"
-    },
-    {
-      "id": "FSC-35e01a568579a38a",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "의료계·플랫폼 협력으로 “실손24” 연계율 제고 나선다.",
-      "url": "https://www.fsc.go.kr/no010101/87818?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "보험과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "391dc9b53fec212a62c71988204443e0c7bde25db0ddcabaa9b8c7557e9f0fc6"
-    },
-    {
-      "id": "FSC-9a05d02c92799322",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "이억원 금융위원장, 글로벌 증시 핵심 인프라 기관 美 나스닥(Nasdaq), 美 DTCC*, 홍콩거래소(HKEX) 면담",
-      "url": "https://www.fsc.go.kr/no010101/87812?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "자본시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "41aaf4ca62be19e76c7f7ea5e5f0bcd3cf23a8c954166d8d4a575c90bf040010"
     },
     {
       "id": "FSS-728116468a09e1d4",
@@ -244,36 +139,6 @@
       "hash": "fe5bd1f1e56f90f9aeb1be1007278e28697ad407f0ea0224b313a798dba0d0b9"
     },
     {
-      "id": "FSC-58927acd164951df",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "합동대응단은 명문대 경영동아리 출신 정보카르텔을 적발하여 압수수색을 실시하고 혐의자 재산을 동결하였습니다.",
-      "url": "https://www.fsc.go.kr/no010101/87807?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-29T00:00:00+09:00",
-      "displayDate": "2026-09-28",
-      "dept": "자본시장조사과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "013c769be314130f2854d1dc23fc2761f8eda6d27c5974f457b73d2ca6fe673b"
-    },
-    {
-      "id": "FSC-834c9aa7ebd0dc24",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "이억원 금융위원장 일본 금융청장 면담 - 한-일 금융시장 정책‧동향을 공유하고, 양국 간 지속적인 금융 협력 강화를 약속",
-      "url": "https://www.fsc.go.kr/no010101/87805?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-29T00:00:00+09:00",
-      "displayDate": "2026-09-28",
-      "dept": "자본시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "0e78bd0c8c8e77147e20247ddba0e5b6ffd2edb6d7a277d66cc41a1c07f5854c"
-    },
-    {
       "id": "FSS-cf8c6c4d22be8422",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -332,21 +197,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "2efa1999c30e5a704976b577809758f4ada1dec9ac4ff68c761c699cc4163b67"
-    },
-    {
-      "id": "FSC-a928a42d10967c56",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "이억원 금융위원장, 유엔 책임투자원칙(PRI) 이사회 의장 면담",
-      "url": "https://www.fsc.go.kr/no010101/87800?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-28T00:00:00+09:00",
-      "displayDate": "2026-09-27",
-      "dept": "공정시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "0ba4f02f91b3977001515d36abd7948e35e3284cc3ba93fdb35fb51307176c9b"
     },
     {
       "id": "FSS-d9d3e9a7e971696b",

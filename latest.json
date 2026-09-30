@@ -1,47 +1,122 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T15:49:33+09:00",
+  "generatedAt": "2026-09-30T16:45:46+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "partial",
+    "overall": "ok",
     "sources": {
       "FSC": {
-        "status": "error",
+        "status": "ok",
         "label": "금융위",
-        "lastAttemptAt": "2026-09-30T15:49:33+09:00",
-        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fsc.go.kr/no010101\", waiting until \"networkidle\"\n"
+        "lastSuccessAt": "2026-09-30T16:45:46+09:00",
+        "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-30T15:49:33+09:00",
+        "lastSuccessAt": "2026-09-30T16:45:46+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-30T15:49:33+09:00",
-        "itemCount": 2
+        "lastSuccessAt": "2026-09-30T16:45:46+09:00",
+        "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-30T15:49:33+09:00",
+        "lastSuccessAt": "2026-09-30T16:45:46+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-30T15:49:33+09:00",
+        "lastSuccessAt": "2026-09-30T16:45:46+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
-    "totalVisible": 13
+    "newSinceLastFeed": 10,
+    "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-6c8692a1597890b6",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "전남광주에서 서민·취약계층과 소상공인을 위한 희망사다리를 놓겠습니다 - 이억원 금융위원장, 「전남광주 서민금융 복합지원센터」 개소식 및 지역 소상공인 현장 간담회 참석. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87821?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-30T00:00:00+09:00",
+      "displayDate": "2026-09-29",
+      "dept": "복합지원팀",
+      "isNew": true,
+      "attachments": [],
+      "hash": "12669aa28dc9591f0cd4a9c85dd9b09d43d902a7c3ddd16aa3433095ba012cf2"
+    },
+    {
+      "id": "FSC-d2b8e499784a5bad",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "10월 7일부터 2차 가입신청 시작! 청년미래적금 가입 전 달라진 절차와 주요일정을 확인하세요.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87820?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-30T00:00:00+09:00",
+      "displayDate": "2026-09-29",
+      "dept": "청년정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "8ccf62d76ebafd6a951627649bd6bc8fa25ef445b9bd897bf3b2ce524cfec12b"
+    },
+    {
+      "id": "FSC-758fac091f90eee1",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "권대영 부위원장,제2차 국민참여성장펀드 출시 첫날펀드가입 및 현장점검. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87819?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-30T00:00:00+09:00",
+      "displayDate": "2026-09-29",
+      "dept": "국민지역참여지원과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "bc20b8e34bb2b3799562395d728d7ce24dd1a36d04fa0ccba44b9e4ae257b0bc"
+    },
+    {
+      "id": "FSC-35e01a568579a38a",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "의료계·플랫폼 협력으로 “실손24” 연계율 제고 나선다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87818?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-30T00:00:00+09:00",
+      "displayDate": "2026-09-29",
+      "dept": "보험과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ca8d8b3fa9f9730786d9c64725d743b941f116da88fc8a890b6d9e1015a82461"
+    },
+    {
+      "id": "FSC-9a05d02c92799322",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이억원 금융위원장, 글로벌 증시 핵심 인프라 기관 美 나스닥(Nasdaq), 美 DTCC*, 홍콩거래소(HKEX) 면담. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87812?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-30T00:00:00+09:00",
+      "displayDate": "2026-09-29",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "698b5be0fc558807a98639867afa5628c71884dc6e9956c5bcf54658b0604115"
+    },
     {
       "id": "FSS-2635ace185b2e6b2",
       "source": "FSS",
@@ -103,6 +178,36 @@
       "hash": "fe5bd1f1e56f90f9aeb1be1007278e28697ad407f0ea0224b313a798dba0d0b9"
     },
     {
+      "id": "FSC-58927acd164951df",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "합동대응단은 명문대 경영동아리 출신 정보카르텔을 적발하여 압수수색을 실시하고 혐의자 재산을 동결하였습니다.",
+      "url": "https://www.fsc.go.kr/no010101/87807?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-29T00:00:00+09:00",
+      "displayDate": "2026-09-28",
+      "dept": "자본시장조사과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "013c769be314130f2854d1dc23fc2761f8eda6d27c5974f457b73d2ca6fe673b"
+    },
+    {
+      "id": "FSC-834c9aa7ebd0dc24",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이억원 금융위원장 일본 금융청장 면담 - 한-일 금융시장 정책‧동향을 공유하고, 양국 간 지속적인 금융 협력 강화를 약속",
+      "url": "https://www.fsc.go.kr/no010101/87805?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-29T00:00:00+09:00",
+      "displayDate": "2026-09-28",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "0e78bd0c8c8e77147e20247ddba0e5b6ffd2edb6d7a277d66cc41a1c07f5854c"
+    },
+    {
       "id": "FSS-cf8c6c4d22be8422",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -161,6 +266,51 @@
       "isNew": false,
       "attachments": [],
       "hash": "2efa1999c30e5a704976b577809758f4ada1dec9ac4ff68c761c699cc4163b67"
+    },
+    {
+      "id": "FSC-a928a42d10967c56",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이억원 금융위원장, 유엔 책임투자원칙(PRI) 이사회 의장 면담",
+      "url": "https://www.fsc.go.kr/no010101/87800?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "displayDate": "2026-09-27",
+      "dept": "공정시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "0ba4f02f91b3977001515d36abd7948e35e3284cc3ba93fdb35fb51307176c9b"
+    },
+    {
+      "id": "FSC-d23ddff4bc8c64d0",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이억원 금융위원장, 골드만삭스(Goldman Sachs) 아‧태 대표 및 블랙록(Blackrock) 글로벌 파트너스 공동 총괄 면담",
+      "url": "https://www.fsc.go.kr/no010101/87797?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "displayDate": "2026-09-27",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1a8e3bfa635b45482d259ed4fadb20b28e91d2c7595a0431a5faad2c02bee088"
+    },
+    {
+      "id": "FSC-cbd4527c57e9126e",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "골드만삭스, 블랙록, 日 금융청, UN PRI 등 글로벌 핵심 투자자‧기관 등 한 자리에... 「Korea Premium Weeks 2026」 성황리 개막 - 금융위원회‧한국거래소 공동으로 최초 개최, 3주간 K-자본시장 대표 IR 대장정 돌입 -",
+      "url": "https://www.fsc.go.kr/no010101/87793?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "displayDate": "2026-09-27",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1ac1cadd636eb6df7a3d9e40b5dc29cee59e56de78420eb4183207d530218858"
     },
     {
       "id": "FSS-d9d3e9a7e971696b",
@@ -243,32 +393,6 @@
         }
       ],
       "hash": "baee19257da05a527c1cd91be416461444008c509734ea5718456f9600b9d7f4"
-    },
-    {
-      "id": "FIU-REPORT-416",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "「국가 AML 전략과 정책운영방향」 발표",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=416&seCd=0001",
-      "publishedAt": "2026-09-16T16:31:11+09:00",
-      "displayDate": "2026-09-16",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "260916 (보도자료) 국가 AML 전략과 정책운영방향 발표_FN.hwpx",
-          "type": "application/octet-stream",
-          "size": 278757
-        },
-        {
-          "name": "260916(별첨) 국가 AML 전략 및 정책_대테러위원회 안건.hwpx",
-          "type": "application/octet-stream",
-          "size": 2937156
-        }
-      ],
-      "hash": "7294f1378d30d3e0fa1634d828c720f3129c0de0b82b3b0321b0a4d811f8f32a"
     }
   ]
 }

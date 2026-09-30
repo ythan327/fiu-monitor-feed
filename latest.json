@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T17:15:34+09:00",
+  "generatedAt": "2026-09-30T17:46:16+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-30T17:15:34+09:00",
+        "lastSuccessAt": "2026-09-30T17:46:16+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-30T17:15:34+09:00",
+        "lastSuccessAt": "2026-09-30T17:46:16+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-30T17:15:34+09:00",
+        "lastSuccessAt": "2026-09-30T17:46:16+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-30T17:15:34+09:00",
+        "lastSuccessAt": "2026-09-30T17:46:16+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-30T17:15:34+09:00",
+        "lastSuccessAt": "2026-09-30T17:46:16+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-2467771a9b02ede9",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "은행업감독규정 규정변경예고 실시 ※예고기간 ‘26.9.30일 ~ 11.9일 . 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87824?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-30T00:00:00+09:00",
+      "displayDate": "2026-09-29",
+      "dept": "은행과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "a8798196a4c5bb4d98f2cef20b0dbdbf30b7a77d21d300829f2d01ce98a14299"
+    },
     {
       "id": "FSC-6c8692a1597890b6",
       "source": "FSC",
@@ -296,21 +311,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "1a8e3bfa635b45482d259ed4fadb20b28e91d2c7595a0431a5faad2c02bee088"
-    },
-    {
-      "id": "FSC-cbd4527c57e9126e",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "골드만삭스, 블랙록, 日 금융청, UN PRI 등 글로벌 핵심 투자자‧기관 등 한 자리에... 「Korea Premium Weeks 2026」 성황리 개막 - 금융위원회‧한국거래소 공동으로 최초 개최, 3주간 K-자본시장 대표 IR 대장정 돌입 -",
-      "url": "https://www.fsc.go.kr/no010101/87793?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-28T00:00:00+09:00",
-      "displayDate": "2026-09-27",
-      "dept": "자본시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "1ac1cadd636eb6df7a3d9e40b5dc29cee59e56de78420eb4183207d530218858"
     },
     {
       "id": "FSS-d9d3e9a7e971696b",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T11:13:13+09:00",
+  "generatedAt": "2026-09-30T11:43:34+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-30T11:13:13+09:00",
+        "lastSuccessAt": "2026-09-30T11:43:34+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-30T11:13:13+09:00",
+        "lastSuccessAt": "2026-09-30T11:43:34+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-30T11:13:13+09:00",
+        "lastSuccessAt": "2026-09-30T11:43:34+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-30T11:13:13+09:00",
+        "lastSuccessAt": "2026-09-30T11:43:34+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-30T11:13:13+09:00",
+        "lastSuccessAt": "2026-09-30T11:43:34+09:00",
         "itemCount": 0
       }
     }
@@ -42,6 +42,21 @@
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-758fac091f90eee1",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "권대영 부위원장,제2차 국민참여성장펀드 출시 첫날펀드가입 및 현장점검. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87819?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-30T00:00:00+09:00",
+      "displayDate": "2026-09-29",
+      "dept": "국민지역참여지원과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "bc20b8e34bb2b3799562395d728d7ce24dd1a36d04fa0ccba44b9e4ae257b0bc"
+    },
     {
       "id": "FSC-35e01a568579a38a",
       "source": "FSC",
@@ -53,7 +68,7 @@
       "publishedAt": "2026-09-30T00:00:00+09:00",
       "displayDate": "2026-09-29",
       "dept": "보험과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "ca8d8b3fa9f9730786d9c64725d743b941f116da88fc8a890b6d9e1015a82461"
     },
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "81f7607564c82c09f86bf591475cfe4c26c107f85f195f41689d447076fd1db4"
-    },
-    {
-      "id": "FSC-246d3ebcc286b2c2",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "가상자산시장 불공정거래 혐의자 수사기관 고발·통보 - 제16차 금융위원회 정례회의(’26.9.23.) 의결 -",
-      "url": "https://www.fsc.go.kr/no010101/87783?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-23T00:00:00+09:00",
-      "displayDate": "2026-09-22",
-      "dept": "가상자산과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "634e081c8e7c59b7e744d228c1f9092eac763b6e8eb2fe62d0aedc2ef904935a"
     },
     {
       "id": "FIU-NOTICE-227",

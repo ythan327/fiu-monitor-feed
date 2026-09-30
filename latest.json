@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T13:44:26+09:00",
+  "generatedAt": "2026-09-30T14:14:10+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-09-30T13:44:26+09:00",
+        "lastSuccessAt": "2026-09-30T14:14:10+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-09-30T13:44:26+09:00",
+        "lastSuccessAt": "2026-09-30T14:14:10+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-09-30T13:44:26+09:00",
+        "lastSuccessAt": "2026-09-30T14:14:10+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-09-30T13:44:26+09:00",
+        "lastSuccessAt": "2026-09-30T14:14:10+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-09-30T13:44:26+09:00",
+        "lastSuccessAt": "2026-09-30T14:14:10+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-6c8692a1597890b6",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "전남광주에서 서민·취약계층과 소상공인을 위한 희망사다리를 놓겠습니다 - 이억원 금융위원장, 「전남광주 서민금융 복합지원센터」 개소식 및 지역 소상공인 현장 간담회 참석. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87821?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-09-30T00:00:00+09:00",
+      "displayDate": "2026-09-29",
+      "dept": "복합지원팀",
+      "isNew": true,
+      "attachments": [],
+      "hash": "12669aa28dc9591f0cd4a9c85dd9b09d43d902a7c3ddd16aa3433095ba012cf2"
+    },
     {
       "id": "FSC-d2b8e499784a5bad",
       "source": "FSC",
@@ -266,21 +281,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "1ac1cadd636eb6df7a3d9e40b5dc29cee59e56de78420eb4183207d530218858"
-    },
-    {
-      "id": "FSC-972fed7eea45a9c6",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "휴면자산 환급실적 등을 공개하고 금융회사의 휴면자산 관리체계를 강화합니다.",
-      "url": "https://www.fsc.go.kr/no010101/87789?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-28T00:00:00+09:00",
-      "displayDate": "2026-09-27",
-      "dept": "금융소비자정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "bf79190c89ab15d585baf5750fd50c8069ccd02ce0ec2e12fd038ef4f26bd5eb"
     },
     {
       "id": "FSS-d9d3e9a7e971696b",

@@ -1,45 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T20:44:26+09:00",
+  "generatedAt": "2026-10-01T21:19:15+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "ok",
+    "overall": "partial",
     "sources": {
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-01T20:44:26+09:00",
+        "lastSuccessAt": "2026-10-01T21:19:15+09:00",
         "itemCount": 10
       },
       "FSS": {
-        "status": "ok",
+        "status": "error",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-01T20:44:26+09:00",
-        "itemCount": 10
+        "lastAttemptAt": "2026-10-01T21:19:15+09:00",
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fss.or.kr/fss/bbs/B0000188/list.do?menuNo=200218\", waiting until \"networkidle\"\n"
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-01T20:44:26+09:00",
+        "lastSuccessAt": "2026-10-01T21:19:15+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-01T20:44:26+09:00",
+        "lastSuccessAt": "2026-10-01T21:19:15+09:00",
         "itemCount": 2
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-01T20:44:26+09:00",
+        "lastSuccessAt": "2026-10-01T21:19:15+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
     "newSinceLastFeed": 0,
-    "totalVisible": 24
+    "totalVisible": 14
   },
   "items": [
     {
@@ -164,66 +164,6 @@
       "hash": "24b022e22404753b5ec2d6dface05a790d629c7cc06da7bf09bdd1583ec903a3"
     },
     {
-      "id": "FSS-28dd63a1ef6733b2",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "26년 상반기 가상자산사업자 실태조사 결과",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=233627&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-01T00:00:00+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "8207ddafdc8ab28f4f9b2a7c6426bde4ec989510738dd9face54217dba6e5523"
-    },
-    {
-      "id": "FSS-9fff5c1580106c4b",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "대형 IB의 모험자본 공급 현황을 점검하고 리서치보고서의 독립성, 신뢰성 제고 및 중소형주 커버리지 확대 방안을 마련하였습니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=233557&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-01T00:00:00+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f5cc462aa8f5f6c11b2028572032a8b41612e0202be17c90b2d88d18ce840040"
-    },
-    {
-      "id": "FSS-a12a1486ff489eb9",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "보험상품 방송광고 건전화를 위한 간담회 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=233554&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-01T00:00:00+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "32e2bb58ef697f30af5414722c9f14a38cac7cc7ce035903ee1dc9cb8cb3f623"
-    },
-    {
-      "id": "FSS-5e88e7b60b617e22",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융시장 상황점검회의 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=233555&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-01T00:00:00+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "c72dfc1321525b289a192af5f7b0cd03e096839df6b5f268d2b18e07c657f81a"
-    },
-    {
       "id": "FIU-NOTICE-194",
       "source": "FIU",
       "sourceLabel": "FIU",
@@ -303,96 +243,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "82bc114b34d7f999588ac895895f3b6947924f5af418f38bf0192f9cfbea94dc"
-    },
-    {
-      "id": "FSS-728116468a09e1d4",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "법인 대표이사의 시세조종행위 등 불공정거래 행위에 대한 적발 조치(3건)",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=232881&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "98e5e2a12ffb5244e5d0946f927465c5cea94e1b9882f4cc1d73a9e31dc41b22"
-    },
-    {
-      "id": "FSS-2635ace185b2e6b2",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "범 금융권, 유관기관과 함께 「사회진출前 금융소양교육」을 전면 실시합니다!",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=232662&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ea66cd278991f1747a957c82c0412b2e95b5b75b8b5464198bd8175dcf75aec4"
-    },
-    {
-      "id": "FSS-307368ee251cdf4a",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "주요 민원사례로 알아보는 금융채권추심 관련 소비자 유의사항",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=232661&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "3aa933e9796a77cbb9039be6cc042cf2f1358df4be3d406bb5ee74a9572956b9"
-    },
-    {
-      "id": "FSS-2e9ca54761c58e1f",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "의료계,플랫폼 협력으로 “실손24” 연계율 제고 나선다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=232597&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "73b61ce9818a478d05477edf898b0c57cef51484082851468ebe6abca4911a57"
-    },
-    {
-      "id": "FSS-0e2e88dd2e042596",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "26.8월중 기업의 직접금융 조달실적",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=232572&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "fe5bd1f1e56f90f9aeb1be1007278e28697ad407f0ea0224b313a798dba0d0b9"
-    },
-    {
-      "id": "FSS-cf8c6c4d22be8422",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "이찬진 금융감독원장, 증권회사 CEO 간담회 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=232288&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-09-29T00:00:00+09:00",
-      "displayDate": "2026-09-28",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "d55431cf2050e6a706cb452ba8556720a4e259fd792c21f896bc07522ff34d66"
     },
     {
       "id": "FIU-NOTICE-227",

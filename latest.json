@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T17:15:23+09:00",
+  "generatedAt": "2026-10-01T17:45:57+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-01T17:15:23+09:00",
+        "lastSuccessAt": "2026-10-01T17:45:57+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-01T17:15:23+09:00",
+        "lastSuccessAt": "2026-10-01T17:45:57+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-01T17:15:23+09:00",
+        "lastSuccessAt": "2026-10-01T17:45:57+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-01T17:15:23+09:00",
+        "lastSuccessAt": "2026-10-01T17:45:57+09:00",
         "itemCount": 2
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-01T17:15:23+09:00",
+        "lastSuccessAt": "2026-10-01T17:45:57+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 11,
+    "newSinceLastFeed": 0,
     "totalVisible": 24
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-10-01T16:47:40+09:00",
       "displayDate": "2026-10-01",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.hwp",
@@ -84,7 +84,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장조사총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "fbec843caf6e1bf2af668e9d7b30a3c62260c6feba34ee59150d300d445410f5"
     },
@@ -99,7 +99,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "국민성장펀드총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "7035917a99688fc87ce6cf2d1ef84d6cdc3380188acd16974810129c1ec8d6b4"
     },
@@ -114,7 +114,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "5d7c3651c46488fce5186804b932518b13881e5e57df4796e6cae32c8db40fa2"
     },
@@ -129,7 +129,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "가상자산검사과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "4661e09de201c3b412cc1cffa14790a5b5e127cce9905899843c7696287ca4c0"
     },
@@ -144,7 +144,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "5371cd5bbaa38b89a2a67b01eacd34ae8341128ced1b1e4b72031275981c646a"
     },
@@ -159,7 +159,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "금융시장분석과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "24b022e22404753b5ec2d6dface05a790d629c7cc06da7bf09bdd1583ec903a3"
     },
@@ -255,7 +255,7 @@
       "publishedAt": "2026-09-30T00:00:00+09:00",
       "displayDate": "2026-09-29",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "2111da2feae17e8f75d77b38daeae0c562023bc3a021e2c7acce0a21f5b8d54f"
     },
@@ -270,7 +270,7 @@
       "publishedAt": "2026-09-30T00:00:00+09:00",
       "displayDate": "2026-09-29",
       "dept": "은행과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c1d74843f50aa0f3bc7ceeac490aa62f1be7019bbd69ac70676bf91ca2e13c3c"
     },
@@ -285,7 +285,7 @@
       "publishedAt": "2026-09-30T00:00:00+09:00",
       "displayDate": "2026-09-29",
       "dept": "복합지원팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "02c86204e8af4b4badd529d36846914af80e041edc6cca8eb746d98b642b2112"
     },
@@ -300,7 +300,7 @@
       "publishedAt": "2026-09-30T00:00:00+09:00",
       "displayDate": "2026-09-29",
       "dept": "청년정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "82bc114b34d7f999588ac895895f3b6947924f5af418f38bf0192f9cfbea94dc"
     },

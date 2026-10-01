@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T23:46:50+09:00",
+  "generatedAt": "2026-10-02T00:14:16+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-01T23:46:50+09:00",
+        "lastSuccessAt": "2026-10-02T00:14:16+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-01T23:46:50+09:00",
+        "lastSuccessAt": "2026-10-02T00:14:16+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-01T23:46:50+09:00",
+        "lastSuccessAt": "2026-10-02T00:14:16+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-01T23:46:50+09:00",
+        "lastSuccessAt": "2026-10-02T00:14:16+09:00",
         "itemCount": 2
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-01T23:46:50+09:00",
+        "lastSuccessAt": "2026-10-02T00:14:16+09:00",
         "itemCount": 0
       }
     }
@@ -79,14 +79,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "법인 대표이사의 시세조종행위 등 불공정거래 행위에 대한 적발·조치(3건) - 제17차 증권선물위원회(9.30.) 의결. 금일 등록된 게시글",
+      "title": "법인 대표이사의 시세조종행위 등 불공정거래 행위에 대한 적발·조치(3건) - 제17차 증권선물위원회(9.30.) 의결",
       "url": "https://www.fsc.go.kr/no010101/87840?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장조사총괄과",
       "isNew": false,
       "attachments": [],
-      "hash": "fbec843caf6e1bf2af668e9d7b30a3c62260c6feba34ee59150d300d445410f5"
+      "hash": "0ccab45dc08d5479f24913c523f8cb4b6f3a26434f7ad1e9eb4cec95e0a60437"
     },
     {
       "id": "FSC-e3716a07ff06fdbf",
@@ -94,14 +94,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "모태펀드와 국민성장펀드가 협력하여첨단혁신기업의 지속성장을 지원하는 ‘이어달리기’를 이어갑니다.. 금일 등록된 게시글",
+      "title": "모태펀드와 국민성장펀드가 협력하여첨단혁신기업의 지속성장을 지원하는 ‘이어달리기’를 이어갑니다.",
       "url": "https://www.fsc.go.kr/no010101/87839?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "국민성장펀드총괄과",
       "isNew": false,
       "attachments": [],
-      "hash": "7035917a99688fc87ce6cf2d1ef84d6cdc3380188acd16974810129c1ec8d6b4"
+      "hash": "06626282c5cd0a052f0e36233d386969316a17f355517ce73945e8ea0b008a03"
     },
     {
       "id": "FSC-ebb39f5158f67d26",
@@ -109,14 +109,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "토큰증권 관련 전자증권법·자본시장법 하위법규 개정안 입법예고 실시 ※예고기간 ‘26.10.2일 ~ 11.11일 . 금일 등록된 게시글",
+      "title": "토큰증권 관련 전자증권법·자본시장법 하위법규 개정안 입법예고 실시 ※예고기간 ‘26.10.2일 ~ 11.11일",
       "url": "https://www.fsc.go.kr/no010101/87838?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장과",
       "isNew": false,
       "attachments": [],
-      "hash": "5d7c3651c46488fce5186804b932518b13881e5e57df4796e6cae32c8db40fa2"
+      "hash": "6527b22c7c0fb8280971bfc72d9648cce3ff8bd8bb5445bf3642657f33328294"
     },
     {
       "id": "FSC-56a5a048a0da29ee",
@@ -124,14 +124,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "’26년 상반기 가상자산사업자 실태조사 결과. 금일 등록된 게시글",
+      "title": "’26년 상반기 가상자산사업자 실태조사 결과",
       "url": "https://www.fsc.go.kr/no010101/87835?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "가상자산검사과",
       "isNew": false,
       "attachments": [],
-      "hash": "4661e09de201c3b412cc1cffa14790a5b5e127cce9905899843c7696287ca4c0"
+      "hash": "0430c2f9af7eaae5aae31c36d1488d193c164093d410eac186fbb95250a660bd"
     },
     {
       "id": "FSC-014521bf712eac93",
@@ -139,14 +139,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "대형 IB의 모험자본 공급 현황을 점검하고 리서치보고서의 독립성‧신뢰성 제고 및 중소형주 커버리지 확대 방안을 마련하였습니다.. 금일 등록된 게시글",
+      "title": "대형 IB의 모험자본 공급 현황을 점검하고 리서치보고서의 독립성‧신뢰성 제고 및 중소형주 커버리지 확대 방안을 마련하였습니다.",
       "url": "https://www.fsc.go.kr/no010101/87831?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장과",
       "isNew": false,
       "attachments": [],
-      "hash": "5371cd5bbaa38b89a2a67b01eacd34ae8341128ced1b1e4b72031275981c646a"
+      "hash": "609f6bde6e1e05dfaf87bdd66a3a7dbe17048ca4c032de4547ee0c657ad2bd38"
     },
     {
       "id": "FSC-4dab98ca2a50b1c7",
@@ -154,14 +154,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "｢금융시장 상황점검회의｣ 개최. 금일 등록된 게시글",
+      "title": "｢금융시장 상황점검회의｣ 개최",
       "url": "https://www.fsc.go.kr/no010101/87829?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "금융시장분석과",
       "isNew": false,
       "attachments": [],
-      "hash": "24b022e22404753b5ec2d6dface05a790d629c7cc06da7bf09bdd1583ec903a3"
+      "hash": "2b030e0eaad9600748bc62fc90e1dd8d94bd5ec319cb89a5136ca720fe7ae34e"
     },
     {
       "id": "FSS-28dd63a1ef6733b2",

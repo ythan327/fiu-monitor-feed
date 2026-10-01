@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T02:51:22+09:00",
+  "generatedAt": "2026-10-02T03:17:28+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-02T02:51:22+09:00",
+        "lastSuccessAt": "2026-10-02T03:17:28+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-02T02:51:22+09:00",
+        "lastSuccessAt": "2026-10-02T03:17:28+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-02T02:51:22+09:00",
+        "lastSuccessAt": "2026-10-02T03:17:28+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-02T02:51:22+09:00",
+        "lastSuccessAt": "2026-10-02T03:17:28+09:00",
         "itemCount": 2
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-02T02:51:22+09:00",
+        "lastSuccessAt": "2026-10-02T03:17:28+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 14,
+    "newSinceLastFeed": 0,
     "totalVisible": 24
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-10-01T16:47:40+09:00",
       "displayDate": "2026-10-01",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.hwp",
@@ -84,7 +84,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장조사총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0ccab45dc08d5479f24913c523f8cb4b6f3a26434f7ad1e9eb4cec95e0a60437"
     },
@@ -99,7 +99,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "국민성장펀드총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "06626282c5cd0a052f0e36233d386969316a17f355517ce73945e8ea0b008a03"
     },
@@ -114,7 +114,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "6527b22c7c0fb8280971bfc72d9648cce3ff8bd8bb5445bf3642657f33328294"
     },
@@ -129,7 +129,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "가상자산검사과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0430c2f9af7eaae5aae31c36d1488d193c164093d410eac186fbb95250a660bd"
     },
@@ -144,7 +144,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "609f6bde6e1e05dfaf87bdd66a3a7dbe17048ca4c032de4547ee0c657ad2bd38"
     },
@@ -159,7 +159,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "금융시장분석과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "2b030e0eaad9600748bc62fc90e1dd8d94bd5ec319cb89a5136ca720fe7ae34e"
     },
@@ -234,7 +234,7 @@
       "publishedAt": "2026-09-30T18:05:41+09:00",
       "displayDate": "2026-09-30",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "가상자산사업자 신고에 관한 정보공개현황(2026.9.30. 기준).xlsx",
@@ -255,7 +255,7 @@
       "publishedAt": "2026-09-30T00:00:00+09:00",
       "displayDate": "2026-09-29",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "2111da2feae17e8f75d77b38daeae0c562023bc3a021e2c7acce0a21f5b8d54f"
     },
@@ -270,7 +270,7 @@
       "publishedAt": "2026-09-30T00:00:00+09:00",
       "displayDate": "2026-09-29",
       "dept": "은행과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c1d74843f50aa0f3bc7ceeac490aa62f1be7019bbd69ac70676bf91ca2e13c3c"
     },
@@ -285,7 +285,7 @@
       "publishedAt": "2026-09-30T00:00:00+09:00",
       "displayDate": "2026-09-29",
       "dept": "복합지원팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "02c86204e8af4b4badd529d36846914af80e041edc6cca8eb746d98b642b2112"
     },
@@ -300,7 +300,7 @@
       "publishedAt": "2026-09-30T00:00:00+09:00",
       "displayDate": "2026-09-29",
       "dept": "청년정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "82bc114b34d7f999588ac895895f3b6947924f5af418f38bf0192f9cfbea94dc"
     },
@@ -405,7 +405,7 @@
       "publishedAt": "2026-09-18T15:20:38+09:00",
       "displayDate": "2026-09-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "'26년 자금세탁방지의 날 정부포상 후보 공개검증.hwpx",
@@ -431,7 +431,7 @@
       "publishedAt": "2026-09-18T13:51:38+09:00",
       "displayDate": "2026-09-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "260917보도자료(타직 중앙은행과의 MOU 체결).hwpx",

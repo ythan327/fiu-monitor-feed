@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T23:46:39+09:00",
+  "generatedAt": "2026-10-03T00:14:55+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-02T23:46:39+09:00",
+        "lastSuccessAt": "2026-10-03T00:14:55+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-02T23:46:39+09:00",
+        "lastSuccessAt": "2026-10-03T00:14:55+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-02T23:46:39+09:00",
+        "lastSuccessAt": "2026-10-03T00:14:55+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-02T23:46:39+09:00",
+        "lastSuccessAt": "2026-10-03T00:14:55+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-02T23:46:39+09:00",
+        "lastSuccessAt": "2026-10-03T00:14:55+09:00",
         "itemCount": 0
       }
     }
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다. - 금융위원회 사무처장 주재 「긴급 상황대응 회의」 개최. 금일 등록된 게시글",
+      "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다. - 금융위원회 사무처장 주재 「긴급 상황대응 회의」 개최",
       "url": "https://www.fsc.go.kr/no010101/87869?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-02T00:00:00+09:00",
       "displayDate": "2026-10-01",
       "dept": "금융안전과",
       "isNew": false,
       "attachments": [],
-      "hash": "c0fe55a6d76413b44aaf8d3d8fe6b9b7c6a360e66bbaa09a078fb1722be09d65"
+      "hash": "ebe80d8b8bad2b67f72134016cb21b989795d7f4b0dd725a1c752f7fe5e25106"
     },
     {
       "id": "FSC-8d98c7d699393cbc",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "제3회 ‘금융위人상’, 수요자 중심 정책에 파격포상. 금일 등록된 게시글",
+      "title": "제3회 ‘금융위人상’, 수요자 중심 정책에 파격포상",
       "url": "https://www.fsc.go.kr/no010101/87857?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-02T00:00:00+09:00",
       "displayDate": "2026-10-01",
       "dept": "혁신기획재정담당관",
       "isNew": false,
       "attachments": [],
-      "hash": "75f39f3fe5e0921e5dacb36e8ac2f91d8fd8fbb0bf672855c4c8d455305d23ac"
+      "hash": "5357757abbdd814c77a1e3c5dfc9df4727b2150457a949a0ef0d4e88042bb897"
     },
     {
       "id": "FSC-84da05113f2a2448",
@@ -78,14 +78,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "불법사금융 근절을 위한 4대 추가 제도 개선 추진. 금일 등록된 게시글",
+      "title": "불법사금융 근절을 위한 4대 추가 제도 개선 추진",
       "url": "https://www.fsc.go.kr/no010101/87852?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-02T00:00:00+09:00",
       "displayDate": "2026-10-01",
       "dept": "가계금융과",
       "isNew": false,
       "attachments": [],
-      "hash": "ea9034b8a0186aa3ea9b3d81c43585a7496e86117d9442f4035cfced328b21cd"
+      "hash": "c2909c85fcc23277b1a47ce5447594bdadcc5a7dc96c05481c3a23f1223d191e"
     },
     {
       "id": "FSC-18963ce23691ce88",
@@ -93,14 +93,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "새도약기금, 사회취약계층 장기연체채권 4차 소각. 금일 등록된 게시글",
+      "title": "새도약기금, 사회취약계층 장기연체채권 4차 소각",
       "url": "https://www.fsc.go.kr/no010101/87847?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-02T00:00:00+09:00",
       "displayDate": "2026-10-01",
       "dept": "서민금융과",
       "isNew": false,
       "attachments": [],
-      "hash": "54abc2ec9be61160b4bab39eefd43fb704fbf62ce19e5e846556ad708f1338b2"
+      "hash": "85771fdc973f753617997a7fa67265baf4f1cf349e0896e1b4fb7b74766072bd"
     },
     {
       "id": "FSC-c04aed6306d199b3",
@@ -108,14 +108,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.1일). 금일 등록된 게시글",
+      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.1일)",
       "url": "https://www.fsc.go.kr/no010101/87846?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-02T00:00:00+09:00",
       "displayDate": "2026-10-01",
       "dept": "국민지역참여지원과",
       "isNew": false,
       "attachments": [],
-      "hash": "3b12fef7506a1955f4fa2d7206ec13a171814f1f67c39347e9373bd452c35110"
+      "hash": "c201ddbb16bc936df09e46520641789b5acc96b675b389d3e6d1b0e4bc491783"
     },
     {
       "id": "FSS-357f75f078d46342",

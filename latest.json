@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T13:44:43+09:00",
+  "generatedAt": "2026-10-02T14:12:58+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,38 +8,38 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-02T13:44:43+09:00",
+        "lastSuccessAt": "2026-10-02T14:12:58+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-02T13:44:43+09:00",
+        "lastSuccessAt": "2026-10-02T14:12:58+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-02T13:44:43+09:00",
-        "itemCount": 2
+        "lastSuccessAt": "2026-10-02T14:12:58+09:00",
+        "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-02T13:44:43+09:00",
+        "lastSuccessAt": "2026-10-02T14:12:58+09:00",
         "itemCount": 2
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-02T13:44:43+09:00",
+        "lastSuccessAt": "2026-10-02T14:12:58+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
     "newSinceLastFeed": 0,
-    "totalVisible": 24
+    "totalVisible": 23
   },
   "items": [
     {
@@ -419,32 +419,6 @@
         }
       ],
       "hash": "d18e802e336cdf33e6da76ba860e98caf11d3f9887aee825301dd5eb77811005"
-    },
-    {
-      "id": "FIU-REPORT-417",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "타지키스탄 중앙은행과의 MOU 체결",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=417&seCd=0001",
-      "publishedAt": "2026-09-18T13:51:38+09:00",
-      "displayDate": "2026-09-18",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "260917보도자료(타직 중앙은행과의 MOU 체결).hwpx",
-          "type": "application/octet-stream",
-          "size": 614774
-        },
-        {
-          "name": "260917보도자료(타직 중앙은행과의 MOU 체결).pdf",
-          "type": "application/pdf",
-          "size": 204527
-        }
-      ],
-      "hash": "baee19257da05a527c1cd91be416461444008c509734ea5718456f9600b9d7f4"
     }
   ]
 }

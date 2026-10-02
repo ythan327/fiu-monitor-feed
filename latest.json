@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T12:45:13+09:00",
+  "generatedAt": "2026-10-02T13:13:29+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-02T12:45:13+09:00",
+        "lastSuccessAt": "2026-10-02T13:13:29+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-02T12:45:13+09:00",
+        "lastSuccessAt": "2026-10-02T13:13:29+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-02T12:45:13+09:00",
+        "lastSuccessAt": "2026-10-02T13:13:29+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-02T12:45:13+09:00",
+        "lastSuccessAt": "2026-10-02T13:13:29+09:00",
         "itemCount": 2
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-02T12:45:13+09:00",
+        "lastSuccessAt": "2026-10-02T13:13:29+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 24
   },
   "items": [
+    {
+      "id": "FSC-8d98c7d699393cbc",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "제3회 ‘금융위人상’, 수요자 중심 정책에 파격포상. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87857?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-02T00:00:00+09:00",
+      "displayDate": "2026-10-01",
+      "dept": "혁신기획재정담당관",
+      "isNew": true,
+      "attachments": [],
+      "hash": "75f39f3fe5e0921e5dacb36e8ac2f91d8fd8fbb0bf672855c4c8d455305d23ac"
+    },
     {
       "id": "FSC-84da05113f2a2448",
       "source": "FSC",
@@ -348,21 +363,6 @@
         }
       ],
       "hash": "314a6c47f1a6b72272906277f12c88687afe4927f1c992f525c7d8794746e7d5"
-    },
-    {
-      "id": "FSC-9cb451d00e0c2b88",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(9.30일)",
-      "url": "https://www.fsc.go.kr/no010101/87825?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "displayDate": "2026-09-29",
-      "dept": "국민지역참여지원과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "2111da2feae17e8f75d77b38daeae0c562023bc3a021e2c7acce0a21f5b8d54f"
     },
     {
       "id": "FSS-728116468a09e1d4",

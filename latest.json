@@ -1,77 +1,47 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T00:16:36+09:00",
+  "generatedAt": "2026-10-06T00:48:02+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "ok",
+    "overall": "partial",
     "sources": {
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-06T00:16:36+09:00",
+        "lastSuccessAt": "2026-10-06T00:48:02+09:00",
         "itemCount": 10
       },
       "FSS": {
-        "status": "ok",
+        "status": "error",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-06T00:16:36+09:00",
-        "itemCount": 10
+        "lastAttemptAt": "2026-10-06T00:48:02+09:00",
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fss.or.kr/fss/bbs/B0000188/list.do?menuNo=200218\", waiting until \"networkidle\"\n"
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-06T00:16:36+09:00",
+        "lastSuccessAt": "2026-10-06T00:48:02+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-06T00:16:36+09:00",
+        "lastSuccessAt": "2026-10-06T00:48:02+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-06T00:16:36+09:00",
+        "lastSuccessAt": "2026-10-06T00:48:02+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
     "newSinceLastFeed": 0,
-    "totalVisible": 22
+    "totalVisible": 12
   },
   "items": [
-    {
-      "id": "FSS-b05fca559428abb2",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "전환하고 싶어요 한 마디면 보험료가 할인됩니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=237413&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-05T00:00:00+09:00",
-      "displayDate": "2026-10-04",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "228bbee6a8c27cbb79b2547852c6fc089fe781f577b3ada378c1c0300ccd2414"
-    },
-    {
-      "id": "FSS-408424da0830c77b",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "全금융권이 비상한 경각심을 갖고 침해위협에 대응해 나가겠습니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=236976&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-04T00:00:00+09:00",
-      "displayDate": "2026-10-03",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "cceaa7130980189f95a8e7100a77efb68be6c71ea5439df624a2796bcf6096fa"
-    },
     {
       "id": "FSC-2de05236407db36e",
       "source": "FSC",
@@ -146,81 +116,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "c201ddbb16bc936df09e46520641789b5acc96b675b389d3e6d1b0e4bc491783"
-    },
-    {
-      "id": "FSS-357f75f078d46342",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=234804&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-02T00:00:00+09:00",
-      "displayDate": "2026-10-01",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "11771c62287c0886194e6ad9b42ca3011665f2c8d2abfdcd04f0c9092990d001"
-    },
-    {
-      "id": "FSS-a3778528ed03a01c",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "불법사금융 근절을 위한 4대 추가 제도 개선 추진",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=234367&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-02T00:00:00+09:00",
-      "displayDate": "2026-10-01",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ed00930246860e93aab88520825b7925214e1d35122d6ab5f01284faae95f5ec"
-    },
-    {
-      "id": "FSS-d554e3b93c77e995",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융감독원, 신설 사모운용사 CEO 대상 설명회 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=234345&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-02T00:00:00+09:00",
-      "displayDate": "2026-10-01",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "136e6694a40013e377f3b89579e3e23759d4d400e6ab40b96c846b1e6f92b813"
-    },
-    {
-      "id": "FSS-0f03ee46f9672a41",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "노인의 날을 맞아 금감원-금융권 공동 고령층 집중 금융교육을 실시합니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=234294&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-02T00:00:00+09:00",
-      "displayDate": "2026-10-01",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "d165829ba95a021e0d2b0a3d961f82e747d7f2acc86d3e2925d5d474a46a02f2"
-    },
-    {
-      "id": "FSS-bf13f876859bdff6",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "2026년 상반기 파생결합증권, 사채 발행, 운용 현황",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=234293&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-02T00:00:00+09:00",
-      "displayDate": "2026-10-01",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "efad9a1796f5a83040fa5ae7dbf39dab8bd18e107b75febf50109680b093da43"
     },
     {
       "id": "FIU-REPORT-418",
@@ -327,51 +222,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "609f6bde6e1e05dfaf87bdd66a3a7dbe17048ca4c032de4547ee0c657ad2bd38"
-    },
-    {
-      "id": "FSS-28dd63a1ef6733b2",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "26년 상반기 가상자산사업자 실태조사 결과",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=233627&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-01T00:00:00+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "8207ddafdc8ab28f4f9b2a7c6426bde4ec989510738dd9face54217dba6e5523"
-    },
-    {
-      "id": "FSS-9fff5c1580106c4b",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "대형 IB의 모험자본 공급 현황을 점검하고 리서치보고서의 독립성, 신뢰성 제고 및 중소형주 커버리지 확대 방안을 마련하였습니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=233557&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-01T00:00:00+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f5cc462aa8f5f6c11b2028572032a8b41612e0202be17c90b2d88d18ce840040"
-    },
-    {
-      "id": "FSS-a12a1486ff489eb9",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "보험상품 방송광고 건전화를 위한 간담회 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=233554&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-01T00:00:00+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "32e2bb58ef697f30af5414722c9f14a38cac7cc7ce035903ee1dc9cb8cb3f623"
     },
     {
       "id": "FIU-NOTICE-194",

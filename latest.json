@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T12:14:38+09:00",
+  "generatedAt": "2026-10-05T12:47:36+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-05T12:14:38+09:00",
+        "lastSuccessAt": "2026-10-05T12:47:36+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-05T12:14:38+09:00",
+        "lastSuccessAt": "2026-10-05T12:47:36+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-05T12:14:38+09:00",
+        "lastSuccessAt": "2026-10-05T12:47:36+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-05T12:14:38+09:00",
+        "lastSuccessAt": "2026-10-05T12:47:36+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-05T12:14:38+09:00",
+        "lastSuccessAt": "2026-10-05T12:47:36+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 13,
+    "newSinceLastFeed": 0,
     "totalVisible": 22
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-10-05T00:00:00+09:00",
       "displayDate": "2026-10-04",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "228bbee6a8c27cbb79b2547852c6fc089fe781f577b3ada378c1c0300ccd2414"
     },
@@ -83,7 +83,7 @@
       "publishedAt": "2026-10-02T00:00:00+09:00",
       "displayDate": "2026-10-01",
       "dept": "금융안전과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "ebe80d8b8bad2b67f72134016cb21b989795d7f4b0dd725a1c752f7fe5e25106"
     },
@@ -98,7 +98,7 @@
       "publishedAt": "2026-10-02T00:00:00+09:00",
       "displayDate": "2026-10-01",
       "dept": "혁신기획재정담당관",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "5357757abbdd814c77a1e3c5dfc9df4727b2150457a949a0ef0d4e88042bb897"
     },
@@ -113,7 +113,7 @@
       "publishedAt": "2026-10-02T00:00:00+09:00",
       "displayDate": "2026-10-01",
       "dept": "가계금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c2909c85fcc23277b1a47ce5447594bdadcc5a7dc96c05481c3a23f1223d191e"
     },
@@ -128,7 +128,7 @@
       "publishedAt": "2026-10-02T00:00:00+09:00",
       "displayDate": "2026-10-01",
       "dept": "서민금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "85771fdc973f753617997a7fa67265baf4f1cf349e0896e1b4fb7b74766072bd"
     },
@@ -143,7 +143,7 @@
       "publishedAt": "2026-10-02T00:00:00+09:00",
       "displayDate": "2026-10-01",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c201ddbb16bc936df09e46520641789b5acc96b675b389d3e6d1b0e4bc491783"
     },
@@ -233,7 +233,7 @@
       "publishedAt": "2026-10-01T16:47:40+09:00",
       "displayDate": "2026-10-01",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.hwp",
@@ -264,7 +264,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장조사총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0ccab45dc08d5479f24913c523f8cb4b6f3a26434f7ad1e9eb4cec95e0a60437"
     },
@@ -279,7 +279,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "국민성장펀드총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "06626282c5cd0a052f0e36233d386969316a17f355517ce73945e8ea0b008a03"
     },
@@ -294,7 +294,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "6527b22c7c0fb8280971bfc72d9648cce3ff8bd8bb5445bf3642657f33328294"
     },
@@ -309,7 +309,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "가상자산검사과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0430c2f9af7eaae5aae31c36d1488d193c164093d410eac186fbb95250a660bd"
     },
@@ -324,7 +324,7 @@
       "publishedAt": "2026-10-01T00:00:00+09:00",
       "displayDate": "2026-09-30",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "609f6bde6e1e05dfaf87bdd66a3a7dbe17048ca4c032de4547ee0c657ad2bd38"
     },
@@ -384,7 +384,7 @@
       "publishedAt": "2026-09-30T18:05:41+09:00",
       "displayDate": "2026-09-30",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "가상자산사업자 신고에 관한 정보공개현황(2026.9.30. 기준).xlsx",

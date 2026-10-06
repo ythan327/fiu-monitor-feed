@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T14:44:30+09:00",
+  "generatedAt": "2026-10-06T15:17:09+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-06T14:44:30+09:00",
+        "lastSuccessAt": "2026-10-06T15:17:09+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-06T14:44:30+09:00",
+        "lastSuccessAt": "2026-10-06T15:17:09+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-06T14:44:30+09:00",
+        "lastSuccessAt": "2026-10-06T15:17:09+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-06T14:44:30+09:00",
+        "lastSuccessAt": "2026-10-06T15:17:09+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-06T14:44:30+09:00",
+        "lastSuccessAt": "2026-10-06T15:17:09+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 2,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-7983175e94e17a6e",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱·스미싱 등 피해에 주의하세요.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87882?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-06T00:00:00+09:00",
+      "displayDate": "2026-10-05",
+      "dept": "금융안전과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "0a3648d85b5e2ad1b90ed275936b50cbfb16a3f57dd5eb0537f8c26b98cd958b"
+    },
     {
       "id": "FSC-58f95432aa6f9537",
       "source": "FSC",
@@ -101,6 +116,21 @@
       "isNew": false,
       "attachments": [],
       "hash": "b361fa3a9d39d8d8c2b72b032b1b36bc75b32b07a5cd7e7f56972e06196e1f9b"
+    },
+    {
+      "id": "FSS-b59ddb7af67e892f",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱, 스미싱 등 피해에 주의하세요",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=237928&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-06T00:00:00+09:00",
+      "displayDate": "2026-10-05",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "9e5d3ae486b7f0cc45e8be713ae764160f4531f68e669c6e9fddce214929e30b"
     },
     {
       "id": "FSS-8bb7395a60471358",
@@ -329,21 +359,6 @@
       "hash": "869efd4b4a82e9b30da0a33b95aeafa1b8a242977618ca88c616e2f88653b085"
     },
     {
-      "id": "FSC-e4a0092b9a90a009",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "법인 대표이사의 시세조종행위 등 불공정거래 행위에 대한 적발·조치(3건) - 제17차 증권선물위원회(9.30.) 의결",
-      "url": "https://www.fsc.go.kr/no010101/87840?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-01T00:00:00+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "자본시장조사총괄과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "0ccab45dc08d5479f24913c523f8cb4b6f3a26434f7ad1e9eb4cec95e0a60437"
-    },
-    {
       "id": "FSS-28dd63a1ef6733b2",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -357,21 +372,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "8207ddafdc8ab28f4f9b2a7c6426bde4ec989510738dd9face54217dba6e5523"
-    },
-    {
-      "id": "FSS-9fff5c1580106c4b",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "대형 IB의 모험자본 공급 현황을 점검하고 리서치보고서의 독립성, 신뢰성 제고 및 중소형주 커버리지 확대 방안을 마련하였습니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=233557&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-01T00:00:00+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f5cc462aa8f5f6c11b2028572032a8b41612e0202be17c90b2d88d18ce840040"
     },
     {
       "id": "FIU-NOTICE-194",

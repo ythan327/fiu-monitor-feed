@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T23:45:22+09:00",
+  "generatedAt": "2026-10-07T00:14:57+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-06T23:45:22+09:00",
+        "lastSuccessAt": "2026-10-07T00:14:57+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-06T23:45:22+09:00",
+        "lastSuccessAt": "2026-10-07T00:14:57+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-06T23:45:22+09:00",
+        "lastSuccessAt": "2026-10-07T00:14:57+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-06T23:45:22+09:00",
+        "lastSuccessAt": "2026-10-07T00:14:57+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-06T23:45:22+09:00",
+        "lastSuccessAt": "2026-10-07T00:14:57+09:00",
         "itemCount": 0
       }
     }
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱·스미싱 등 피해에 주의하세요.. 금일 등록된 게시글",
+      "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱·스미싱 등 피해에 주의하세요.",
       "url": "https://www.fsc.go.kr/no010101/87882?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-06T00:00:00+09:00",
       "displayDate": "2026-10-05",
       "dept": "금융안전과",
       "isNew": false,
       "attachments": [],
-      "hash": "0a3648d85b5e2ad1b90ed275936b50cbfb16a3f57dd5eb0537f8c26b98cd958b"
+      "hash": "33b03f8532e61a713ca28038310b8cfb2dfe0716cbcddd6542a1d97f8ee8ae16"
     },
     {
       "id": "FSC-58f95432aa6f9537",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "신협의 부실채권 관리체계를 고도화합니다 신용협동조합법 시행령 개정안 국무회의 의결. 금일 등록된 게시글",
+      "title": "신협의 부실채권 관리체계를 고도화합니다 신용협동조합법 시행령 개정안 국무회의 의결",
       "url": "https://www.fsc.go.kr/no010101/87881?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-06T00:00:00+09:00",
       "displayDate": "2026-10-05",
       "dept": "상호금융팀",
       "isNew": false,
       "attachments": [],
-      "hash": "60732f47f6710dc261ceb874a738a169169d2fdd9c7b18e2450b14ba3540aeed"
+      "hash": "b8e1dfb478cbd2d7ecbdee83e04e778342864cd960d3b9f241f9eb3da716978d"
     },
     {
       "id": "FSC-bd371ae8682b926a",
@@ -78,14 +78,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "청년미래적금 2차 가입기간 운영, 10월 7일부터 16일까지 가입신청. 금일 등록된 게시글",
+      "title": "청년미래적금 2차 가입기간 운영, 10월 7일부터 16일까지 가입신청",
       "url": "https://www.fsc.go.kr/no010101/87880?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-06T00:00:00+09:00",
       "displayDate": "2026-10-05",
       "dept": "청년정책과",
       "isNew": false,
       "attachments": [],
-      "hash": "1a9708426a3fc8b77f20d133ca8475a12203c35fac601dc4c00e2569f99b0bde"
+      "hash": "761fc28a10ed3f05acdfef0ac4e2abac9ff4b1a694cc40252c2c65f75999ef8d"
     },
     {
       "id": "FSC-9bebbb20101e835c",
@@ -93,14 +93,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "全금융권이 비상한 경각심을 갖고 침해위협에 대응해 나가겠습니다. - 금융위원장 주재 금융위·금감원 합동 「全금융권 긴급 점검회의」 개최. 금일 등록된 게시글",
+      "title": "全금융권이 비상한 경각심을 갖고 침해위협에 대응해 나가겠습니다. - 금융위원장 주재 금융위·금감원 합동 「全금융권 긴급 점검회의」 개최",
       "url": "https://www.fsc.go.kr/no010101/87876?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-06T00:00:00+09:00",
       "displayDate": "2026-10-05",
       "dept": "금융안전과",
       "isNew": false,
       "attachments": [],
-      "hash": "2d732a6c45e4c20111a110e2a25a1f4541fbac1fc79567333cf87a99b0e0292c"
+      "hash": "d9a7a117868baf087267a7b73eb86a896d76f3397a614cedb00d926fb34adf8c"
     },
     {
       "id": "FSC-ab6a2ded0207f1a5",
@@ -108,14 +108,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.2일). 금일 등록된 게시글",
+      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.2일)",
       "url": "https://www.fsc.go.kr/no010101/87875?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-06T00:00:00+09:00",
       "displayDate": "2026-10-05",
       "dept": "국민지역참여지원과",
       "isNew": false,
       "attachments": [],
-      "hash": "b361fa3a9d39d8d8c2b72b032b1b36bc75b32b07a5cd7e7f56972e06196e1f9b"
+      "hash": "3b42ec597f9993036a36889b5644e7162d15badc3d799d10dc41b2105b20a810"
     },
     {
       "id": "FSS-b59ddb7af67e892f",

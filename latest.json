@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T09:20:26+09:00",
+  "generatedAt": "2026-10-06T09:51:30+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-06T09:20:26+09:00",
+        "lastSuccessAt": "2026-10-06T09:51:30+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-06T09:20:26+09:00",
+        "lastSuccessAt": "2026-10-06T09:51:30+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-06T09:20:26+09:00",
+        "lastSuccessAt": "2026-10-06T09:51:30+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-06T09:20:26+09:00",
+        "lastSuccessAt": "2026-10-06T09:51:30+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-06T09:20:26+09:00",
+        "lastSuccessAt": "2026-10-06T09:51:30+09:00",
         "itemCount": 0
       }
     }
@@ -42,6 +42,21 @@
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-9bebbb20101e835c",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "全금융권이 비상한 경각심을 갖고 침해위협에 대응해 나가겠습니다. - 금융위원장 주재 금융위·금감원 합동 「全금융권 긴급 점검회의」 개최. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87876?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-06T00:00:00+09:00",
+      "displayDate": "2026-10-05",
+      "dept": "금융안전과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "2d732a6c45e4c20111a110e2a25a1f4541fbac1fc79567333cf87a99b0e0292c"
+    },
     {
       "id": "FSC-ab6a2ded0207f1a5",
       "source": "FSC",
@@ -53,7 +68,7 @@
       "publishedAt": "2026-10-06T00:00:00+09:00",
       "displayDate": "2026-10-05",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "b361fa3a9d39d8d8c2b72b032b1b36bc75b32b07a5cd7e7f56972e06196e1f9b"
     },
@@ -327,21 +342,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "6527b22c7c0fb8280971bfc72d9648cce3ff8bd8bb5445bf3642657f33328294"
-    },
-    {
-      "id": "FSC-56a5a048a0da29ee",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "’26년 상반기 가상자산사업자 실태조사 결과",
-      "url": "https://www.fsc.go.kr/no010101/87835?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-01T00:00:00+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "가상자산검사과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "0430c2f9af7eaae5aae31c36d1488d193c164093d410eac186fbb95250a660bd"
     },
     {
       "id": "FSS-28dd63a1ef6733b2",

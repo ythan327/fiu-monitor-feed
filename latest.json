@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T09:53:22+09:00",
+  "generatedAt": "2026-10-07T10:16:36+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-07T09:53:22+09:00",
+        "lastSuccessAt": "2026-10-07T10:16:36+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-07T09:53:22+09:00",
+        "lastSuccessAt": "2026-10-07T10:16:36+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-07T09:53:22+09:00",
+        "lastSuccessAt": "2026-10-07T10:16:36+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-07T09:53:22+09:00",
+        "lastSuccessAt": "2026-10-07T10:16:36+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-07T09:53:22+09:00",
+        "lastSuccessAt": "2026-10-07T10:16:36+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSS-46adc92f81e205e5",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "투자자 중심 내부감사기능 강화를 위한 증권사 감사 간담회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=238097&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-07T00:00:00+09:00",
+      "displayDate": "2026-10-06",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "39dda9744de822fb3619e6abd170ed272d6e29a527d82386c89ef748c7251e71"
+    },
     {
       "id": "FSC-7983175e94e17a6e",
       "source": "FSC",
@@ -357,21 +372,6 @@
         }
       ],
       "hash": "869efd4b4a82e9b30da0a33b95aeafa1b8a242977618ca88c616e2f88653b085"
-    },
-    {
-      "id": "FSS-28dd63a1ef6733b2",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "26년 상반기 가상자산사업자 실태조사 결과",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=233627&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-01T00:00:00+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "8207ddafdc8ab28f4f9b2a7c6426bde4ec989510738dd9face54217dba6e5523"
     },
     {
       "id": "FIU-NOTICE-194",

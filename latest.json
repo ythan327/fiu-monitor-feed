@@ -1,92 +1,47 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T18:14:25+09:00",
+  "generatedAt": "2026-10-07T18:47:35+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "ok",
+    "overall": "partial",
     "sources": {
       "FSC": {
-        "status": "ok",
+        "status": "error",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-07T18:14:25+09:00",
-        "itemCount": 10
+        "lastAttemptAt": "2026-10-07T18:47:35+09:00",
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fsc.go.kr/no010101\", waiting until \"networkidle\"\n"
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-07T18:14:25+09:00",
+        "lastSuccessAt": "2026-10-07T18:47:35+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-07T18:14:25+09:00",
-        "itemCount": 1
+        "lastAttemptAt": "2026-10-07T18:47:35+09:00",
+        "message": "fetch failed"
       },
       "FIU_NOTICE": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-07T18:14:25+09:00",
-        "itemCount": 1
+        "lastAttemptAt": "2026-10-07T18:47:35+09:00",
+        "message": "fetch failed"
       },
       "FIU_SANCTIONS": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-07T18:14:25+09:00",
-        "itemCount": 0
+        "lastAttemptAt": "2026-10-07T18:47:35+09:00",
+        "message": "fetch failed"
       }
     }
   },
   "counts": {
     "newSinceLastFeed": 0,
-    "totalVisible": 22
+    "totalVisible": 10
   },
   "items": [
-    {
-      "id": "FSC-b38a31f3446be0f7",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제17차 금융위원회(’26.10.7.) 조치 의결 -. 금일 등록된 게시글",
-      "url": "https://www.fsc.go.kr/no010101/87894?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-07T00:00:00+09:00",
-      "displayDate": "2026-10-06",
-      "dept": "회계제도팀",
-      "isNew": false,
-      "attachments": [],
-      "hash": "6b241adcdffad14ef3d4bed7b6c3529f14bdc53d460bd228ecc9b7cf26bae83a"
-    },
-    {
-      "id": "FSC-140cee2813501586",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "“개인간 중고거래 신용카드 안전결제 서비스” 등 혁신금융서비스 24건 신규 지정 의결. 금일 등록된 게시글",
-      "url": "https://www.fsc.go.kr/no010101/87893?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-07T00:00:00+09:00",
-      "displayDate": "2026-10-06",
-      "dept": "디지털금융총괄과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "5fc28354d0971bf1aa6fb04166c33ba1d3a96a39c4371739a3f673984ec1f666"
-    },
-    {
-      "id": "FSC-23c9cb92b86798c2",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "탄소 감축을 넘어 신성장동력으로, 정부 1,000조원 투자로 K-GX 본격 가동. 금일 등록된 게시글",
-      "url": "https://www.fsc.go.kr/no010101/87890?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-07T00:00:00+09:00",
-      "displayDate": "2026-10-06",
-      "dept": "산업금융과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "90823929f82d0a970a60f44b62cf8eceeb4a26127614c0d654d881df065f3eb8"
-    },
     {
       "id": "FSS-a839bf0f4a6b7fe2",
       "source": "FSS",
@@ -131,81 +86,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "39dda9744de822fb3619e6abd170ed272d6e29a527d82386c89ef748c7251e71"
-    },
-    {
-      "id": "FSC-7983175e94e17a6e",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱·스미싱 등 피해에 주의하세요.",
-      "url": "https://www.fsc.go.kr/no010101/87882?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-06T00:00:00+09:00",
-      "displayDate": "2026-10-05",
-      "dept": "금융안전과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "33b03f8532e61a713ca28038310b8cfb2dfe0716cbcddd6542a1d97f8ee8ae16"
-    },
-    {
-      "id": "FSC-58f95432aa6f9537",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "신협의 부실채권 관리체계를 고도화합니다 신용협동조합법 시행령 개정안 국무회의 의결",
-      "url": "https://www.fsc.go.kr/no010101/87881?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-06T00:00:00+09:00",
-      "displayDate": "2026-10-05",
-      "dept": "상호금융팀",
-      "isNew": false,
-      "attachments": [],
-      "hash": "b8e1dfb478cbd2d7ecbdee83e04e778342864cd960d3b9f241f9eb3da716978d"
-    },
-    {
-      "id": "FSC-bd371ae8682b926a",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "청년미래적금 2차 가입기간 운영, 10월 7일부터 16일까지 가입신청",
-      "url": "https://www.fsc.go.kr/no010101/87880?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-06T00:00:00+09:00",
-      "displayDate": "2026-10-05",
-      "dept": "청년정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "761fc28a10ed3f05acdfef0ac4e2abac9ff4b1a694cc40252c2c65f75999ef8d"
-    },
-    {
-      "id": "FSC-9bebbb20101e835c",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "全금융권이 비상한 경각심을 갖고 침해위협에 대응해 나가겠습니다. - 금융위원장 주재 금융위·금감원 합동 「全금융권 긴급 점검회의」 개최",
-      "url": "https://www.fsc.go.kr/no010101/87876?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-06T00:00:00+09:00",
-      "displayDate": "2026-10-05",
-      "dept": "금융안전과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "d9a7a117868baf087267a7b73eb86a896d76f3397a614cedb00d926fb34adf8c"
-    },
-    {
-      "id": "FSC-ab6a2ded0207f1a5",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.2일)",
-      "url": "https://www.fsc.go.kr/no010101/87875?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-06T00:00:00+09:00",
-      "displayDate": "2026-10-05",
-      "dept": "국민지역참여지원과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "3b42ec597f9993036a36889b5644e7162d15badc3d799d10dc41b2105b20a810"
     },
     {
       "id": "FSS-b59ddb7af67e892f",
@@ -268,36 +148,6 @@
       "hash": "cceaa7130980189f95a8e7100a77efb68be6c71ea5439df624a2796bcf6096fa"
     },
     {
-      "id": "FSC-2de05236407db36e",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다. - 금융위원회 사무처장 주재 「긴급 상황대응 회의」 개최",
-      "url": "https://www.fsc.go.kr/no010101/87869?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-02T00:00:00+09:00",
-      "displayDate": "2026-10-01",
-      "dept": "금융안전과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ebe80d8b8bad2b67f72134016cb21b989795d7f4b0dd725a1c752f7fe5e25106"
-    },
-    {
-      "id": "FSC-8d98c7d699393cbc",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제3회 ‘금융위人상’, 수요자 중심 정책에 파격포상",
-      "url": "https://www.fsc.go.kr/no010101/87857?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-02T00:00:00+09:00",
-      "displayDate": "2026-10-01",
-      "dept": "혁신기획재정담당관",
-      "isNew": false,
-      "attachments": [],
-      "hash": "5357757abbdd814c77a1e3c5dfc9df4727b2150457a949a0ef0d4e88042bb897"
-    },
-    {
       "id": "FSS-357f75f078d46342",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -341,58 +191,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "136e6694a40013e377f3b89579e3e23759d4d400e6ab40b96c846b1e6f92b813"
-    },
-    {
-      "id": "FIU-REPORT-418",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "'26년 상반기 가상자산사업자 실태조사 결과",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=418&seCd=0001",
-      "publishedAt": "2026-10-01T16:47:40+09:00",
-      "displayDate": "2026-10-01",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.hwp",
-          "type": "application/octet-stream",
-          "size": 1395200
-        },
-        {
-          "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.hwpx",
-          "type": "application/octet-stream",
-          "size": 1145527
-        },
-        {
-          "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.pdf",
-          "type": "application/pdf",
-          "size": 2295979
-        }
-      ],
-      "hash": "869efd4b4a82e9b30da0a33b95aeafa1b8a242977618ca88c616e2f88653b085"
-    },
-    {
-      "id": "FIU-NOTICE-194",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "NOTICE",
-      "categoryLabel": "공지사항",
-      "title": "가상자산사업자 신고 현황(2026.9.30. 기준)",
-      "url": "https://www.kofiu.go.kr/kor/notification/notice_view.do?ntcnYardOrdrNo=194&seCd=0007",
-      "publishedAt": "2026-09-30T18:05:41+09:00",
-      "displayDate": "2026-09-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "가상자산사업자 신고에 관한 정보공개현황(2026.9.30. 기준).xlsx",
-          "type": "application/haansoftxlsx",
-          "size": 19298
-        }
-      ],
-      "hash": "314a6c47f1a6b72272906277f12c88687afe4927f1c992f525c7d8794746e7d5"
     }
   ]
 }

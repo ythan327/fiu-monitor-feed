@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T23:47:45+09:00",
+  "generatedAt": "2026-10-09T00:14:40+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-08T23:47:45+09:00",
+        "lastSuccessAt": "2026-10-09T00:14:40+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-08T23:47:45+09:00",
+        "lastSuccessAt": "2026-10-09T00:14:40+09:00",
         "itemCount": 0
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-08T23:47:45+09:00",
+        "lastSuccessAt": "2026-10-09T00:14:40+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-08T23:47:45+09:00",
+        "lastSuccessAt": "2026-10-09T00:14:40+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-08T23:47:45+09:00",
+        "lastSuccessAt": "2026-10-09T00:14:40+09:00",
         "itemCount": 0
       }
     }
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 첫 5영업일간 판매 현황(9.30일~10.7일). 금일 등록된 게시글",
+      "title": "제2차 국민참여성장펀드 첫 5영업일간 판매 현황(9.30일~10.7일)",
       "url": "https://www.fsc.go.kr/no010101/87900?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-08T00:00:00+09:00",
       "displayDate": "2026-10-07",
       "dept": "국민지역참여지원과",
       "isNew": false,
       "attachments": [],
-      "hash": "e6a922662bdaad86a10810ffa9ef363cc67ce6d60dca04048828abad585e252b"
+      "hash": "14438d1d87100aef6609e04e0950d30d45faa23a48b87d9e5999f2a3e1d9eaad"
     },
     {
       "id": "FSC-6806665e39aec6b0",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.6일). 금일 등록된 게시글",
+      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.6일)",
       "url": "https://www.fsc.go.kr/no010101/87899?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-08T00:00:00+09:00",
       "displayDate": "2026-10-07",
       "dept": "국민지역참여지원과",
       "isNew": false,
       "attachments": [],
-      "hash": "ddcb3f9fafaff1f0e63b8044b0091551ab4dcb7d18df9f9d3451d469faa92123"
+      "hash": "0e6a1b2014985690ab548e8385510bd3e9a8904b4eeabbd462bac9058b7fd7e3"
     },
     {
       "id": "FSC-b38a31f3446be0f7",

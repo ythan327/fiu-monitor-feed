@@ -1,45 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T11:44:09+09:00",
+  "generatedAt": "2026-10-08T12:13:52+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "partial",
+    "overall": "ok",
     "sources": {
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-08T11:44:09+09:00",
+        "lastSuccessAt": "2026-10-08T12:13:52+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-08T11:44:09+09:00",
+        "lastSuccessAt": "2026-10-08T12:13:52+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
-        "status": "error",
+        "status": "ok",
         "label": "FIU 보도자료",
-        "lastAttemptAt": "2026-10-08T11:44:09+09:00",
-        "message": "fetch failed"
+        "lastSuccessAt": "2026-10-08T12:13:52+09:00",
+        "itemCount": 1
       },
       "FIU_NOTICE": {
-        "status": "error",
+        "status": "ok",
         "label": "FIU 공지사항",
-        "lastAttemptAt": "2026-10-08T11:44:09+09:00",
-        "message": "fetch failed"
+        "lastSuccessAt": "2026-10-08T12:13:52+09:00",
+        "itemCount": 1
       },
       "FIU_SANCTIONS": {
-        "status": "error",
+        "status": "ok",
         "label": "FIU 제재공시",
-        "lastAttemptAt": "2026-10-08T11:44:09+09:00",
-        "message": "fetch failed"
+        "lastSuccessAt": "2026-10-08T12:13:52+09:00",
+        "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
-    "totalVisible": 20
+    "newSinceLastFeed": 2,
+    "totalVisible": 22
   },
   "items": [
     {
@@ -341,6 +341,58 @@
       "isNew": false,
       "attachments": [],
       "hash": "11771c62287c0886194e6ad9b42ca3011665f2c8d2abfdcd04f0c9092990d001"
+    },
+    {
+      "id": "FIU-REPORT-418",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "'26년 상반기 가상자산사업자 실태조사 결과",
+      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=418&seCd=0001",
+      "publishedAt": "2026-10-01T16:47:40+09:00",
+      "displayDate": "2026-10-01",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.hwp",
+          "type": "application/octet-stream",
+          "size": 1395200
+        },
+        {
+          "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.hwpx",
+          "type": "application/octet-stream",
+          "size": 1145527
+        },
+        {
+          "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.pdf",
+          "type": "application/pdf",
+          "size": 2295979
+        }
+      ],
+      "hash": "869efd4b4a82e9b30da0a33b95aeafa1b8a242977618ca88c616e2f88653b085"
+    },
+    {
+      "id": "FIU-NOTICE-194",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "NOTICE",
+      "categoryLabel": "공지사항",
+      "title": "가상자산사업자 신고 현황(2026.9.30. 기준)",
+      "url": "https://www.kofiu.go.kr/kor/notification/notice_view.do?ntcnYardOrdrNo=194&seCd=0007",
+      "publishedAt": "2026-09-30T18:05:41+09:00",
+      "displayDate": "2026-09-30",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "가상자산사업자 신고에 관한 정보공개현황(2026.9.30. 기준).xlsx",
+          "type": "application/haansoftxlsx",
+          "size": 19298
+        }
+      ],
+      "hash": "314a6c47f1a6b72272906277f12c88687afe4927f1c992f525c7d8794746e7d5"
     }
   ]
 }

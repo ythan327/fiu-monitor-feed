@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T03:19:32+09:00",
+  "generatedAt": "2026-10-12T07:18:23+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-12T03:19:32+09:00",
+        "lastSuccessAt": "2026-10-12T07:18:23+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-12T03:19:32+09:00",
+        "lastSuccessAt": "2026-10-12T07:18:23+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-12T03:19:32+09:00",
+        "lastSuccessAt": "2026-10-12T07:18:23+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-12T03:19:32+09:00",
+        "lastSuccessAt": "2026-10-12T07:18:23+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-12T03:19:32+09:00",
+        "lastSuccessAt": "2026-10-12T07:18:23+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSS-11efd7a81d805484",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융권의 소멸시효 연장 관행을 개선하기 위해 조건부 대손인정제도가 시행됩니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=239722&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-12T00:00:00+09:00",
+      "displayDate": "2026-10-11",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "40d5c6631ef5ebb50878de403106d35aec044663179e36b07eaf83d559676b16"
+    },
     {
       "id": "FSC-26823e185c500be4",
       "source": "FSC",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "cceaa7130980189f95a8e7100a77efb68be6c71ea5439df624a2796bcf6096fa"
-    },
-    {
-      "id": "FSS-357f75f078d46342",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "최근 발생하는 금융권 침해위협에 면밀히 대응해 나가겠습니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=234804&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-02T00:00:00+09:00",
-      "displayDate": "2026-10-01",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "11771c62287c0886194e6ad9b42ca3011665f2c8d2abfdcd04f0c9092990d001"
     },
     {
       "id": "FIU-REPORT-418",

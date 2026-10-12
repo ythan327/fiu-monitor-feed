@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T07:18:23+09:00",
+  "generatedAt": "2026-10-12T10:34:31+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-12T07:18:23+09:00",
+        "lastSuccessAt": "2026-10-12T10:34:31+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-12T07:18:23+09:00",
+        "lastSuccessAt": "2026-10-12T10:34:31+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-12T07:18:23+09:00",
+        "lastSuccessAt": "2026-10-12T10:34:31+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-12T07:18:23+09:00",
+        "lastSuccessAt": "2026-10-12T10:34:31+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-12T07:18:23+09:00",
+        "lastSuccessAt": "2026-10-12T10:34:31+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
+    "newSinceLastFeed": 2,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-7e673cff7dfa9e54",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "청년미래적금, 10월 12일부터 16일까지 출생연도와 관계없이 가입신청 가능. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87908?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-12T00:00:00+09:00",
+      "displayDate": "2026-10-11",
+      "dept": "청년정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "fc571bfe54c7a9f0b7206df0fbce4d3a6b45bf5a7e76b54b55d9cdce1872cbbd"
+    },
+    {
+      "id": "FSC-49c3fd480d472680",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.8일). 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87907?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-12T00:00:00+09:00",
+      "displayDate": "2026-10-11",
+      "dept": "국민지역참여지원과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "315eb110ebb0024a9983c2fd450fc38e0c2433ba32d131f484c15b74586132df"
+    },
     {
       "id": "FSS-11efd7a81d805484",
       "source": "FSS",
@@ -53,7 +83,7 @@
       "publishedAt": "2026-10-12T00:00:00+09:00",
       "displayDate": "2026-10-11",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "40d5c6631ef5ebb50878de403106d35aec044663179e36b07eaf83d559676b16"
     },
@@ -251,36 +281,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "761fc28a10ed3f05acdfef0ac4e2abac9ff4b1a694cc40252c2c65f75999ef8d"
-    },
-    {
-      "id": "FSC-9bebbb20101e835c",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "全금융권이 비상한 경각심을 갖고 침해위협에 대응해 나가겠습니다. - 금융위원장 주재 금융위·금감원 합동 「全금융권 긴급 점검회의」 개최",
-      "url": "https://www.fsc.go.kr/no010101/87876?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-06T00:00:00+09:00",
-      "displayDate": "2026-10-05",
-      "dept": "금융안전과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "d9a7a117868baf087267a7b73eb86a896d76f3397a614cedb00d926fb34adf8c"
-    },
-    {
-      "id": "FSC-ab6a2ded0207f1a5",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.2일)",
-      "url": "https://www.fsc.go.kr/no010101/87875?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-06T00:00:00+09:00",
-      "displayDate": "2026-10-05",
-      "dept": "국민지역참여지원과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "3b42ec597f9993036a36889b5644e7162d15badc3d799d10dc41b2105b20a810"
     },
     {
       "id": "FSS-b59ddb7af67e892f",

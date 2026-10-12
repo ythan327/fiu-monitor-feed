@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T10:34:31+09:00",
+  "generatedAt": "2026-10-12T17:45:15+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-12T10:34:31+09:00",
+        "lastSuccessAt": "2026-10-12T17:45:15+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-12T10:34:31+09:00",
+        "lastSuccessAt": "2026-10-12T17:45:15+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-12T10:34:31+09:00",
+        "lastSuccessAt": "2026-10-12T17:45:15+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-12T10:34:31+09:00",
+        "lastSuccessAt": "2026-10-12T17:45:15+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-12T10:34:31+09:00",
+        "lastSuccessAt": "2026-10-12T17:45:15+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 2,
+    "newSinceLastFeed": 3,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-be107a74efb2447c",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융권의 소멸시효 연장 관행을 개선하기 위해 조건부 대손인정제도가 시행됩니다. - 「금융기관채권대손인정업무세칙」 개정안 시행(10.12.). 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87913?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-12T00:00:00+09:00",
+      "displayDate": "2026-10-11",
+      "dept": "서민금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "0d6eb6ba603dcfca7628520a4c96b3f94901c438c4126ce57a5298523c859bef"
+    },
+    {
+      "id": "FSC-2a87349eaeb8c396",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이억원 금융위원장, SC그룹 CFO·CRO 면담. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87910?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-12T00:00:00+09:00",
+      "displayDate": "2026-10-11",
+      "dept": "글로벌금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "d3b8393143db7bae47c7fb2e6714d43558775eda72878e50f8fcb500d65c7264"
+    },
     {
       "id": "FSC-7e673cff7dfa9e54",
       "source": "FSC",
@@ -53,7 +83,7 @@
       "publishedAt": "2026-10-12T00:00:00+09:00",
       "displayDate": "2026-10-11",
       "dept": "청년정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "fc571bfe54c7a9f0b7206df0fbce4d3a6b45bf5a7e76b54b55d9cdce1872cbbd"
     },
@@ -68,9 +98,24 @@
       "publishedAt": "2026-10-12T00:00:00+09:00",
       "displayDate": "2026-10-11",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "315eb110ebb0024a9983c2fd450fc38e0c2433ba32d131f484c15b74586132df"
+    },
+    {
+      "id": "FSS-6d274f63717e8fce",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융감독원, PEF 운용사에 대한 내부통제 점검 실시",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=239804&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-12T00:00:00+09:00",
+      "displayDate": "2026-10-11",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "108c3d68f5a75753129cad01d473d8721239845807b183ee73d703bad1f8b20f"
     },
     {
       "id": "FSS-11efd7a81d805484",
@@ -253,36 +298,6 @@
       "hash": "33b03f8532e61a713ca28038310b8cfb2dfe0716cbcddd6542a1d97f8ee8ae16"
     },
     {
-      "id": "FSC-58f95432aa6f9537",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "신협의 부실채권 관리체계를 고도화합니다 신용협동조합법 시행령 개정안 국무회의 의결",
-      "url": "https://www.fsc.go.kr/no010101/87881?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-06T00:00:00+09:00",
-      "displayDate": "2026-10-05",
-      "dept": "상호금융팀",
-      "isNew": false,
-      "attachments": [],
-      "hash": "b8e1dfb478cbd2d7ecbdee83e04e778342864cd960d3b9f241f9eb3da716978d"
-    },
-    {
-      "id": "FSC-bd371ae8682b926a",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "청년미래적금 2차 가입기간 운영, 10월 7일부터 16일까지 가입신청",
-      "url": "https://www.fsc.go.kr/no010101/87880?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-06T00:00:00+09:00",
-      "displayDate": "2026-10-05",
-      "dept": "청년정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "761fc28a10ed3f05acdfef0ac4e2abac9ff4b1a694cc40252c2c65f75999ef8d"
-    },
-    {
       "id": "FSS-b59ddb7af67e892f",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "228bbee6a8c27cbb79b2547852c6fc089fe781f577b3ada378c1c0300ccd2414"
-    },
-    {
-      "id": "FSS-408424da0830c77b",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "全금융권이 비상한 경각심을 갖고 침해위협에 대응해 나가겠습니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=236976&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-04T00:00:00+09:00",
-      "displayDate": "2026-10-03",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "cceaa7130980189f95a8e7100a77efb68be6c71ea5439df624a2796bcf6096fa"
     },
     {
       "id": "FIU-REPORT-418",

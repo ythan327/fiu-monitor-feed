@@ -1,47 +1,92 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T03:42:37+09:00",
+  "generatedAt": "2026-10-13T10:08:54+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "partial",
+    "overall": "ok",
     "sources": {
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-13T03:42:37+09:00",
+        "lastSuccessAt": "2026-10-13T10:08:54+09:00",
         "itemCount": 10
       },
       "FSS": {
-        "status": "error",
+        "status": "ok",
         "label": "금감원",
-        "lastAttemptAt": "2026-10-13T03:42:37+09:00",
-        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fss.or.kr/fss/bbs/B0000188/list.do?menuNo=200218\", waiting until \"networkidle\"\n"
+        "lastSuccessAt": "2026-10-13T10:08:54+09:00",
+        "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-13T03:42:37+09:00",
+        "lastSuccessAt": "2026-10-13T10:08:54+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-13T03:42:37+09:00",
+        "lastSuccessAt": "2026-10-13T10:08:54+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-13T03:42:37+09:00",
+        "lastSuccessAt": "2026-10-13T10:08:54+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
-    "totalVisible": 12
+    "newSinceLastFeed": 12,
+    "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-690e9b36a7d87876",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다. - 구글·애플 앱에 이어 인터넷 사이트도 국내 접속차단. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87916?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-13T00:00:00+09:00",
+      "displayDate": "2026-10-12",
+      "dept": "가상자산검사과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "7b125a5e784129a3536ea0e2431687122682cfb003791da6187deffd632c7a36"
+    },
+    {
+      "id": "FSC-ce5e500e9edb2020",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.12일). 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87915?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-13T00:00:00+09:00",
+      "displayDate": "2026-10-12",
+      "dept": "국민지역참여지원과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "567450d02fdcf07572f555e122c1e12893265786ee612c97a004f581f2a58d77"
+    },
+    {
+      "id": "FSS-7aa877d59ee7d292",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2027년 K-IFRS 제1118호 시행, 준비상황을 점검하세요",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=240494&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-13T00:00:00+09:00",
+      "displayDate": "2026-10-12",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "89242834f60207c89cb16a05691e490ab712785e4fcea6dceba48da00e9540d1"
+    },
     {
       "id": "FSC-be107a74efb2447c",
       "source": "FSC",
@@ -103,6 +148,36 @@
       "hash": "14e1252d04ba704b6e1c067217ba769a6c6ff92fce65235e3f656401ae6cd2b0"
     },
     {
+      "id": "FSS-6d274f63717e8fce",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융감독원, PEF 운용사에 대한 내부통제 점검 실시",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=239804&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-12T00:00:00+09:00",
+      "displayDate": "2026-10-11",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "108c3d68f5a75753129cad01d473d8721239845807b183ee73d703bad1f8b20f"
+    },
+    {
+      "id": "FSS-11efd7a81d805484",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융권의 소멸시효 연장 관행을 개선하기 위해 조건부 대손인정제도가 시행됩니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=239722&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-12T00:00:00+09:00",
+      "displayDate": "2026-10-11",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "40d5c6631ef5ebb50878de403106d35aec044663179e36b07eaf83d559676b16"
+    },
+    {
       "id": "FSC-26823e185c500be4",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -131,6 +206,36 @@
       "isNew": false,
       "attachments": [],
       "hash": "0e6a1b2014985690ab548e8385510bd3e9a8904b4eeabbd462bac9058b7fd7e3"
+    },
+    {
+      "id": "FSS-99f05f1a9d80dd81",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융분쟁조정위원회, 예금부당해지에 따른 금융회사에 대한 책임 인정",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=238317&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-08T00:00:00+09:00",
+      "displayDate": "2026-10-07",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "47524aa46f1398dfb443bbfa2fd5cf6fa1135ce61132a3383f75008032272303"
+    },
+    {
+      "id": "FSS-f2b9832ae907b857",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2026년 상반기 금융지주회사 경영실적",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=238310&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-08T00:00:00+09:00",
+      "displayDate": "2026-10-07",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "a30ee19cf5d180fa56db06d4be2eb78778c30914f518ecd10e18bf1d88ac153b"
     },
     {
       "id": "FSC-b38a31f3446be0f7",
@@ -163,34 +268,79 @@
       "hash": "f34931b6f53203b9e4f272b14e8e6c330857a4a9fb6501e39a4ee21696e5668c"
     },
     {
-      "id": "FSC-23c9cb92b86798c2",
-      "source": "FSC",
-      "sourceLabel": "금융위",
+      "id": "FSS-a839bf0f4a6b7fe2",
+      "source": "FSS",
+      "sourceLabel": "금감원",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "탄소 감축을 넘어 신성장동력으로, 정부 1,000조원 투자로 K-GX 본격 가동",
-      "url": "https://www.fsc.go.kr/no010101/87890?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "title": "사업보고서 등에 대한 조사,감리결과 조치",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=238152&menuNo=200218&pageIndex=1",
       "publishedAt": "2026-10-07T00:00:00+09:00",
       "displayDate": "2026-10-06",
-      "dept": "산업금융과",
-      "isNew": false,
+      "dept": "",
+      "isNew": true,
       "attachments": [],
-      "hash": "d6c5b29348b7febb6019ba653f04b573395f8f000aa56e4b9fb1d959a5089bbe"
+      "hash": "fc4fb9970eccbca89dbc1532f4729f273087a44ee075f6f5aa0480895429afbe"
     },
     {
-      "id": "FSC-7983175e94e17a6e",
-      "source": "FSC",
-      "sourceLabel": "금융위",
+      "id": "FSS-4d3d3884c4a3444a",
+      "source": "FSS",
+      "sourceLabel": "금감원",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱·스미싱 등 피해에 주의하세요.",
-      "url": "https://www.fsc.go.kr/no010101/87882?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "title": "\"개인간 중고거래 신용카드 안전결제 서비스\" 등 혁신금융서비스 24건 신규 지정 의결",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=238150&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-07T00:00:00+09:00",
+      "displayDate": "2026-10-06",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "818d7da4498332f8b185cacf2ff048ac38847d2a8e9df4f330f508c38d6fe73c"
+    },
+    {
+      "id": "FSS-46adc92f81e205e5",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "투자자 중심 내부감사기능 강화를 위한 증권사 감사 간담회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=238097&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-07T00:00:00+09:00",
+      "displayDate": "2026-10-06",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "39dda9744de822fb3619e6abd170ed272d6e29a527d82386c89ef748c7251e71"
+    },
+    {
+      "id": "FSS-b59ddb7af67e892f",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱, 스미싱 등 피해에 주의하세요",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=237928&menuNo=200218&pageIndex=1",
       "publishedAt": "2026-10-06T00:00:00+09:00",
       "displayDate": "2026-10-05",
-      "dept": "금융안전과",
-      "isNew": false,
+      "dept": "",
+      "isNew": true,
       "attachments": [],
-      "hash": "33b03f8532e61a713ca28038310b8cfb2dfe0716cbcddd6542a1d97f8ee8ae16"
+      "hash": "9e5d3ae486b7f0cc45e8be713ae764160f4531f68e669c6e9fddce214929e30b"
+    },
+    {
+      "id": "FSS-8bb7395a60471358",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "취업준비생의 자산관리 역량 향상과 금융사기 피해 예방을 위한 2026년 청년 금융특강을 실시합니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=237663&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-06T00:00:00+09:00",
+      "displayDate": "2026-10-05",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "c6a1654dcc37d128ad891f3074d8d2f3460987661e9a6a9d81ae737d50c77786"
     },
     {
       "id": "FIU-REPORT-418",

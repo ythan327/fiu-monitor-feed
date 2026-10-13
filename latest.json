@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T17:10:27+09:00",
+  "generatedAt": "2026-10-14T01:16:33+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-13T17:10:27+09:00",
+        "lastSuccessAt": "2026-10-14T01:16:33+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-13T17:10:27+09:00",
+        "lastSuccessAt": "2026-10-14T01:16:33+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-13T17:10:27+09:00",
+        "lastSuccessAt": "2026-10-14T01:16:33+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-13T17:10:27+09:00",
+        "lastSuccessAt": "2026-10-14T01:16:33+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-13T17:10:27+09:00",
+        "lastSuccessAt": "2026-10-14T01:16:33+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 3,
+    "newSinceLastFeed": 0,
     "totalVisible": 22
   },
   "items": [
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "부동산 프로젝트 금융(PF) 상황 점검회의 겸 주택공급 촉진을 위한 금융지원 대책 점검회의 개최. 금일 등록된 게시글",
+      "title": "부동산 프로젝트 금융(PF) 상황 점검회의 겸 주택공급 촉진을 위한 금융지원 대책 점검회의 개최",
       "url": "https://www.fsc.go.kr/no010101/87919?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-13T00:00:00+09:00",
       "displayDate": "2026-10-12",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "fb9653901bc928e412c3d74e25e60b48ef5ba6088f783f71036434dfbb2703ca"
+      "hash": "1140ccca9c1912e30f693587c5d1bfef62898cafb1e6bb59eda7b8284fab22fd"
     },
     {
       "id": "FSC-690e9b36a7d87876",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다. - 구글·애플 앱에 이어 인터넷 사이트도 국내 접속차단. 금일 등록된 게시글",
+      "title": "불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다. - 구글·애플 앱에 이어 인터넷 사이트도 국내 접속차단",
       "url": "https://www.fsc.go.kr/no010101/87916?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-13T00:00:00+09:00",
       "displayDate": "2026-10-12",
       "dept": "가상자산검사과",
       "isNew": false,
       "attachments": [],
-      "hash": "7b125a5e784129a3536ea0e2431687122682cfb003791da6187deffd632c7a36"
+      "hash": "4276ee10bf701a180d29484f5815447de4bf6656a3fd033d94f3ef8df1f8ab94"
     },
     {
       "id": "FSC-ce5e500e9edb2020",
@@ -78,14 +78,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.12일). 금일 등록된 게시글",
+      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.12일)",
       "url": "https://www.fsc.go.kr/no010101/87915?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-13T00:00:00+09:00",
       "displayDate": "2026-10-12",
       "dept": "국민지역참여지원과",
       "isNew": false,
       "attachments": [],
-      "hash": "567450d02fdcf07572f555e122c1e12893265786ee612c97a004f581f2a58d77"
+      "hash": "1817bde2ed287a85d42d10d1ebb72eda506c759f2795f67e61fb566230ce91d9"
     },
     {
       "id": "FSS-0664deb48d4f5df0",
@@ -98,7 +98,7 @@
       "publishedAt": "2026-10-13T00:00:00+09:00",
       "displayDate": "2026-10-12",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e21e7123ae53d9f2127cf9c00f25981f472d661822a0f12d93285504869c09e7"
     },
@@ -113,7 +113,7 @@
       "publishedAt": "2026-10-13T00:00:00+09:00",
       "displayDate": "2026-10-12",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "43080c558301522a40f2a378bd3351aa420b25120409b1fe0806254e05b792ba"
     },

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T10:08:54+09:00",
+  "generatedAt": "2026-10-13T17:10:27+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-13T10:08:54+09:00",
+        "lastSuccessAt": "2026-10-13T17:10:27+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-13T10:08:54+09:00",
+        "lastSuccessAt": "2026-10-13T17:10:27+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-13T10:08:54+09:00",
+        "lastSuccessAt": "2026-10-13T17:10:27+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-13T10:08:54+09:00",
+        "lastSuccessAt": "2026-10-13T17:10:27+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-13T10:08:54+09:00",
+        "lastSuccessAt": "2026-10-13T17:10:27+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 12,
+    "newSinceLastFeed": 3,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-ce00173958335eaa",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "부동산 프로젝트 금융(PF) 상황 점검회의 겸 주택공급 촉진을 위한 금융지원 대책 점검회의 개최. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87919?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-13T00:00:00+09:00",
+      "displayDate": "2026-10-12",
+      "dept": "금융정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "fb9653901bc928e412c3d74e25e60b48ef5ba6088f783f71036434dfbb2703ca"
+    },
     {
       "id": "FSC-690e9b36a7d87876",
       "source": "FSC",
@@ -53,7 +68,7 @@
       "publishedAt": "2026-10-13T00:00:00+09:00",
       "displayDate": "2026-10-12",
       "dept": "가상자산검사과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "7b125a5e784129a3536ea0e2431687122682cfb003791da6187deffd632c7a36"
     },
@@ -68,9 +83,39 @@
       "publishedAt": "2026-10-13T00:00:00+09:00",
       "displayDate": "2026-10-12",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "567450d02fdcf07572f555e122c1e12893265786ee612c97a004f581f2a58d77"
+    },
+    {
+      "id": "FSS-0664deb48d4f5df0",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "부동산 프로젝트 금융(PF) 상황 점검회의 겸 주택공급 촉진을 위한 금융지원 대책 점검회의 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=240529&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-13T00:00:00+09:00",
+      "displayDate": "2026-10-12",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "e21e7123ae53d9f2127cf9c00f25981f472d661822a0f12d93285504869c09e7"
+    },
+    {
+      "id": "FSS-652007b8e2a57e97",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "투자자들이 공시정보를 손쉽게 분석, 활용할 수 있도록 Open DART 개선 및 XBRL 택사노미 정비를 추진합니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=240528&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-13T00:00:00+09:00",
+      "displayDate": "2026-10-12",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "43080c558301522a40f2a378bd3351aa420b25120409b1fe0806254e05b792ba"
     },
     {
       "id": "FSS-7aa877d59ee7d292",
@@ -83,7 +128,7 @@
       "publishedAt": "2026-10-13T00:00:00+09:00",
       "displayDate": "2026-10-12",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "89242834f60207c89cb16a05691e490ab712785e4fcea6dceba48da00e9540d1"
     },
@@ -158,7 +203,7 @@
       "publishedAt": "2026-10-12T00:00:00+09:00",
       "displayDate": "2026-10-11",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "108c3d68f5a75753129cad01d473d8721239845807b183ee73d703bad1f8b20f"
     },
@@ -173,7 +218,7 @@
       "publishedAt": "2026-10-12T00:00:00+09:00",
       "displayDate": "2026-10-11",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "40d5c6631ef5ebb50878de403106d35aec044663179e36b07eaf83d559676b16"
     },
@@ -218,7 +263,7 @@
       "publishedAt": "2026-10-08T00:00:00+09:00",
       "displayDate": "2026-10-07",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "47524aa46f1398dfb443bbfa2fd5cf6fa1135ce61132a3383f75008032272303"
     },
@@ -233,7 +278,7 @@
       "publishedAt": "2026-10-08T00:00:00+09:00",
       "displayDate": "2026-10-07",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "a30ee19cf5d180fa56db06d4be2eb78778c30914f518ecd10e18bf1d88ac153b"
     },
@@ -253,21 +298,6 @@
       "hash": "87a51d0d4c6283e75be043a24582be766f8da941f938cc115c3e1af0f1332769"
     },
     {
-      "id": "FSC-140cee2813501586",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "“개인간 중고거래 신용카드 안전결제 서비스” 등 혁신금융서비스 24건 신규 지정 의결",
-      "url": "https://www.fsc.go.kr/no010101/87893?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-07T00:00:00+09:00",
-      "displayDate": "2026-10-06",
-      "dept": "디지털금융총괄과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f34931b6f53203b9e4f272b14e8e6c330857a4a9fb6501e39a4ee21696e5668c"
-    },
-    {
       "id": "FSS-a839bf0f4a6b7fe2",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -278,7 +308,7 @@
       "publishedAt": "2026-10-07T00:00:00+09:00",
       "displayDate": "2026-10-06",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "fc4fb9970eccbca89dbc1532f4729f273087a44ee075f6f5aa0480895429afbe"
     },
@@ -293,7 +323,7 @@
       "publishedAt": "2026-10-07T00:00:00+09:00",
       "displayDate": "2026-10-06",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "818d7da4498332f8b185cacf2ff048ac38847d2a8e9df4f330f508c38d6fe73c"
     },
@@ -308,39 +338,9 @@
       "publishedAt": "2026-10-07T00:00:00+09:00",
       "displayDate": "2026-10-06",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "39dda9744de822fb3619e6abd170ed272d6e29a527d82386c89ef748c7251e71"
-    },
-    {
-      "id": "FSS-b59ddb7af67e892f",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "최근 금융권 개인정보 유출사고에 따른 보이스피싱, 스미싱 등 피해에 주의하세요",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=237928&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-06T00:00:00+09:00",
-      "displayDate": "2026-10-05",
-      "dept": "",
-      "isNew": true,
-      "attachments": [],
-      "hash": "9e5d3ae486b7f0cc45e8be713ae764160f4531f68e669c6e9fddce214929e30b"
-    },
-    {
-      "id": "FSS-8bb7395a60471358",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "취업준비생의 자산관리 역량 향상과 금융사기 피해 예방을 위한 2026년 청년 금융특강을 실시합니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=237663&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-06T00:00:00+09:00",
-      "displayDate": "2026-10-05",
-      "dept": "",
-      "isNew": true,
-      "attachments": [],
-      "hash": "c6a1654dcc37d128ad891f3074d8d2f3460987661e9a6a9d81ae737d50c77786"
     },
     {
       "id": "FIU-REPORT-418",

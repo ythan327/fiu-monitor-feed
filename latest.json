@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T09:30:11+09:00",
+  "generatedAt": "2026-10-14T14:18:05+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-14T09:30:11+09:00",
+        "lastSuccessAt": "2026-10-14T14:18:05+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-14T09:30:11+09:00",
+        "lastSuccessAt": "2026-10-14T14:18:05+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-14T09:30:11+09:00",
+        "lastSuccessAt": "2026-10-14T14:18:05+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-14T09:30:11+09:00",
+        "lastSuccessAt": "2026-10-14T14:18:05+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-14T09:30:11+09:00",
+        "lastSuccessAt": "2026-10-14T14:18:05+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 5,
+    "newSinceLastFeed": 3,
     "totalVisible": 23
   },
   "items": [
@@ -53,20 +53,35 @@
       "publishedAt": "2026-10-14T09:00:16+09:00",
       "displayDate": "2026-10-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여.hwpx",
-          "type": "application/haansofthwpx",
-          "size": 2110346
+          "type": "application/octet-stream",
+          "size": 2110371
         },
         {
           "name": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여.pdf",
           "type": "application/pdf",
-          "size": 183001
+          "size": 182843
         }
       ],
       "hash": "2d8c5e511600c56d2ba1e0e6b0bae478ce8f0096193a8855634fe0c4ff39c8ea"
+    },
+    {
+      "id": "FSC-257c1f62d9f375ca",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "제2차 국민참여성장펀드 판매가 내일(10.15일) 17시에 마감됩니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87926?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-14T00:00:00+09:00",
+      "displayDate": "2026-10-13",
+      "dept": "국민지역참여지원과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "08da2bf4195c8a06aaacb25414a9fa9ed0a7cbdc31e106275be3d285d41555f0"
     },
     {
       "id": "FSC-f38e2e7ee8daefca",
@@ -79,7 +94,7 @@
       "publishedAt": "2026-10-14T00:00:00+09:00",
       "displayDate": "2026-10-13",
       "dept": "글로벌금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "a8f8422848fb77fa65dc7c18e6a104d634f60ee912e31150828b8e8e4d0a2189"
     },
@@ -94,7 +109,7 @@
       "publishedAt": "2026-10-14T00:00:00+09:00",
       "displayDate": "2026-10-13",
       "dept": "금융정보분석원 기획행정실",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "839e798231ceb639b735e0de816c2e97b4c86a6ff430459604a0685450683978"
     },
@@ -109,9 +124,39 @@
       "publishedAt": "2026-10-14T00:00:00+09:00",
       "displayDate": "2026-10-13",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "dac3a4bf0c15eee69851ccd681843df3a577748cf380de63bfa03302a92969f6"
+    },
+    {
+      "id": "FSS-9b95e4a2c75a8da0",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "증권사의 영업점 개설 계좌와 관련한 매매수수료 차등 부과 관행을 바로 잡겠습니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241493&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-14T00:00:00+09:00",
+      "displayDate": "2026-10-13",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "3a4e5ed196fc2cb2a770e079e9ebe7a29c5d247061db0e4c192e8472877d284c"
+    },
+    {
+      "id": "FSS-30fde718f76974ef",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금감원, 중소금융업권과 함께 준법제보 활성화 방안을 마련하여 시행합니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241492&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-14T00:00:00+09:00",
+      "displayDate": "2026-10-13",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1b7f3070ca6386a349895525e5bab2d727411f972f188ab655af0a693320e199"
     },
     {
       "id": "FSS-2939c1e7b21c33ad",
@@ -124,7 +169,7 @@
       "publishedAt": "2026-10-14T00:00:00+09:00",
       "displayDate": "2026-10-13",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "7a89c4c74b69a960390653826588f2f663c826f531f24c3a22d9c5aa1e4903cc"
     },
@@ -264,21 +309,6 @@
       "hash": "3cdb461ce67cf43017ee158fb9abf042ba4f6ffdee65e31a6ec54142471e2aab"
     },
     {
-      "id": "FSC-49c3fd480d472680",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.8일)",
-      "url": "https://www.fsc.go.kr/no010101/87907?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-12T00:00:00+09:00",
-      "displayDate": "2026-10-11",
-      "dept": "국민지역참여지원과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "14e1252d04ba704b6e1c067217ba769a6c6ff92fce65235e3f656401ae6cd2b0"
-    },
-    {
       "id": "FSS-6d274f63717e8fce",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -337,36 +367,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "a30ee19cf5d180fa56db06d4be2eb78778c30914f518ecd10e18bf1d88ac153b"
-    },
-    {
-      "id": "FSS-a839bf0f4a6b7fe2",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "사업보고서 등에 대한 조사,감리결과 조치",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=238152&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-07T00:00:00+09:00",
-      "displayDate": "2026-10-06",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "fc4fb9970eccbca89dbc1532f4729f273087a44ee075f6f5aa0480895429afbe"
-    },
-    {
-      "id": "FSS-4d3d3884c4a3444a",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "\"개인간 중고거래 신용카드 안전결제 서비스\" 등 혁신금융서비스 24건 신규 지정 의결",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=238150&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-07T00:00:00+09:00",
-      "displayDate": "2026-10-06",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "818d7da4498332f8b185cacf2ff048ac38847d2a8e9df4f330f508c38d6fe73c"
     },
     {
       "id": "FIU-REPORT-418",

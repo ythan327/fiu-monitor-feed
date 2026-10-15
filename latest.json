@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T16:04:55+09:00",
+  "generatedAt": "2026-10-15T21:47:01+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,38 +8,38 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-15T16:04:55+09:00",
+        "lastSuccessAt": "2026-10-15T21:47:01+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-15T16:04:55+09:00",
+        "lastSuccessAt": "2026-10-15T21:47:01+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-15T16:04:55+09:00",
-        "itemCount": 3
+        "lastSuccessAt": "2026-10-15T21:47:01+09:00",
+        "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-15T16:04:55+09:00",
+        "lastSuccessAt": "2026-10-15T21:47:01+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-15T16:04:55+09:00",
+        "lastSuccessAt": "2026-10-15T21:47:01+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 6,
-    "totalVisible": 23
+    "newSinceLastFeed": 0,
+    "totalVisible": 22
   },
   "items": [
     {
@@ -53,7 +53,7 @@
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e165598c0658d658bb9b415d826c704ed56eb375248960589a3ad83eb3ee2b14"
     },
@@ -68,7 +68,7 @@
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "90111a5e61814a75767ca9fde07cf1e4d26f3d55eae304bdde0cc709a0466c80"
     },
@@ -83,7 +83,7 @@
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "디지털금융총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "db1d4a968824dfdac7dd8cfbd16389bd38b369f1ada2641eb3ad9a00b620d50d"
     },
@@ -128,7 +128,7 @@
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "8c7debd6528ebb7dd438143ad63c95f08bc4cd4ccb4e08c485368a8fbf64058f"
     },
@@ -143,7 +143,7 @@
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "f74dbcce212d7d712da20db7b56a5fc7389cf24496128884e8b5c776f32777a1"
     },
@@ -158,7 +158,7 @@
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "baa2a2d12add5a33d8ab366b54ea61c19ec8da27ce02f84d2ae8882432e77465"
     },
@@ -398,37 +398,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "43080c558301522a40f2a378bd3351aa420b25120409b1fe0806254e05b792ba"
-    },
-    {
-      "id": "FIU-REPORT-418",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "'26년 상반기 가상자산사업자 실태조사 결과",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=418&seCd=0001",
-      "publishedAt": "2026-10-01T16:47:40+09:00",
-      "displayDate": "2026-10-01",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.hwp",
-          "type": "application/octet-stream",
-          "size": 1395200
-        },
-        {
-          "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.hwpx",
-          "type": "application/octet-stream",
-          "size": 1145527
-        },
-        {
-          "name": "261002 2026년 상반기 가상자산사업자 실태조사 결과_F.pdf",
-          "type": "application/pdf",
-          "size": 2295979
-        }
-      ],
-      "hash": "869efd4b4a82e9b30da0a33b95aeafa1b8a242977618ca88c616e2f88653b085"
     }
   ]
 }

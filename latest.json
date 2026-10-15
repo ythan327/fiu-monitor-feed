@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T08:01:18+09:00",
+  "generatedAt": "2026-10-15T10:41:38+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-15T08:01:18+09:00",
+        "lastSuccessAt": "2026-10-15T10:41:38+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-15T08:01:18+09:00",
+        "lastSuccessAt": "2026-10-15T10:41:38+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-15T08:01:18+09:00",
+        "lastSuccessAt": "2026-10-15T10:41:38+09:00",
         "itemCount": 3
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-15T08:01:18+09:00",
+        "lastSuccessAt": "2026-10-15T10:41:38+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-15T08:01:18+09:00",
+        "lastSuccessAt": "2026-10-15T10:41:38+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 2,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-e1df24b32f8c515f",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "청년미래적금 2차 가입신청 기간 10월 16일(금) 18시 30분 종료. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87933?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-15T00:00:00+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "청년정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "b45bfbcc57596074913fe67658a7021cc0edd530777aaec681e1b3187851c8aa"
+    },
+    {
+      "id": "FSC-3bb770e1c9fac4ad",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.14일). 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87932?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-15T00:00:00+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "국민지역참여지원과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "829040fdcf65d6fff5efe8bbc296c74a7d4cffe10e5f5177e1df124e5509f5a0"
+    },
     {
       "id": "FIU-REPORT-421",
       "source": "FIU",
@@ -293,36 +323,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "1140ccca9c1912e30f693587c5d1bfef62898cafb1e6bb59eda7b8284fab22fd"
-    },
-    {
-      "id": "FSC-690e9b36a7d87876",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다. - 구글·애플 앱에 이어 인터넷 사이트도 국내 접속차단",
-      "url": "https://www.fsc.go.kr/no010101/87916?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-13T00:00:00+09:00",
-      "displayDate": "2026-10-12",
-      "dept": "가상자산검사과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "4276ee10bf701a180d29484f5815447de4bf6656a3fd033d94f3ef8df1f8ab94"
-    },
-    {
-      "id": "FSC-ce5e500e9edb2020",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.12일)",
-      "url": "https://www.fsc.go.kr/no010101/87915?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-13T00:00:00+09:00",
-      "displayDate": "2026-10-12",
-      "dept": "국민지역참여지원과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "1817bde2ed287a85d42d10d1ebb72eda506c759f2795f67e61fb566230ce91d9"
     },
     {
       "id": "FSS-0664deb48d4f5df0",

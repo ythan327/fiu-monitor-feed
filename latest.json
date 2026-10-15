@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T21:47:01+09:00",
+  "generatedAt": "2026-10-16T02:39:17+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-15T21:47:01+09:00",
+        "lastSuccessAt": "2026-10-16T02:39:17+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-15T21:47:01+09:00",
+        "lastSuccessAt": "2026-10-16T02:39:17+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-15T21:47:01+09:00",
+        "lastSuccessAt": "2026-10-16T02:39:17+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-15T21:47:01+09:00",
+        "lastSuccessAt": "2026-10-16T02:39:17+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-15T21:47:01+09:00",
+        "lastSuccessAt": "2026-10-16T02:39:17+09:00",
         "itemCount": 0
       }
     }
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "｢유관기관 증시상황 긴급 점검회의｣ 개최. 금일 등록된 게시글",
+      "title": "｢유관기관 증시상황 긴급 점검회의｣ 개최",
       "url": "https://www.fsc.go.kr/no010101/87942?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "자본시장과",
       "isNew": false,
       "attachments": [],
-      "hash": "e165598c0658d658bb9b415d826c704ed56eb375248960589a3ad83eb3ee2b14"
+      "hash": "2fd1bc45270123800329c6bdddfb0ab0c6cf01ac195d68a6cd48c9f0c61631f8"
     },
     {
       "id": "FSC-08a7848590b88662",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "2026년 9월 가계대출 동향(잠정) 및 ｢가계부채 점검회의｣ 개최. 금일 등록된 게시글",
+      "title": "2026년 9월 가계대출 동향(잠정) 및 ｢가계부채 점검회의｣ 개최",
       "url": "https://www.fsc.go.kr/no010101/87939?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "금융정책과",
       "isNew": false,
       "attachments": [],
-      "hash": "90111a5e61814a75767ca9fde07cf1e4d26f3d55eae304bdde0cc709a0466c80"
+      "hash": "5cbdc0e5d818962e1a570dadac36561d8356d454d77c5161a18f6d5ed441a743"
     },
     {
       "id": "FSC-3fcd39c60785cce9",
@@ -78,14 +78,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "잠든 선불충전금, 잊지 말고 사용하세요. - 빅테크 3개사, 장기간 미사용 선불의 이용자 통지 및 환급 촉진. 금일 등록된 게시글",
+      "title": "잠든 선불충전금, 잊지 말고 사용하세요. - 빅테크 3개사, 장기간 미사용 선불의 이용자 통지 및 환급 촉진",
       "url": "https://www.fsc.go.kr/no010101/87938?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "디지털금융총괄과",
       "isNew": false,
       "attachments": [],
-      "hash": "db1d4a968824dfdac7dd8cfbd16389bd38b369f1ada2641eb3ad9a00b620d50d"
+      "hash": "cbe69fc18c6bf1f1a38504d4982a66488cc19819c65e75dbfbbf00cba551fb10"
     },
     {
       "id": "FSC-e1df24b32f8c515f",
@@ -93,14 +93,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "청년미래적금 2차 가입신청 기간 10월 16일(금) 18시 30분 종료. 금일 등록된 게시글",
+      "title": "청년미래적금 2차 가입신청 기간 10월 16일(금) 18시 30분 종료",
       "url": "https://www.fsc.go.kr/no010101/87933?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "청년정책과",
       "isNew": false,
       "attachments": [],
-      "hash": "b45bfbcc57596074913fe67658a7021cc0edd530777aaec681e1b3187851c8aa"
+      "hash": "a930691d18623f56298a0c89abee0682d7a241f1bea41f3213963493fbd17841"
     },
     {
       "id": "FSC-3bb770e1c9fac4ad",
@@ -108,14 +108,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.14일). 금일 등록된 게시글",
+      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.14일)",
       "url": "https://www.fsc.go.kr/no010101/87932?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "국민지역참여지원과",
       "isNew": false,
       "attachments": [],
-      "hash": "829040fdcf65d6fff5efe8bbc296c74a7d4cffe10e5f5177e1df124e5509f5a0"
+      "hash": "eedbbaaaf8db856dbc9dd5d8b0bf2f1871bb8717fd10dc10d3b05321e5cb1698"
     },
     {
       "id": "FSS-cc10cb8cd2b3d5b3",

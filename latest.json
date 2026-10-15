@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T10:41:38+09:00",
+  "generatedAt": "2026-10-15T16:04:55+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,85 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-15T10:41:38+09:00",
+        "lastSuccessAt": "2026-10-15T16:04:55+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-15T10:41:38+09:00",
+        "lastSuccessAt": "2026-10-15T16:04:55+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-15T10:41:38+09:00",
+        "lastSuccessAt": "2026-10-15T16:04:55+09:00",
         "itemCount": 3
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-15T10:41:38+09:00",
+        "lastSuccessAt": "2026-10-15T16:04:55+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-15T10:41:38+09:00",
+        "lastSuccessAt": "2026-10-15T16:04:55+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 2,
+    "newSinceLastFeed": 6,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-75ffde1471672fe7",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "｢유관기관 증시상황 긴급 점검회의｣ 개최. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87942?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-15T00:00:00+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "e165598c0658d658bb9b415d826c704ed56eb375248960589a3ad83eb3ee2b14"
+    },
+    {
+      "id": "FSC-08a7848590b88662",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2026년 9월 가계대출 동향(잠정) 및 ｢가계부채 점검회의｣ 개최. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87939?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-15T00:00:00+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "금융정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "90111a5e61814a75767ca9fde07cf1e4d26f3d55eae304bdde0cc709a0466c80"
+    },
+    {
+      "id": "FSC-3fcd39c60785cce9",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "잠든 선불충전금, 잊지 말고 사용하세요. - 빅테크 3개사, 장기간 미사용 선불의 이용자 통지 및 환급 촉진. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87938?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-15T00:00:00+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "디지털금융총괄과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "db1d4a968824dfdac7dd8cfbd16389bd38b369f1ada2641eb3ad9a00b620d50d"
+    },
     {
       "id": "FSC-e1df24b32f8c515f",
       "source": "FSC",
@@ -53,7 +98,7 @@
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "청년정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "b45bfbcc57596074913fe67658a7021cc0edd530777aaec681e1b3187851c8aa"
     },
@@ -68,9 +113,54 @@
       "publishedAt": "2026-10-15T00:00:00+09:00",
       "displayDate": "2026-10-14",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "829040fdcf65d6fff5efe8bbc296c74a7d4cffe10e5f5177e1df124e5509f5a0"
+    },
+    {
+      "id": "FSS-cc10cb8cd2b3d5b3",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "「유관기관 증시상황 긴급 점검회의」 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241719&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-15T00:00:00+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "8c7debd6528ebb7dd438143ad63c95f08bc4cd4ccb4e08c485368a8fbf64058f"
+    },
+    {
+      "id": "FSS-a7a6b74e1fd60ba0",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2026년 9월 가계대출 동향(잠정) 및 「가계부채 점검회의」 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241690&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-15T00:00:00+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "f74dbcce212d7d712da20db7b56a5fc7389cf24496128884e8b5c776f32777a1"
+    },
+    {
+      "id": "FSS-9a08df7588c953a3",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "잠든 선불충전금, 잊지 말고 사용하세요.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241689&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-15T00:00:00+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "baa2a2d12add5a33d8ab366b54ea61c19ec8da27ce02f84d2ae8882432e77465"
     },
     {
       "id": "FIU-REPORT-421",
@@ -205,36 +295,6 @@
       "hash": "06c0989386351facb6a0a830182523ba22499ac2220ea5df0c65aa3bb80bae26"
     },
     {
-      "id": "FSC-bfad68237f801bc4",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회(Steering Committee) 참여",
-      "url": "https://www.fsc.go.kr/no010101/87923?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-14T00:00:00+09:00",
-      "displayDate": "2026-10-13",
-      "dept": "금융정보분석원 기획행정실",
-      "isNew": false,
-      "attachments": [],
-      "hash": "43a93554bfbfd30f6b026d8dbbd3fd544224e423e4837461936980f1b456ddd1"
-    },
-    {
-      "id": "FSC-8ff0da59cd4aea97",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.13일)",
-      "url": "https://www.fsc.go.kr/no010101/87922?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-14T00:00:00+09:00",
-      "displayDate": "2026-10-13",
-      "dept": "국민지역참여지원과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "898ec1b7f8dd06cba8de8cb6bb77477a6b8d748448eb454b114b35aaf58e3e94"
-    },
-    {
       "id": "FSS-6eab5b2e8c5c3b67",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -310,21 +370,6 @@
       "hash": "7a89c4c74b69a960390653826588f2f663c826f531f24c3a22d9c5aa1e4903cc"
     },
     {
-      "id": "FSC-ce00173958335eaa",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "부동산 프로젝트 금융(PF) 상황 점검회의 겸 주택공급 촉진을 위한 금융지원 대책 점검회의 개최",
-      "url": "https://www.fsc.go.kr/no010101/87919?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-13T00:00:00+09:00",
-      "displayDate": "2026-10-12",
-      "dept": "금융정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "1140ccca9c1912e30f693587c5d1bfef62898cafb1e6bb59eda7b8284fab22fd"
-    },
-    {
       "id": "FSS-0664deb48d4f5df0",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -353,51 +398,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "43080c558301522a40f2a378bd3351aa420b25120409b1fe0806254e05b792ba"
-    },
-    {
-      "id": "FSS-7aa877d59ee7d292",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "2027년 K-IFRS 제1118호 시행, 준비상황을 점검하세요",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=240494&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-13T00:00:00+09:00",
-      "displayDate": "2026-10-12",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "89242834f60207c89cb16a05691e490ab712785e4fcea6dceba48da00e9540d1"
-    },
-    {
-      "id": "FSS-6d274f63717e8fce",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융감독원, PEF 운용사에 대한 내부통제 점검 실시",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=239804&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-12T00:00:00+09:00",
-      "displayDate": "2026-10-11",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "108c3d68f5a75753129cad01d473d8721239845807b183ee73d703bad1f8b20f"
-    },
-    {
-      "id": "FSS-11efd7a81d805484",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융권의 소멸시효 연장 관행을 개선하기 위해 조건부 대손인정제도가 시행됩니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=239722&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-12T00:00:00+09:00",
-      "displayDate": "2026-10-11",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "40d5c6631ef5ebb50878de403106d35aec044663179e36b07eaf83d559676b16"
     },
     {
       "id": "FIU-REPORT-418",

@@ -1,45 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T12:38:45+09:00",
+  "generatedAt": "2026-10-19T18:41:31+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "ok",
+    "overall": "partial",
     "sources": {
       "FSC": {
-        "status": "ok",
+        "status": "error",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-19T12:38:45+09:00",
-        "itemCount": 10
+        "lastAttemptAt": "2026-10-19T18:41:31+09:00",
+        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fsc.go.kr/no010101\", waiting until \"networkidle\"\n"
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-19T12:38:45+09:00",
+        "lastSuccessAt": "2026-10-19T18:41:31+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-19T12:38:45+09:00",
-        "itemCount": 2
+        "lastAttemptAt": "2026-10-19T18:41:31+09:00",
+        "message": "fetch failed"
       },
       "FIU_NOTICE": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-19T12:38:45+09:00",
-        "itemCount": 0
+        "lastAttemptAt": "2026-10-19T18:41:31+09:00",
+        "message": "fetch failed"
       },
       "FIU_SANCTIONS": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-19T12:38:45+09:00",
-        "itemCount": 0
+        "lastAttemptAt": "2026-10-19T18:41:31+09:00",
+        "message": "fetch failed"
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 12,
-    "totalVisible": 22
+    "newSinceLastFeed": 0,
+    "totalVisible": 10
   },
   "items": [
     {
@@ -73,66 +73,6 @@
       "hash": "15ac250b59cfcc489d3f2938a1f0865425b60bbe0a09db7441a9e74d655fef84"
     },
     {
-      "id": "FSC-01d2ab0a3200732e",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융위원회 인사보도(3급·4급 전보)",
-      "url": "https://www.fsc.go.kr/no010101/87949?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-16T00:00:00+09:00",
-      "displayDate": "2026-10-15",
-      "dept": "행정인사과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "1ee63525b4065e15a22a8eaf7671484cf16ad857fa1a80e386c40c2ff9076648"
-    },
-    {
-      "id": "FSC-ef133428b87c2313",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "“내 집 어디에, 언제 공급되나” 주택공급, 계획부터 성과까지 정례적으로 공개합니다",
-      "url": "https://www.fsc.go.kr/no010101/87948?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-16T00:00:00+09:00",
-      "displayDate": "2026-10-15",
-      "dept": "금융정책과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "ea0cb6ba939c36bcf718c67d59079d6a648302e55dc089710ceec55c76bff08d"
-    },
-    {
-      "id": "FSC-77a436709e901135",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "‘무기한 선물’ 이용자 유의사항 안내 - 최근 글로벌 가상자산플랫폼 등에서 거래되는 ‘무기한 선물’은 국내법의 투자자 보호가 적용되지 않아 각별한 주의 필요",
-      "url": "https://www.fsc.go.kr/no010101/87947?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-16T00:00:00+09:00",
-      "displayDate": "2026-10-15",
-      "dept": "가상자산과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "80989bab3b817f9a5d59f1a36fa13edc578e1a8f042404c82937819943bf3439"
-    },
-    {
-      "id": "FSC-9c575e39d404d8be",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드, 5,198억원을 모집하고 판매종료",
-      "url": "https://www.fsc.go.kr/no010101/87944?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-16T00:00:00+09:00",
-      "displayDate": "2026-10-15",
-      "dept": "국민지역참여지원과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "db0739002fb37d6785e9c4c29ef78fad25f7d9ecfbafa31bf40f719dae85d310"
-    },
-    {
       "id": "FSS-c7d4eead7400673d",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -146,81 +86,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "2c5547e0178cfcc335c348a11d13ffd85739115a48510f9b827970376bab965a"
-    },
-    {
-      "id": "FSC-75ffde1471672fe7",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "｢유관기관 증시상황 긴급 점검회의｣ 개최",
-      "url": "https://www.fsc.go.kr/no010101/87942?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-15T00:00:00+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "자본시장과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "2fd1bc45270123800329c6bdddfb0ab0c6cf01ac195d68a6cd48c9f0c61631f8"
-    },
-    {
-      "id": "FSC-08a7848590b88662",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "2026년 9월 가계대출 동향(잠정) 및 ｢가계부채 점검회의｣ 개최",
-      "url": "https://www.fsc.go.kr/no010101/87939?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-15T00:00:00+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "금융정책과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "5cbdc0e5d818962e1a570dadac36561d8356d454d77c5161a18f6d5ed441a743"
-    },
-    {
-      "id": "FSC-3fcd39c60785cce9",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "잠든 선불충전금, 잊지 말고 사용하세요. - 빅테크 3개사, 장기간 미사용 선불의 이용자 통지 및 환급 촉진",
-      "url": "https://www.fsc.go.kr/no010101/87938?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-15T00:00:00+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "디지털금융총괄과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "cbe69fc18c6bf1f1a38504d4982a66488cc19819c65e75dbfbbf00cba551fb10"
-    },
-    {
-      "id": "FSC-e1df24b32f8c515f",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "청년미래적금 2차 가입신청 기간 10월 16일(금) 18시 30분 종료",
-      "url": "https://www.fsc.go.kr/no010101/87933?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-15T00:00:00+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "청년정책과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "a930691d18623f56298a0c89abee0682d7a241f1bea41f3213963493fbd17841"
-    },
-    {
-      "id": "FSC-3bb770e1c9fac4ad",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.14일)",
-      "url": "https://www.fsc.go.kr/no010101/87932?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-15T00:00:00+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "국민지역참여지원과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "eedbbaaaf8db856dbc9dd5d8b0bf2f1871bb8717fd10dc10d3b05321e5cb1698"
     },
     {
       "id": "FSS-cc10cb8cd2b3d5b3",
@@ -266,78 +131,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "baa2a2d12add5a33d8ab366b54ea61c19ec8da27ce02f84d2ae8882432e77465"
-    },
-    {
-      "id": "FIU-REPORT-421",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "[보도참고] 불법 가상자산 취급업자 인터넷 사이트 국내 접속이 차단됩니다.",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=421&seCd=0001",
-      "publishedAt": "2026-10-14T16:36:08+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "",
-      "isNew": true,
-      "attachments": [
-        {
-          "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..hwp",
-          "type": "application/octet-stream",
-          "size": 250368
-        },
-        {
-          "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..hwpx",
-          "type": "application/octet-stream",
-          "size": 271714
-        },
-        {
-          "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..pdf",
-          "type": "application/pdf",
-          "size": 363208
-        }
-      ],
-      "hash": "81b2a9c96d741034f7d681b89ecbc797ae8a2ea1ad480cd678caa3ff3ece65af"
-    },
-    {
-      "id": "FIU-REPORT-420",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=420&seCd=0001",
-      "publishedAt": "2026-10-14T09:00:16+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "",
-      "isNew": true,
-      "attachments": [
-        {
-          "name": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여.hwpx",
-          "type": "application/octet-stream",
-          "size": 2110371
-        },
-        {
-          "name": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여.pdf",
-          "type": "application/pdf",
-          "size": 182843
-        }
-      ],
-      "hash": "2d8c5e511600c56d2ba1e0e6b0bae478ce8f0096193a8855634fe0c4ff39c8ea"
-    },
-    {
-      "id": "FSC-b9ccf685eca2bec2",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "국민성장펀드 초장기기술투자펀드(‘26년), 7개 운용사 선정",
-      "url": "https://www.fsc.go.kr/no010101/87930?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-14T00:00:00+09:00",
-      "displayDate": "2026-10-13",
-      "dept": "국민성장펀드총괄과",
-      "isNew": true,
-      "attachments": [],
-      "hash": "199565837c46f939600c42cc6dc469524efad84a718cfdeae8b8be93bca68111"
     },
     {
       "id": "FSS-6eab5b2e8c5c3b67",

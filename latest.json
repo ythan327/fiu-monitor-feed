@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T15:27:17+09:00",
+  "generatedAt": "2026-10-21T21:14:29+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,85 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-21T15:27:17+09:00",
+        "lastSuccessAt": "2026-10-21T21:14:29+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-21T15:27:17+09:00",
+        "lastSuccessAt": "2026-10-21T21:14:29+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-21T15:27:17+09:00",
+        "lastSuccessAt": "2026-10-21T21:14:29+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-21T15:27:17+09:00",
+        "lastSuccessAt": "2026-10-21T21:14:29+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-21T15:27:17+09:00",
+        "lastSuccessAt": "2026-10-21T21:14:29+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 4,
+    "newSinceLastFeed": 6,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-f2b16721250f2bb4",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제18차 금융위원회(’26.10.21.) 조치 의결. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87976?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "displayDate": "2026-10-20",
+      "dept": "회계제도팀",
+      "isNew": true,
+      "attachments": [],
+      "hash": "04478f9c2de6aecea84d8624dfdbd79fcab210d85cb39bf6c8beddffceb3c02f"
+    },
+    {
+      "id": "FSC-8279fb82e7201557",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "“보증금 기반 비대면 신용카드 발급 서비스” 등 혁신금융서비스 4건 신규 지정 의결 - 신규 혁신금융서비스 지정 4건 및 규제개선 요청 수용 1건 의결. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87975?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "displayDate": "2026-10-20",
+      "dept": "디지털금융총괄과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "43b0e6237ad3a95b04c642de4e370fbc46a33ef5fc47f73d803d8fca37c56907"
+    },
+    {
+      "id": "FSC-4172436aba6f2ad8",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87973?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "displayDate": "2026-10-20",
+      "dept": "금융데이터정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "d921a46cd32c1a78a4584952c929469192cc08025584a27d927455ada28a2326"
+    },
     {
       "id": "FSC-1c0a31ecfe9f89f8",
       "source": "FSC",
@@ -53,7 +98,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "금융소비자정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "952e57f85f13d011f8ac87fdf99c3a21e7a44eb4a9d3cb0c985ca3068c4f6785"
     },
@@ -68,9 +113,54 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "금융정보분석원 기획행정실",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "df3e547bcff74c8ae5bebb69ce95f6344621c475ea97cd8b2600c0dcd3973c9e"
+    },
+    {
+      "id": "FSS-c59c7c7655a88567",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "사업보고서 등에 대한 조사,감리결과 조치",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243274&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "displayDate": "2026-10-20",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5e57ea72a96b8612e7b096d09674ece2a6a7a4ef894e0a5a087050e9ecb517dc"
+    },
+    {
+      "id": "FSS-f2242d5926c2696c",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "보증금 기반 비대면 신용카드 발급 서비스 등 혁신금융서비스 4건 신규 지정 의결",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243112&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "displayDate": "2026-10-20",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ef1db29b21423fa58136df07a6648beaeed12b5320264ae3ddc95b0b92f1da60"
+    },
+    {
+      "id": "FSS-f2d1db1dd4c05199",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243111&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "displayDate": "2026-10-20",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "4f4d4f0b9d2d989332e0edbe370003a96923656bfbe1c17ad9f692c1f0185191"
     },
     {
       "id": "FSS-8a05864d04c25076",
@@ -83,7 +173,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "172918cb26d34cd75c4c6e51fe02aa12432d25592236202385b959f8cd1b89ad"
     },
@@ -98,7 +188,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "f04862bf9bd9a27bc0047d6a254bdcec0d28c00739032faf840eb567c86e6da0"
     },
@@ -208,36 +298,6 @@
       "hash": "ea0cb6ba939c36bcf718c67d59079d6a648302e55dc089710ceec55c76bff08d"
     },
     {
-      "id": "FSC-77a436709e901135",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "‘무기한 선물’ 이용자 유의사항 안내 - 최근 글로벌 가상자산플랫폼 등에서 거래되는 ‘무기한 선물’은 국내법의 투자자 보호가 적용되지 않아 각별한 주의 필요",
-      "url": "https://www.fsc.go.kr/no010101/87947?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-16T00:00:00+09:00",
-      "displayDate": "2026-10-15",
-      "dept": "가상자산과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "80989bab3b817f9a5d59f1a36fa13edc578e1a8f042404c82937819943bf3439"
-    },
-    {
-      "id": "FSC-9c575e39d404d8be",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드, 5,198억원을 모집하고 판매종료",
-      "url": "https://www.fsc.go.kr/no010101/87944?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-16T00:00:00+09:00",
-      "displayDate": "2026-10-15",
-      "dept": "국민지역참여지원과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "db0739002fb37d6785e9c4c29ef78fad25f7d9ecfbafa31bf40f719dae85d310"
-    },
-    {
       "id": "FSS-c7d4eead7400673d",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -251,21 +311,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "2c5547e0178cfcc335c348a11d13ffd85739115a48510f9b827970376bab965a"
-    },
-    {
-      "id": "FSC-75ffde1471672fe7",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "｢유관기관 증시상황 긴급 점검회의｣ 개최",
-      "url": "https://www.fsc.go.kr/no010101/87942?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-15T00:00:00+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "자본시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "2fd1bc45270123800329c6bdddfb0ab0c6cf01ac195d68a6cd48c9f0c61631f8"
     },
     {
       "id": "FSS-cc10cb8cd2b3d5b3",
@@ -296,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "f74dbcce212d7d712da20db7b56a5fc7389cf24496128884e8b5c776f32777a1"
-    },
-    {
-      "id": "FSS-9a08df7588c953a3",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "잠든 선불충전금, 잊지 말고 사용하세요.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241689&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-15T00:00:00+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "baa2a2d12add5a33d8ab366b54ea61c19ec8da27ce02f84d2ae8882432e77465"
     },
     {
       "id": "FIU-REPORT-421",
@@ -368,36 +398,6 @@
         }
       ],
       "hash": "2d8c5e511600c56d2ba1e0e6b0bae478ce8f0096193a8855634fe0c4ff39c8ea"
-    },
-    {
-      "id": "FSS-6eab5b2e8c5c3b67",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "사업보고서 등에 대한 조사, 감리결과 조치",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241512&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-14T00:00:00+09:00",
-      "displayDate": "2026-10-13",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "a32e39c0f6ca1f3af5a06196f63b869ceb913031832bd4794284c412dcc65644"
-    },
-    {
-      "id": "FSS-6db64440615d0cac",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융권 침해사고 재발방지를 위해 금융보안 관리체계를 전면 강화하겠습니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241503&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-14T00:00:00+09:00",
-      "displayDate": "2026-10-13",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ed68f3b5c529df2af2aab141a5dd7c9004f96d9c1170a9f0292474d0a40f7ed0"
     }
   ]
 }

@@ -1,45 +1,45 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T07:59:12+09:00",
+  "generatedAt": "2026-10-21T10:27:30+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "partial",
+    "overall": "ok",
     "sources": {
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-21T07:59:12+09:00",
+        "lastSuccessAt": "2026-10-21T10:27:30+09:00",
         "itemCount": 10
       },
       "FSS": {
-        "status": "error",
+        "status": "ok",
         "label": "금감원",
-        "lastAttemptAt": "2026-10-21T07:59:12+09:00",
-        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fss.or.kr/fss/bbs/B0000188/list.do?menuNo=200218\", waiting until \"networkidle\"\n"
+        "lastSuccessAt": "2026-10-21T10:27:30+09:00",
+        "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-21T07:59:12+09:00",
+        "lastSuccessAt": "2026-10-21T10:27:30+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-21T07:59:12+09:00",
+        "lastSuccessAt": "2026-10-21T10:27:30+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-21T07:59:12+09:00",
+        "lastSuccessAt": "2026-10-21T10:27:30+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
-    "totalVisible": 12
+    "newSinceLastFeed": 10,
+    "totalVisible": 22
   },
   "items": [
     {
@@ -86,6 +86,36 @@
       "isNew": false,
       "attachments": [],
       "hash": "ab1e7d81eb71240ee40493ffd660b9e4086ee205910ad475b717d5d763c70209"
+    },
+    {
+      "id": "FSS-06efc8666ebbcd0f",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2027 사업연도 주기적 지정 등 감사인 지정결과 사전통지 실시",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=242077&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-19T00:00:00+09:00",
+      "displayDate": "2026-10-18",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "2ca7af861ec45d4c867265a6ad314e075e44b1477a4d3ab42f7e6a7b81ec6592"
+    },
+    {
+      "id": "FSS-961b141d28cc9b06",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "한국, IOSCO(국제증권감독기구) 주관 글로벌 투자자보호 AI 프로그램 개발 경진대회 본선 입상",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=242050&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-18T00:00:00+09:00",
+      "displayDate": "2026-10-17",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "15ac250b59cfcc489d3f2938a1f0865425b60bbe0a09db7441a9e74d655fef84"
     },
     {
       "id": "FSC-01d2ab0a3200732e",
@@ -148,6 +178,21 @@
       "hash": "db0739002fb37d6785e9c4c29ef78fad25f7d9ecfbafa31bf40f719dae85d310"
     },
     {
+      "id": "FSS-c7d4eead7400673d",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "‘무기한 선물’ 이용자 유의사항 안내",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241777&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-16T00:00:00+09:00",
+      "displayDate": "2026-10-15",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "2c5547e0178cfcc335c348a11d13ffd85739115a48510f9b827970376bab965a"
+    },
+    {
       "id": "FSC-75ffde1471672fe7",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -191,6 +236,51 @@
       "isNew": false,
       "attachments": [],
       "hash": "cbe69fc18c6bf1f1a38504d4982a66488cc19819c65e75dbfbbf00cba551fb10"
+    },
+    {
+      "id": "FSS-cc10cb8cd2b3d5b3",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "「유관기관 증시상황 긴급 점검회의」 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241719&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-15T00:00:00+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "8c7debd6528ebb7dd438143ad63c95f08bc4cd4ccb4e08c485368a8fbf64058f"
+    },
+    {
+      "id": "FSS-a7a6b74e1fd60ba0",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2026년 9월 가계대출 동향(잠정) 및 「가계부채 점검회의」 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241690&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-15T00:00:00+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "f74dbcce212d7d712da20db7b56a5fc7389cf24496128884e8b5c776f32777a1"
+    },
+    {
+      "id": "FSS-9a08df7588c953a3",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "잠든 선불충전금, 잊지 말고 사용하세요.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241689&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-15T00:00:00+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "baa2a2d12add5a33d8ab366b54ea61c19ec8da27ce02f84d2ae8882432e77465"
     },
     {
       "id": "FIU-REPORT-421",
@@ -248,6 +338,66 @@
         }
       ],
       "hash": "2d8c5e511600c56d2ba1e0e6b0bae478ce8f0096193a8855634fe0c4ff39c8ea"
+    },
+    {
+      "id": "FSS-6eab5b2e8c5c3b67",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "사업보고서 등에 대한 조사, 감리결과 조치",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241512&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-14T00:00:00+09:00",
+      "displayDate": "2026-10-13",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "a32e39c0f6ca1f3af5a06196f63b869ceb913031832bd4794284c412dcc65644"
+    },
+    {
+      "id": "FSS-6db64440615d0cac",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융권 침해사고 재발방지를 위해 금융보안 관리체계를 전면 강화하겠습니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241503&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-14T00:00:00+09:00",
+      "displayDate": "2026-10-13",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ed68f3b5c529df2af2aab141a5dd7c9004f96d9c1170a9f0292474d0a40f7ed0"
+    },
+    {
+      "id": "FSS-9b95e4a2c75a8da0",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "증권사의 영업점 개설 계좌와 관련한 매매수수료 차등 부과 관행을 바로 잡겠습니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241493&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-14T00:00:00+09:00",
+      "displayDate": "2026-10-13",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "3a4e5ed196fc2cb2a770e079e9ebe7a29c5d247061db0e4c192e8472877d284c"
+    },
+    {
+      "id": "FSS-30fde718f76974ef",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금감원, 중소금융업권과 함께 준법제보 활성화 방안을 마련하여 시행합니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241492&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-14T00:00:00+09:00",
+      "displayDate": "2026-10-13",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1b7f3070ca6386a349895525e5bab2d727411f972f188ab655af0a693320e199"
     }
   ]
 }

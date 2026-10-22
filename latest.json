@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T09:07:35+09:00",
+  "generatedAt": "2026-10-22T14:13:16+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-22T09:07:35+09:00",
+        "lastSuccessAt": "2026-10-22T14:13:16+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-22T09:07:35+09:00",
+        "lastSuccessAt": "2026-10-22T14:13:16+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-22T09:07:35+09:00",
+        "lastSuccessAt": "2026-10-22T14:13:16+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-22T09:07:35+09:00",
+        "lastSuccessAt": "2026-10-22T14:13:16+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-22T09:07:35+09:00",
+        "lastSuccessAt": "2026-10-22T14:13:16+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 2,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-d90680e7aaf30770",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "우주항공 · 양자 산업을 국민성장펀드의 지원대상산업에 추가하고자 합니다. - 한국산업은행법 시행령 개정령안 입법예고(10.22~12.1일). 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87977?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-22T00:00:00+09:00",
+      "displayDate": "2026-10-21",
+      "dept": "국민성장펀드총괄과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "fe09d20937335993ddfd615a7f0e082be6cfbb1e08a03d6acd5366415daaece5"
+    },
+    {
+      "id": "FSS-aaa4fa7e8dc33e2f",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "유명 가상자산거래소의 블록체인 네트워크를 사칭한 가짜 체인 사기에 주의하세요",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243282&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-22T00:00:00+09:00",
+      "displayDate": "2026-10-21",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ba059994794f3a9b4894986aebf94bd65969fe7d00a2e34fa225c6e93943cd17"
+    },
     {
       "id": "FSC-f2b16721250f2bb4",
       "source": "FSC",
@@ -93,14 +123,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "군 장병의 경제관 확립과 금융역량 향상을 위해 국방부과 금융위이 손을 맞잡다!",
+      "title": "군 장병의 경제관 확립과 금융역량 향상을 위해 국방(부)과 금융(위)이 손을 맞잡다!",
       "url": "https://www.fsc.go.kr/no010101/87972?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "금융소비자정책과",
       "isNew": false,
       "attachments": [],
-      "hash": "2de2be2dd7c97611b940bef6d91ce8b6cd6f1ad5203872981369d75f3c648d6c"
+      "hash": "4eca859202f34eb74fa884f49e8fd918edd521a28876c973b371ac090e314796"
     },
     {
       "id": "FSC-a0ab0a0068524825",
@@ -283,21 +313,6 @@
       "hash": "1ee63525b4065e15a22a8eaf7671484cf16ad857fa1a80e386c40c2ff9076648"
     },
     {
-      "id": "FSC-ef133428b87c2313",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "“내 집 어디에, 언제 공급되나” 주택공급, 계획부터 성과까지 정례적으로 공개합니다",
-      "url": "https://www.fsc.go.kr/no010101/87948?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-16T00:00:00+09:00",
-      "displayDate": "2026-10-15",
-      "dept": "금융정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ea0cb6ba939c36bcf718c67d59079d6a648302e55dc089710ceec55c76bff08d"
-    },
-    {
       "id": "FSS-c7d4eead7400673d",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "8c7debd6528ebb7dd438143ad63c95f08bc4cd4ccb4e08c485368a8fbf64058f"
-    },
-    {
-      "id": "FSS-a7a6b74e1fd60ba0",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "2026년 9월 가계대출 동향(잠정) 및 「가계부채 점검회의」 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241690&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-15T00:00:00+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f74dbcce212d7d712da20db7b56a5fc7389cf24496128884e8b5c776f32777a1"
     },
     {
       "id": "FIU-REPORT-421",

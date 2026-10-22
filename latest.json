@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T04:47:55+09:00",
+  "generatedAt": "2026-10-23T08:00:37+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-23T04:47:55+09:00",
+        "lastSuccessAt": "2026-10-23T08:00:37+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-23T04:47:55+09:00",
+        "lastSuccessAt": "2026-10-23T08:00:37+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-23T04:47:55+09:00",
+        "lastSuccessAt": "2026-10-23T08:00:37+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-23T04:47:55+09:00",
+        "lastSuccessAt": "2026-10-23T08:00:37+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-23T04:47:55+09:00",
+        "lastSuccessAt": "2026-10-23T08:00:37+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 2,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSS-adb4e6b70f0dfd60",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "여신전문금융업감독규정 개정안 규정변경예고(‘26.10.23.~12.2.) 실시",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243352&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-23T00:00:00+09:00",
+      "displayDate": "2026-10-22",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "794bb1aed3315e3620b746a545a63618637efc3c43e87ca6eb4c4f2a105858ea"
+    },
+    {
+      "id": "FSS-4242aec9b6cfb79b",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "26.8월말 국내은행의 원화대출 연체율 현황(잠정)",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243351&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-23T00:00:00+09:00",
+      "displayDate": "2026-10-22",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "854f40e0590aefe872b761cefccd59e38aa767a1926a70ba0a9ac365ed9fd731"
+    },
     {
       "id": "FSC-d90680e7aaf30770",
       "source": "FSC",
@@ -311,36 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "1ee63525b4065e15a22a8eaf7671484cf16ad857fa1a80e386c40c2ff9076648"
-    },
-    {
-      "id": "FSS-c7d4eead7400673d",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "‘무기한 선물’ 이용자 유의사항 안내",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241777&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-16T00:00:00+09:00",
-      "displayDate": "2026-10-15",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "2c5547e0178cfcc335c348a11d13ffd85739115a48510f9b827970376bab965a"
-    },
-    {
-      "id": "FSS-cc10cb8cd2b3d5b3",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "「유관기관 증시상황 긴급 점검회의」 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=241719&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-15T00:00:00+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "8c7debd6528ebb7dd438143ad63c95f08bc4cd4ccb4e08c485368a8fbf64058f"
     },
     {
       "id": "FIU-REPORT-421",

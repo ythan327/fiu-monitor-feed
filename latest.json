@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T00:38:13+09:00",
+  "generatedAt": "2026-10-23T04:47:55+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-23T00:38:13+09:00",
+        "lastSuccessAt": "2026-10-23T04:47:55+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-23T00:38:13+09:00",
+        "lastSuccessAt": "2026-10-23T04:47:55+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-23T00:38:13+09:00",
+        "lastSuccessAt": "2026-10-23T04:47:55+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-23T00:38:13+09:00",
+        "lastSuccessAt": "2026-10-23T04:47:55+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-23T00:38:13+09:00",
+        "lastSuccessAt": "2026-10-23T04:47:55+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 12,
+    "newSinceLastFeed": 0,
     "totalVisible": 22
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-10-22T00:00:00+09:00",
       "displayDate": "2026-10-21",
       "dept": "국민성장펀드총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "66f68b503efa4ae751409c69f5b08d52ae6070e3ffe33b4f1bfce094ecc3a131"
     },
@@ -83,7 +83,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "회계제도팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "37d10bc83966efc1669c1fa2e48633aa83d99701e7b6f221bb41df98021aa857"
     },
@@ -98,7 +98,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "디지털금융총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "fc3b39dbf44146e371fd7255d9f057aee8ecc3b74f421c2e7c39fb2473f7fed2"
     },
@@ -113,7 +113,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "금융데이터정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "2af71d28883e573bb3f51e0500fa87fc4c08afaba5405127f28de2e8401d7357"
     },
@@ -128,7 +128,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "금융소비자정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "4eca859202f34eb74fa884f49e8fd918edd521a28876c973b371ac090e314796"
     },
@@ -143,7 +143,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "금융정보분석원 기획행정실",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "81a6ad5505b5ee8de3f464c2fdd773244c0f273cc503e1e35250188db1fa2da4"
     },
@@ -233,7 +233,7 @@
       "publishedAt": "2026-10-20T00:00:00+09:00",
       "displayDate": "2026-10-19",
       "dept": "금융소비자정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "282421102f88c5236819618e0f6b900f983117d1d7e1f5be16f829b5c4ff6664"
     },
@@ -248,7 +248,7 @@
       "publishedAt": "2026-10-19T00:00:00+09:00",
       "displayDate": "2026-10-18",
       "dept": "청년정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "4cbde9f3d5e9f730cff42be7101aaf5548d4e417605bbeafb0b40c1990cecac3"
     },
@@ -263,7 +263,7 @@
       "publishedAt": "2026-10-19T00:00:00+09:00",
       "displayDate": "2026-10-18",
       "dept": "보험과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "ab1e7d81eb71240ee40493ffd660b9e4086ee205910ad475b717d5d763c70209"
     },
@@ -308,7 +308,7 @@
       "publishedAt": "2026-10-16T00:00:00+09:00",
       "displayDate": "2026-10-15",
       "dept": "행정인사과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "1ee63525b4065e15a22a8eaf7671484cf16ad857fa1a80e386c40c2ff9076648"
     },
@@ -353,7 +353,7 @@
       "publishedAt": "2026-10-14T16:36:08+09:00",
       "displayDate": "2026-10-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..hwp",
@@ -384,7 +384,7 @@
       "publishedAt": "2026-10-14T09:00:16+09:00",
       "displayDate": "2026-10-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여.hwpx",

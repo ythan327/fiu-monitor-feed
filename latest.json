@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T15:20:56+09:00",
+  "generatedAt": "2026-10-23T20:57:39+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-23T15:20:56+09:00",
+        "lastSuccessAt": "2026-10-23T20:57:39+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-23T15:20:56+09:00",
+        "lastSuccessAt": "2026-10-23T20:57:39+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-23T15:20:56+09:00",
+        "lastSuccessAt": "2026-10-23T20:57:39+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-23T15:20:56+09:00",
+        "lastSuccessAt": "2026-10-23T20:57:39+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-23T15:20:56+09:00",
+        "lastSuccessAt": "2026-10-23T20:57:39+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 3,
+    "newSinceLastFeed": 0,
     "totalVisible": 25
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-10-23T11:19:02+09:00",
       "displayDate": "2026-10-23",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "화우환전소 제재내용 공개안.pdf",
@@ -74,7 +74,7 @@
       "publishedAt": "2026-10-23T11:18:50+09:00",
       "displayDate": "2026-10-23",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "칠성환전소 제재내용 공개안.pdf",
@@ -95,7 +95,7 @@
       "publishedAt": "2026-10-23T11:18:38+09:00",
       "displayDate": "2026-10-23",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "가리봉환전소 제재내용 공개안.pdf",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T10:25:39+09:00",
+  "generatedAt": "2026-10-23T15:20:56+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,103 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-23T10:25:39+09:00",
+        "lastSuccessAt": "2026-10-23T15:20:56+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-23T10:25:39+09:00",
+        "lastSuccessAt": "2026-10-23T15:20:56+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-23T10:25:39+09:00",
+        "lastSuccessAt": "2026-10-23T15:20:56+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-23T10:25:39+09:00",
+        "lastSuccessAt": "2026-10-23T15:20:56+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-23T10:25:39+09:00",
-        "itemCount": 0
+        "lastSuccessAt": "2026-10-23T15:20:56+09:00",
+        "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
-    "totalVisible": 22
+    "newSinceLastFeed": 3,
+    "totalVisible": 25
   },
   "items": [
+    {
+      "id": "FIU-SANCTIONS-139",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "SANCTIONS",
+      "categoryLabel": "제재공시",
+      "title": "화우환전소 제재내용 공개안",
+      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=139&seCd=0022",
+      "publishedAt": "2026-10-23T11:19:02+09:00",
+      "displayDate": "2026-10-23",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "화우환전소 제재내용 공개안.pdf",
+          "type": "application/pdf",
+          "size": 69406
+        }
+      ],
+      "hash": "f5ac87fc82ba88a1a3bec90f49a95de4d9ec6d98c16c4724e0dddfe736575852"
+    },
+    {
+      "id": "FIU-SANCTIONS-138",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "SANCTIONS",
+      "categoryLabel": "제재공시",
+      "title": "칠성환전소 제재내용 공개안",
+      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=138&seCd=0022",
+      "publishedAt": "2026-10-23T11:18:50+09:00",
+      "displayDate": "2026-10-23",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "칠성환전소 제재내용 공개안.pdf",
+          "type": "application/pdf",
+          "size": 68580
+        }
+      ],
+      "hash": "94bb0a9c809f44b6b9d46c6254639f5d4d605332ac0fe238cf97aa8eeb8b3831"
+    },
+    {
+      "id": "FIU-SANCTIONS-137",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "SANCTIONS",
+      "categoryLabel": "제재공시",
+      "title": "가리봉환전소 제재내용 공개안",
+      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=137&seCd=0022",
+      "publishedAt": "2026-10-23T11:18:38+09:00",
+      "displayDate": "2026-10-23",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "가리봉환전소 제재내용 공개안.pdf",
+          "type": "application/pdf",
+          "size": 68208
+        }
+      ],
+      "hash": "61020fa3c4accbbfadf73b8a8f6496e80fa6fc399b0410cf5400cd79c58ce94b"
+    },
     {
       "id": "FSC-32c89bc5cde8bbd0",
       "source": "FSC",
@@ -53,7 +116,7 @@
       "publishedAt": "2026-10-23T00:00:00+09:00",
       "displayDate": "2026-10-22",
       "dept": "중소금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "949077ed9455ed5d6fbe46b9d21b892e29fb12059503616a736f0205e32a40d7"
     },

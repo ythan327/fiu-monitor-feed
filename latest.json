@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T08:00:37+09:00",
+  "generatedAt": "2026-10-23T10:25:39+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-23T08:00:37+09:00",
+        "lastSuccessAt": "2026-10-23T10:25:39+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-23T08:00:37+09:00",
+        "lastSuccessAt": "2026-10-23T10:25:39+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-23T08:00:37+09:00",
+        "lastSuccessAt": "2026-10-23T10:25:39+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-23T08:00:37+09:00",
+        "lastSuccessAt": "2026-10-23T10:25:39+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-23T08:00:37+09:00",
+        "lastSuccessAt": "2026-10-23T10:25:39+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 2,
+    "newSinceLastFeed": 1,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSC-32c89bc5cde8bbd0",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "여신전문금융업감독규정 개정안 규정변경예고(‘26.10.23.~12.2.) 실시. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87984?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-23T00:00:00+09:00",
+      "displayDate": "2026-10-22",
+      "dept": "중소금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "949077ed9455ed5d6fbe46b9d21b892e29fb12059503616a736f0205e32a40d7"
+    },
     {
       "id": "FSS-adb4e6b70f0dfd60",
       "source": "FSS",
@@ -53,7 +68,7 @@
       "publishedAt": "2026-10-23T00:00:00+09:00",
       "displayDate": "2026-10-22",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "794bb1aed3315e3620b746a545a63618637efc3c43e87ca6eb4c4f2a105858ea"
     },
@@ -68,7 +83,7 @@
       "publishedAt": "2026-10-23T00:00:00+09:00",
       "displayDate": "2026-10-22",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "854f40e0590aefe872b761cefccd59e38aa767a1926a70ba0a9ac365ed9fd731"
     },
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "15ac250b59cfcc489d3f2938a1f0865425b60bbe0a09db7441a9e74d655fef84"
-    },
-    {
-      "id": "FSC-01d2ab0a3200732e",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융위원회 인사보도(3급·4급 전보)",
-      "url": "https://www.fsc.go.kr/no010101/87949?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-16T00:00:00+09:00",
-      "displayDate": "2026-10-15",
-      "dept": "행정인사과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "1ee63525b4065e15a22a8eaf7671484cf16ad857fa1a80e386c40c2ff9076648"
     },
     {
       "id": "FIU-REPORT-421",

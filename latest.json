@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T15:56:51+09:00",
+  "generatedAt": "2026-10-24T20:54:52+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-24T15:56:51+09:00",
+        "lastSuccessAt": "2026-10-24T20:54:52+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-24T15:56:51+09:00",
+        "lastSuccessAt": "2026-10-24T20:54:52+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-24T15:56:51+09:00",
+        "lastSuccessAt": "2026-10-24T20:54:52+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-24T15:56:51+09:00",
+        "lastSuccessAt": "2026-10-24T20:54:52+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-24T15:56:51+09:00",
+        "lastSuccessAt": "2026-10-24T20:54:52+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 5,
+    "newSinceLastFeed": 0,
     "totalVisible": 25
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-10-23T11:19:02+09:00",
       "displayDate": "2026-10-23",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "화우환전소 제재내용 공개안.pdf",
@@ -74,7 +74,7 @@
       "publishedAt": "2026-10-23T11:18:50+09:00",
       "displayDate": "2026-10-23",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "칠성환전소 제재내용 공개안.pdf",
@@ -95,7 +95,7 @@
       "publishedAt": "2026-10-23T11:18:38+09:00",
       "displayDate": "2026-10-23",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "가리봉환전소 제재내용 공개안.pdf",
@@ -416,7 +416,7 @@
       "publishedAt": "2026-10-14T16:36:08+09:00",
       "displayDate": "2026-10-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..hwp",
@@ -447,7 +447,7 @@
       "publishedAt": "2026-10-14T09:00:16+09:00",
       "displayDate": "2026-10-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여.hwpx",

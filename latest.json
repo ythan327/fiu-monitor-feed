@@ -1,110 +1,47 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T08:20:57+09:00",
+  "generatedAt": "2026-10-24T10:53:16+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "ok",
+    "overall": "partial",
     "sources": {
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-24T08:20:57+09:00",
+        "lastSuccessAt": "2026-10-24T10:53:16+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-24T08:20:57+09:00",
+        "lastSuccessAt": "2026-10-24T10:53:16+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-24T08:20:57+09:00",
-        "itemCount": 2
+        "lastAttemptAt": "2026-10-24T10:53:16+09:00",
+        "message": "fetch failed"
       },
       "FIU_NOTICE": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-24T08:20:57+09:00",
-        "itemCount": 0
+        "lastAttemptAt": "2026-10-24T10:53:16+09:00",
+        "message": "fetch failed"
       },
       "FIU_SANCTIONS": {
-        "status": "ok",
+        "status": "error",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-24T08:20:57+09:00",
-        "itemCount": 3
+        "lastAttemptAt": "2026-10-24T10:53:16+09:00",
+        "message": "fetch failed"
       }
     }
   },
   "counts": {
     "newSinceLastFeed": 0,
-    "totalVisible": 25
+    "totalVisible": 20
   },
   "items": [
-    {
-      "id": "FIU-SANCTIONS-139",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "SANCTIONS",
-      "categoryLabel": "제재공시",
-      "title": "화우환전소 제재내용 공개안",
-      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=139&seCd=0022",
-      "publishedAt": "2026-10-23T11:19:02+09:00",
-      "displayDate": "2026-10-23",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "화우환전소 제재내용 공개안.pdf",
-          "type": "application/pdf",
-          "size": 69406
-        }
-      ],
-      "hash": "f5ac87fc82ba88a1a3bec90f49a95de4d9ec6d98c16c4724e0dddfe736575852"
-    },
-    {
-      "id": "FIU-SANCTIONS-138",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "SANCTIONS",
-      "categoryLabel": "제재공시",
-      "title": "칠성환전소 제재내용 공개안",
-      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=138&seCd=0022",
-      "publishedAt": "2026-10-23T11:18:50+09:00",
-      "displayDate": "2026-10-23",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "칠성환전소 제재내용 공개안.pdf",
-          "type": "application/pdf",
-          "size": 68580
-        }
-      ],
-      "hash": "94bb0a9c809f44b6b9d46c6254639f5d4d605332ac0fe238cf97aa8eeb8b3831"
-    },
-    {
-      "id": "FIU-SANCTIONS-137",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "SANCTIONS",
-      "categoryLabel": "제재공시",
-      "title": "가리봉환전소 제재내용 공개안",
-      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=137&seCd=0022",
-      "publishedAt": "2026-10-23T11:18:38+09:00",
-      "displayDate": "2026-10-23",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "가리봉환전소 제재내용 공개안.pdf",
-          "type": "application/pdf",
-          "size": 68208
-        }
-      ],
-      "hash": "61020fa3c4accbbfadf73b8a8f6496e80fa6fc399b0410cf5400cd79c58ce94b"
-    },
     {
       "id": "FSC-32c89bc5cde8bbd0",
       "source": "FSC",
@@ -404,63 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "15ac250b59cfcc489d3f2938a1f0865425b60bbe0a09db7441a9e74d655fef84"
-    },
-    {
-      "id": "FIU-REPORT-421",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "[보도참고] 불법 가상자산 취급업자 인터넷 사이트 국내 접속이 차단됩니다.",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=421&seCd=0001",
-      "publishedAt": "2026-10-14T16:36:08+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..hwp",
-          "type": "application/octet-stream",
-          "size": 250368
-        },
-        {
-          "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..hwpx",
-          "type": "application/octet-stream",
-          "size": 271714
-        },
-        {
-          "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..pdf",
-          "type": "application/pdf",
-          "size": 363208
-        }
-      ],
-      "hash": "81b2a9c96d741034f7d681b89ecbc797ae8a2ea1ad480cd678caa3ff3ece65af"
-    },
-    {
-      "id": "FIU-REPORT-420",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=420&seCd=0001",
-      "publishedAt": "2026-10-14T09:00:16+09:00",
-      "displayDate": "2026-10-14",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여.hwpx",
-          "type": "application/octet-stream",
-          "size": 2110371
-        },
-        {
-          "name": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여.pdf",
-          "type": "application/pdf",
-          "size": 182843
-        }
-      ],
-      "hash": "2d8c5e511600c56d2ba1e0e6b0bae478ce8f0096193a8855634fe0c4ff39c8ea"
     }
   ]
 }

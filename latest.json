@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T04:54:30+09:00",
+  "generatedAt": "2026-10-26T07:21:30+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-26T04:54:30+09:00",
+        "lastSuccessAt": "2026-10-26T07:21:30+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-26T04:54:30+09:00",
+        "lastSuccessAt": "2026-10-26T07:21:30+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-26T04:54:30+09:00",
+        "lastSuccessAt": "2026-10-26T07:21:30+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-26T04:54:30+09:00",
+        "lastSuccessAt": "2026-10-26T07:21:30+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-26T04:54:30+09:00",
+        "lastSuccessAt": "2026-10-26T07:21:30+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 25
   },
   "items": [
+    {
+      "id": "FSS-98f8b5c05431159c",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "고수익 아르바이트와 통장매매의 유혹! 나도 모르게 금융사기 범죄자가 될 수 있습니다!",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243940&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "displayDate": "2026-10-25",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "53131ae998316b4da45dac3b780426fd76268356da1aa8914c4ddea4d26fc270"
+    },
     {
       "id": "FSS-39c014c6ca77f6c9",
       "source": "FSS",
@@ -344,21 +359,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "172918cb26d34cd75c4c6e51fe02aa12432d25592236202385b959f8cd1b89ad"
-    },
-    {
-      "id": "FSS-7d17c4c6be955b34",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "안정적인 노후생활을 위한 소비자 유의사항 안내",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243106&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-21T00:00:00+09:00",
-      "displayDate": "2026-10-20",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f04862bf9bd9a27bc0047d6a254bdcec0d28c00739032faf840eb567c86e6da0"
     },
     {
       "id": "FSC-eb1efd5d59d5b4d4",

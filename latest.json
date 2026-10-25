@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T08:33:19+09:00",
+  "generatedAt": "2026-10-25T12:36:02+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-25T08:33:19+09:00",
+        "lastSuccessAt": "2026-10-25T12:36:02+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-25T08:33:19+09:00",
+        "lastSuccessAt": "2026-10-25T12:36:02+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-25T08:33:19+09:00",
+        "lastSuccessAt": "2026-10-25T12:36:02+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-25T08:33:19+09:00",
+        "lastSuccessAt": "2026-10-25T12:36:02+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-25T08:33:19+09:00",
+        "lastSuccessAt": "2026-10-25T12:36:02+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 2,
     "totalVisible": 25
   },
   "items": [
+    {
+      "id": "FSS-39c014c6ca77f6c9",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "민, 관 합동으로 「지표금리 개편방안(3.30일)」을 차질 없이 추진하고 있습니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243717&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-25T00:00:00+09:00",
+      "displayDate": "2026-10-24",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "b0903f48584d0ae8cd0389a419fd03c2ba5ac8b02e476810e6e7c2da98d0722b"
+    },
+    {
+      "id": "FSS-cc1e21c17d9e42bc",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "꼬리 자르기 사채 조직, 몸통까지 쫓는다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243716&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-25T00:00:00+09:00",
+      "displayDate": "2026-10-24",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "bb108f27209bd8e91deb89373951145e0f58deb0dbaa022a8db8911a165efb6a"
+    },
     {
       "id": "FIU-SANCTIONS-139",
       "source": "FIU",
@@ -374,36 +404,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "ab1e7d81eb71240ee40493ffd660b9e4086ee205910ad475b717d5d763c70209"
-    },
-    {
-      "id": "FSS-06efc8666ebbcd0f",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "2027 사업연도 주기적 지정 등 감사인 지정결과 사전통지 실시",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=242077&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-19T00:00:00+09:00",
-      "displayDate": "2026-10-18",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "2ca7af861ec45d4c867265a6ad314e075e44b1477a4d3ab42f7e6a7b81ec6592"
-    },
-    {
-      "id": "FSS-961b141d28cc9b06",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "한국, IOSCO(국제증권감독기구) 주관 글로벌 투자자보호 AI 프로그램 개발 경진대회 본선 입상",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=242050&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-18T00:00:00+09:00",
-      "displayDate": "2026-10-17",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "15ac250b59cfcc489d3f2938a1f0865425b60bbe0a09db7441a9e74d655fef84"
     },
     {
       "id": "FIU-REPORT-421",

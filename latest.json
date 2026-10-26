@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T03:49:46+09:00",
+  "generatedAt": "2026-10-27T08:12:58+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-27T03:49:46+09:00",
+        "lastSuccessAt": "2026-10-27T08:12:58+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-27T03:49:46+09:00",
+        "lastSuccessAt": "2026-10-27T08:12:58+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-27T03:49:46+09:00",
+        "lastSuccessAt": "2026-10-27T08:12:58+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-27T03:49:46+09:00",
+        "lastSuccessAt": "2026-10-27T08:12:58+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-27T03:49:46+09:00",
+        "lastSuccessAt": "2026-10-27T08:12:58+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 25
   },
   "items": [
+    {
+      "id": "FSS-b85d0d281d035e2b",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "26.9월중 기업의 직접금융 조달실적",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=244915&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-27T00:00:00+09:00",
+      "displayDate": "2026-10-26",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "533b97eccf1dc910cf24d246b3a5bc714fc9b49e09b0bdddd34f8d6bdd078c39"
+    },
     {
       "id": "FSC-29cf961312191e59",
       "source": "FSC",
@@ -374,21 +389,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "5e57ea72a96b8612e7b096d09674ece2a6a7a4ef894e0a5a087050e9ecb517dc"
-    },
-    {
-      "id": "FSS-f2242d5926c2696c",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "보증금 기반 비대면 신용카드 발급 서비스 등 혁신금융서비스 4건 신규 지정 의결",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243112&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-21T00:00:00+09:00",
-      "displayDate": "2026-10-20",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ef1db29b21423fa58136df07a6648beaeed12b5320264ae3ddc95b0b92f1da60"
     },
     {
       "id": "FSC-eb1efd5d59d5b4d4",

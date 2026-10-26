@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T14:49:59+09:00",
+  "generatedAt": "2026-10-26T21:39:41+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-26T14:49:59+09:00",
+        "lastSuccessAt": "2026-10-26T21:39:41+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-26T14:49:59+09:00",
+        "lastSuccessAt": "2026-10-26T21:39:41+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-26T14:49:59+09:00",
+        "lastSuccessAt": "2026-10-26T21:39:41+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-26T14:49:59+09:00",
+        "lastSuccessAt": "2026-10-26T21:39:41+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-26T14:49:59+09:00",
+        "lastSuccessAt": "2026-10-26T21:39:41+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
+    "newSinceLastFeed": 2,
     "totalVisible": 25
   },
   "items": [
+    {
+      "id": "FSC-29cf961312191e59",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "제1차 국민참여성장펀드 자산운용보고서 공시. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87994?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "displayDate": "2026-10-25",
+      "dept": "국민지역참여지원과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "0937f272eee2a380b072796b82e116b4e837fe71ee9419b205d2270f227013e7"
+    },
     {
       "id": "FSC-5754ca9a26068b0b",
       "source": "FSC",
@@ -58,6 +73,21 @@
       "hash": "cc30c39ba5a5c1dc08ef8c89a18fbdc0323c3c6328ed1f781beeadc484cc513f"
     },
     {
+      "id": "FSS-f8aab547ec8e7287",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융감독원이 발급한 무효확인서를 토대로 최초 형사 무죄 판결이 확정되었습니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=244231&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "displayDate": "2026-10-25",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "6aa4446085074058771a60d38f34251fd83eaa27865ae79543e19f6dc0d10d6e"
+    },
+    {
       "id": "FSS-d955debf6388527e",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -68,7 +98,7 @@
       "publishedAt": "2026-10-26T00:00:00+09:00",
       "displayDate": "2026-10-25",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "5876887b4b08699184f8781ba164cc0dffab2fd5aaccb76d3ecab332887c35d6"
     },
@@ -361,21 +391,6 @@
       "hash": "ef1db29b21423fa58136df07a6648beaeed12b5320264ae3ddc95b0b92f1da60"
     },
     {
-      "id": "FSS-f2d1db1dd4c05199",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243111&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-21T00:00:00+09:00",
-      "displayDate": "2026-10-20",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "4f4d4f0b9d2d989332e0edbe370003a96923656bfbe1c17ad9f692c1f0185191"
-    },
-    {
       "id": "FSC-eb1efd5d59d5b4d4",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -389,21 +404,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "282421102f88c5236819618e0f6b900f983117d1d7e1f5be16f829b5c4ff6664"
-    },
-    {
-      "id": "FSC-83a6d21df5c6de46",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "청년미래적금, 2차 가입 신청자 68.8만명 - 10.12~11.13일 가입심사, 11.16일부터 계좌개설 시작",
-      "url": "https://www.fsc.go.kr/no010101/87953?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-19T00:00:00+09:00",
-      "displayDate": "2026-10-18",
-      "dept": "청년정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "4cbde9f3d5e9f730cff42be7101aaf5548d4e417605bbeafb0b40c1990cecac3"
     },
     {
       "id": "FIU-REPORT-421",

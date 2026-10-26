@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T09:35:23+09:00",
+  "generatedAt": "2026-10-26T14:49:59+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-26T09:35:23+09:00",
+        "lastSuccessAt": "2026-10-26T14:49:59+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-26T09:35:23+09:00",
+        "lastSuccessAt": "2026-10-26T14:49:59+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-26T09:35:23+09:00",
+        "lastSuccessAt": "2026-10-26T14:49:59+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-26T09:35:23+09:00",
+        "lastSuccessAt": "2026-10-26T14:49:59+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-26T09:35:23+09:00",
+        "lastSuccessAt": "2026-10-26T14:49:59+09:00",
         "itemCount": 3
       }
     }
@@ -53,9 +53,24 @@
       "publishedAt": "2026-10-26T00:00:00+09:00",
       "displayDate": "2026-10-25",
       "dept": "금융시장분석과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "cc30c39ba5a5c1dc08ef8c89a18fbdc0323c3c6328ed1f781beeadc484cc513f"
+    },
+    {
+      "id": "FSS-d955debf6388527e",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "간호조무사 대상 보험사기 예방교육 실시",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243965&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "displayDate": "2026-10-25",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5876887b4b08699184f8781ba164cc0dffab2fd5aaccb76d3ecab332887c35d6"
     },
     {
       "id": "FSS-98f8b5c05431159c",
@@ -359,21 +374,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "4f4d4f0b9d2d989332e0edbe370003a96923656bfbe1c17ad9f692c1f0185191"
-    },
-    {
-      "id": "FSS-8a05864d04c25076",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "군 장병의 경제관 확립과 금융역량 향상을 위해 국방(부)과 금융(위)이 손을 맞잡다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243107&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-21T00:00:00+09:00",
-      "displayDate": "2026-10-20",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "172918cb26d34cd75c4c6e51fe02aa12432d25592236202385b959f8cd1b89ad"
     },
     {
       "id": "FSC-eb1efd5d59d5b4d4",

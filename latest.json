@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T21:39:41+09:00",
+  "generatedAt": "2026-10-27T03:49:46+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-26T21:39:41+09:00",
+        "lastSuccessAt": "2026-10-27T03:49:46+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-26T21:39:41+09:00",
+        "lastSuccessAt": "2026-10-27T03:49:46+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-26T21:39:41+09:00",
+        "lastSuccessAt": "2026-10-27T03:49:46+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-26T21:39:41+09:00",
+        "lastSuccessAt": "2026-10-27T03:49:46+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-26T21:39:41+09:00",
+        "lastSuccessAt": "2026-10-27T03:49:46+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 2,
+    "newSinceLastFeed": 0,
     "totalVisible": 25
   },
   "items": [
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "제1차 국민참여성장펀드 자산운용보고서 공시. 금일 등록된 게시글",
+      "title": "제1차 국민참여성장펀드 자산운용보고서 공시",
       "url": "https://www.fsc.go.kr/no010101/87994?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-26T00:00:00+09:00",
       "displayDate": "2026-10-25",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "0937f272eee2a380b072796b82e116b4e837fe71ee9419b205d2270f227013e7"
+      "hash": "5613ab92dfac3e687f24498e191c89db360e04e7dd82698de1f69e00403ff263"
     },
     {
       "id": "FSC-5754ca9a26068b0b",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "민·관 합동으로 「지표금리 개편방안(3.30일)」을 차질 없이 추진하고 있습니다.. 금일 등록된 게시글",
+      "title": "민·관 합동으로 「지표금리 개편방안(3.30일)」을 차질 없이 추진하고 있습니다.",
       "url": "https://www.fsc.go.kr/no010101/87989?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-26T00:00:00+09:00",
       "displayDate": "2026-10-25",
       "dept": "금융시장분석과",
       "isNew": false,
       "attachments": [],
-      "hash": "cc30c39ba5a5c1dc08ef8c89a18fbdc0323c3c6328ed1f781beeadc484cc513f"
+      "hash": "834d6018871e81fdf4a2810c48356e1b1764fa00cbc9a61bf14ea74f80384b11"
     },
     {
       "id": "FSS-f8aab547ec8e7287",
@@ -83,7 +83,7 @@
       "publishedAt": "2026-10-26T00:00:00+09:00",
       "displayDate": "2026-10-25",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "6aa4446085074058771a60d38f34251fd83eaa27865ae79543e19f6dc0d10d6e"
     },

@@ -1,47 +1,92 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T11:27:55+09:00",
+  "generatedAt": "2026-10-27T17:15:08+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
-    "overall": "partial",
+    "overall": "ok",
     "sources": {
       "FSC": {
-        "status": "error",
+        "status": "ok",
         "label": "금융위",
-        "lastAttemptAt": "2026-10-27T11:27:55+09:00",
-        "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.fsc.go.kr/no010101\", waiting until \"networkidle\"\n"
+        "lastSuccessAt": "2026-10-27T17:15:08+09:00",
+        "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-27T11:27:55+09:00",
+        "lastSuccessAt": "2026-10-27T17:15:08+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
-        "status": "error",
+        "status": "ok",
         "label": "FIU 보도자료",
-        "lastAttemptAt": "2026-10-27T11:27:55+09:00",
-        "message": "fetch failed"
+        "lastSuccessAt": "2026-10-27T17:15:08+09:00",
+        "itemCount": 2
       },
       "FIU_NOTICE": {
-        "status": "error",
+        "status": "ok",
         "label": "FIU 공지사항",
-        "lastAttemptAt": "2026-10-27T11:27:55+09:00",
-        "message": "fetch failed"
+        "lastSuccessAt": "2026-10-27T17:15:08+09:00",
+        "itemCount": 0
       },
       "FIU_SANCTIONS": {
-        "status": "error",
+        "status": "ok",
         "label": "FIU 제재공시",
-        "lastAttemptAt": "2026-10-27T11:27:55+09:00",
-        "message": "fetch failed"
+        "lastSuccessAt": "2026-10-27T17:15:08+09:00",
+        "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
-    "totalVisible": 10
+    "newSinceLastFeed": 16,
+    "totalVisible": 25
   },
   "items": [
+    {
+      "id": "FSC-07bbac7cf2713262",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "군부대로 ‘찾아가는 재무상담소’, 군복무 청년에게 1:1 맞춤형 재무상담 제공. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87998?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-27T00:00:00+09:00",
+      "displayDate": "2026-10-26",
+      "dept": "청년정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "64dc517d50982a103522c3435e18a67b10d627819300e0e42349451354a0a9f2"
+    },
+    {
+      "id": "FSC-5cd65cd19f304b59",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2026년 3분기 공적자금 운용현황. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/87997?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-27T00:00:00+09:00",
+      "displayDate": "2026-10-26",
+      "dept": "구조개선정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "fe2053e311ba735da52fb14dbfbe0aa5d3c36b2260e9cd5aeaa26b18d6f8653e"
+    },
+    {
+      "id": "FSS-002e6dd8e650329e",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "투자한도 100%는 상품의 원리금 보장성 표시가 아닙니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=245254&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-27T00:00:00+09:00",
+      "displayDate": "2026-10-26",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "fdac03dff14b4836b51b053228e7530df5d6d25e095942bb688a05ae2387f50c"
+    },
     {
       "id": "FSS-23194ef7e874be7c",
       "source": "FSS",
@@ -53,7 +98,7 @@
       "publishedAt": "2026-10-27T00:00:00+09:00",
       "displayDate": "2026-10-26",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "cf8f59efb5aead393dd4f0aa910e08f9191f8634fef34d1c49937ca5467b7e20"
     },
@@ -71,6 +116,36 @@
       "isNew": false,
       "attachments": [],
       "hash": "533b97eccf1dc910cf24d246b3a5bc714fc9b49e09b0bdddd34f8d6bdd078c39"
+    },
+    {
+      "id": "FSC-29cf961312191e59",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "제1차 국민참여성장펀드 자산운용보고서 공시",
+      "url": "https://www.fsc.go.kr/no010101/87994?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "displayDate": "2026-10-25",
+      "dept": "국민지역참여지원과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5613ab92dfac3e687f24498e191c89db360e04e7dd82698de1f69e00403ff263"
+    },
+    {
+      "id": "FSC-5754ca9a26068b0b",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "민·관 합동으로 「지표금리 개편방안(3.30일)」을 차질 없이 추진하고 있습니다.",
+      "url": "https://www.fsc.go.kr/no010101/87989?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "displayDate": "2026-10-25",
+      "dept": "금융시장분석과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "834d6018871e81fdf4a2810c48356e1b1764fa00cbc9a61bf14ea74f80384b11"
     },
     {
       "id": "FSS-f8aab547ec8e7287",
@@ -148,6 +223,84 @@
       "hash": "bb108f27209bd8e91deb89373951145e0f58deb0dbaa022a8db8911a165efb6a"
     },
     {
+      "id": "FIU-SANCTIONS-139",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "SANCTIONS",
+      "categoryLabel": "제재공시",
+      "title": "화우환전소 제재내용 공개안",
+      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=139&seCd=0022",
+      "publishedAt": "2026-10-23T11:19:02+09:00",
+      "displayDate": "2026-10-23",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "화우환전소 제재내용 공개안.pdf",
+          "type": "application/pdf",
+          "size": 69406
+        }
+      ],
+      "hash": "f5ac87fc82ba88a1a3bec90f49a95de4d9ec6d98c16c4724e0dddfe736575852"
+    },
+    {
+      "id": "FIU-SANCTIONS-138",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "SANCTIONS",
+      "categoryLabel": "제재공시",
+      "title": "칠성환전소 제재내용 공개안",
+      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=138&seCd=0022",
+      "publishedAt": "2026-10-23T11:18:50+09:00",
+      "displayDate": "2026-10-23",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "칠성환전소 제재내용 공개안.pdf",
+          "type": "application/pdf",
+          "size": 68580
+        }
+      ],
+      "hash": "94bb0a9c809f44b6b9d46c6254639f5d4d605332ac0fe238cf97aa8eeb8b3831"
+    },
+    {
+      "id": "FIU-SANCTIONS-137",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "SANCTIONS",
+      "categoryLabel": "제재공시",
+      "title": "가리봉환전소 제재내용 공개안",
+      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=137&seCd=0022",
+      "publishedAt": "2026-10-23T11:18:38+09:00",
+      "displayDate": "2026-10-23",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "가리봉환전소 제재내용 공개안.pdf",
+          "type": "application/pdf",
+          "size": 68208
+        }
+      ],
+      "hash": "61020fa3c4accbbfadf73b8a8f6496e80fa6fc399b0410cf5400cd79c58ce94b"
+    },
+    {
+      "id": "FSC-32c89bc5cde8bbd0",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "여신전문금융업감독규정 개정안 규정변경예고(‘26.10.23.~12.2.) 실시",
+      "url": "https://www.fsc.go.kr/no010101/87984?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-23T00:00:00+09:00",
+      "displayDate": "2026-10-22",
+      "dept": "중소금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "54ca22526edbd467bb365356c6d9a2ba14ea058e04d1bd4f38aa7f7e2d8b75ae"
+    },
+    {
       "id": "FSS-adb4e6b70f0dfd60",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -178,19 +331,136 @@
       "hash": "854f40e0590aefe872b761cefccd59e38aa767a1926a70ba0a9ac365ed9fd731"
     },
     {
-      "id": "FSS-aaa4fa7e8dc33e2f",
-      "source": "FSS",
-      "sourceLabel": "금감원",
+      "id": "FSC-d90680e7aaf30770",
+      "source": "FSC",
+      "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "유명 가상자산거래소의 블록체인 네트워크를 사칭한 가짜 체인 사기에 주의하세요",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243282&menuNo=200218&pageIndex=1",
+      "title": "우주항공 · 양자 산업을 국민성장펀드의 지원대상산업에 추가하고자 합니다. - 한국산업은행법 시행령 개정령안 입법예고(10.22~12.1일)",
+      "url": "https://www.fsc.go.kr/no010101/87977?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-22T00:00:00+09:00",
       "displayDate": "2026-10-21",
-      "dept": "",
-      "isNew": false,
+      "dept": "국민성장펀드총괄과",
+      "isNew": true,
       "attachments": [],
-      "hash": "ba059994794f3a9b4894986aebf94bd65969fe7d00a2e34fa225c6e93943cd17"
+      "hash": "66f68b503efa4ae751409c69f5b08d52ae6070e3ffe33b4f1bfce094ecc3a131"
+    },
+    {
+      "id": "FSC-f2b16721250f2bb4",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제18차 금융위원회(’26.10.21.) 조치 의결",
+      "url": "https://www.fsc.go.kr/no010101/87976?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "displayDate": "2026-10-20",
+      "dept": "회계제도팀",
+      "isNew": true,
+      "attachments": [],
+      "hash": "37d10bc83966efc1669c1fa2e48633aa83d99701e7b6f221bb41df98021aa857"
+    },
+    {
+      "id": "FSC-8279fb82e7201557",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "“보증금 기반 비대면 신용카드 발급 서비스” 등 혁신금융서비스 4건 신규 지정 의결 - 신규 혁신금융서비스 지정 4건 및 규제개선 요청 수용 1건 의결",
+      "url": "https://www.fsc.go.kr/no010101/87975?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "displayDate": "2026-10-20",
+      "dept": "디지털금융총괄과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "fc3b39dbf44146e371fd7255d9f057aee8ecc3b74f421c2e7c39fb2473f7fed2"
+    },
+    {
+      "id": "FSC-4172436aba6f2ad8",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결",
+      "url": "https://www.fsc.go.kr/no010101/87973?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "displayDate": "2026-10-20",
+      "dept": "금융데이터정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "2af71d28883e573bb3f51e0500fa87fc4c08afaba5405127f28de2e8401d7357"
+    },
+    {
+      "id": "FSC-1c0a31ecfe9f89f8",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "군 장병의 경제관 확립과 금융역량 향상을 위해 국방(부)과 금융(위)이 손을 맞잡다!",
+      "url": "https://www.fsc.go.kr/no010101/87972?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "displayDate": "2026-10-20",
+      "dept": "금융소비자정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "4eca859202f34eb74fa884f49e8fd918edd521a28876c973b371ac090e314796"
+    },
+    {
+      "id": "FIU-REPORT-421",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "[보도참고] 불법 가상자산 취급업자 인터넷 사이트 국내 접속이 차단됩니다.",
+      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=421&seCd=0001",
+      "publishedAt": "2026-10-14T16:36:08+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..hwp",
+          "type": "application/octet-stream",
+          "size": 250368
+        },
+        {
+          "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..hwpx",
+          "type": "application/octet-stream",
+          "size": 271714
+        },
+        {
+          "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..pdf",
+          "type": "application/pdf",
+          "size": 363208
+        }
+      ],
+      "hash": "81b2a9c96d741034f7d681b89ecbc797ae8a2ea1ad480cd678caa3ff3ece65af"
+    },
+    {
+      "id": "FIU-REPORT-420",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여",
+      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=420&seCd=0001",
+      "publishedAt": "2026-10-14T09:00:16+09:00",
+      "displayDate": "2026-10-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여.hwpx",
+          "type": "application/octet-stream",
+          "size": 2110371
+        },
+        {
+          "name": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여.pdf",
+          "type": "application/pdf",
+          "size": 182843
+        }
+      ],
+      "hash": "2d8c5e511600c56d2ba1e0e6b0bae478ce8f0096193a8855634fe0c4ff39c8ea"
     }
   ]
 }

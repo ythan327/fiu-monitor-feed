@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T17:15:08+09:00",
+  "generatedAt": "2026-10-27T23:49:39+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-27T17:15:08+09:00",
+        "lastSuccessAt": "2026-10-27T23:49:39+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-27T17:15:08+09:00",
+        "lastSuccessAt": "2026-10-27T23:49:39+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-27T17:15:08+09:00",
+        "lastSuccessAt": "2026-10-27T23:49:39+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-27T17:15:08+09:00",
+        "lastSuccessAt": "2026-10-27T23:49:39+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-27T17:15:08+09:00",
+        "lastSuccessAt": "2026-10-27T23:49:39+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 16,
+    "newSinceLastFeed": 1,
     "totalVisible": 25
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-10-27T00:00:00+09:00",
       "displayDate": "2026-10-26",
       "dept": "청년정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "64dc517d50982a103522c3435e18a67b10d627819300e0e42349451354a0a9f2"
     },
@@ -68,9 +68,24 @@
       "publishedAt": "2026-10-27T00:00:00+09:00",
       "displayDate": "2026-10-26",
       "dept": "구조개선정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "fe2053e311ba735da52fb14dbfbe0aa5d3c36b2260e9cd5aeaa26b18d6f8653e"
+    },
+    {
+      "id": "FSS-1567ba2edfbdf161",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "일본계 자본의 JYP 주식 공개매수 보도 관련 투자자 유의사항",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=245702&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-27T00:00:00+09:00",
+      "displayDate": "2026-10-26",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5ff5f9e1386b5542c42c063c12823cb1cb7c59695539db2a65fe8935d46b797e"
     },
     {
       "id": "FSS-002e6dd8e650329e",
@@ -83,7 +98,7 @@
       "publishedAt": "2026-10-27T00:00:00+09:00",
       "displayDate": "2026-10-26",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "fdac03dff14b4836b51b053228e7530df5d6d25e095942bb688a05ae2387f50c"
     },
@@ -128,7 +143,7 @@
       "publishedAt": "2026-10-26T00:00:00+09:00",
       "displayDate": "2026-10-25",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "5613ab92dfac3e687f24498e191c89db360e04e7dd82698de1f69e00403ff263"
     },
@@ -143,7 +158,7 @@
       "publishedAt": "2026-10-26T00:00:00+09:00",
       "displayDate": "2026-10-25",
       "dept": "금융시장분석과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "834d6018871e81fdf4a2810c48356e1b1764fa00cbc9a61bf14ea74f80384b11"
     },
@@ -233,7 +248,7 @@
       "publishedAt": "2026-10-23T11:19:02+09:00",
       "displayDate": "2026-10-23",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "화우환전소 제재내용 공개안.pdf",
@@ -254,7 +269,7 @@
       "publishedAt": "2026-10-23T11:18:50+09:00",
       "displayDate": "2026-10-23",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "칠성환전소 제재내용 공개안.pdf",
@@ -275,7 +290,7 @@
       "publishedAt": "2026-10-23T11:18:38+09:00",
       "displayDate": "2026-10-23",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "가리봉환전소 제재내용 공개안.pdf",
@@ -296,7 +311,7 @@
       "publishedAt": "2026-10-23T00:00:00+09:00",
       "displayDate": "2026-10-22",
       "dept": "중소금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "54ca22526edbd467bb365356c6d9a2ba14ea058e04d1bd4f38aa7f7e2d8b75ae"
     },
@@ -316,21 +331,6 @@
       "hash": "794bb1aed3315e3620b746a545a63618637efc3c43e87ca6eb4c4f2a105858ea"
     },
     {
-      "id": "FSS-4242aec9b6cfb79b",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "26.8월말 국내은행의 원화대출 연체율 현황(잠정)",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=243351&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-23T00:00:00+09:00",
-      "displayDate": "2026-10-22",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "854f40e0590aefe872b761cefccd59e38aa767a1926a70ba0a9ac365ed9fd731"
-    },
-    {
       "id": "FSC-d90680e7aaf30770",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -341,7 +341,7 @@
       "publishedAt": "2026-10-22T00:00:00+09:00",
       "displayDate": "2026-10-21",
       "dept": "국민성장펀드총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "66f68b503efa4ae751409c69f5b08d52ae6070e3ffe33b4f1bfce094ecc3a131"
     },
@@ -356,7 +356,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "회계제도팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "37d10bc83966efc1669c1fa2e48633aa83d99701e7b6f221bb41df98021aa857"
     },
@@ -371,7 +371,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "디지털금융총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "fc3b39dbf44146e371fd7255d9f057aee8ecc3b74f421c2e7c39fb2473f7fed2"
     },
@@ -386,7 +386,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "금융데이터정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "2af71d28883e573bb3f51e0500fa87fc4c08afaba5405127f28de2e8401d7357"
     },
@@ -401,7 +401,7 @@
       "publishedAt": "2026-10-21T00:00:00+09:00",
       "displayDate": "2026-10-20",
       "dept": "금융소비자정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "4eca859202f34eb74fa884f49e8fd918edd521a28876c973b371ac090e314796"
     },
@@ -416,7 +416,7 @@
       "publishedAt": "2026-10-14T16:36:08+09:00",
       "displayDate": "2026-10-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "(금융위)261013(보도참고) 불법 가상자산 취급업자(특금법상 미신고 가상자산사업자) 인터넷 사이트 국내 접속이 차단됩니다..hwp",
@@ -447,7 +447,7 @@
       "publishedAt": "2026-10-14T09:00:16+09:00",
       "displayDate": "2026-10-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "[보도참고] 금융정보분석원장, 국제자금세탁방지기구(FATF) 운영위원회 참여.hwpx",

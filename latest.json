@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T23:49:39+09:00",
+  "generatedAt": "2026-10-28T04:53:02+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-27T23:49:39+09:00",
+        "lastSuccessAt": "2026-10-28T04:53:01+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-27T23:49:39+09:00",
+        "lastSuccessAt": "2026-10-28T04:53:02+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-27T23:49:39+09:00",
+        "lastSuccessAt": "2026-10-28T04:53:02+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-27T23:49:39+09:00",
+        "lastSuccessAt": "2026-10-28T04:53:02+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-27T23:49:39+09:00",
+        "lastSuccessAt": "2026-10-28T04:53:02+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
+    "newSinceLastFeed": 0,
     "totalVisible": 25
   },
   "items": [
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "군부대로 ‘찾아가는 재무상담소’, 군복무 청년에게 1:1 맞춤형 재무상담 제공. 금일 등록된 게시글",
+      "title": "군부대로 ‘찾아가는 재무상담소’, 군복무 청년에게 1:1 맞춤형 재무상담 제공",
       "url": "https://www.fsc.go.kr/no010101/87998?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-27T00:00:00+09:00",
       "displayDate": "2026-10-26",
       "dept": "청년정책과",
       "isNew": false,
       "attachments": [],
-      "hash": "64dc517d50982a103522c3435e18a67b10d627819300e0e42349451354a0a9f2"
+      "hash": "40549ace1034bf3c1dae71f0720555cda83a46365225a2cccebd035ac7cf026e"
     },
     {
       "id": "FSC-5cd65cd19f304b59",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "2026년 3분기 공적자금 운용현황. 금일 등록된 게시글",
+      "title": "2026년 3분기 공적자금 운용현황",
       "url": "https://www.fsc.go.kr/no010101/87997?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-27T00:00:00+09:00",
       "displayDate": "2026-10-26",
       "dept": "구조개선정책과",
       "isNew": false,
       "attachments": [],
-      "hash": "fe2053e311ba735da52fb14dbfbe0aa5d3c36b2260e9cd5aeaa26b18d6f8653e"
+      "hash": "b75afc1ec21890ba3eac8bb66b169b72448a70df883c35633d0c92bdf2eb6b6a"
     },
     {
       "id": "FSS-1567ba2edfbdf161",
@@ -83,7 +83,7 @@
       "publishedAt": "2026-10-27T00:00:00+09:00",
       "displayDate": "2026-10-26",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "5ff5f9e1386b5542c42c063c12823cb1cb7c59695539db2a65fe8935d46b797e"
     },

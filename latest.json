@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T19:46:54+09:00",
+  "generatedAt": "2026-10-29T02:01:46+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-28T19:46:54+09:00",
+        "lastSuccessAt": "2026-10-29T02:01:46+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-28T19:46:54+09:00",
+        "lastSuccessAt": "2026-10-29T02:01:46+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-28T19:46:54+09:00",
+        "lastSuccessAt": "2026-10-29T02:01:46+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-28T19:46:54+09:00",
+        "lastSuccessAt": "2026-10-29T02:01:46+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-28T19:46:54+09:00",
+        "lastSuccessAt": "2026-10-29T02:01:46+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 11,
+    "newSinceLastFeed": 0,
     "totalVisible": 23
   },
   "items": [
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제19차 증권선물위원회(’26.10.28.) 조치 의결. 금일 등록된 게시글",
+      "title": "사업보고서 등에 대한 조사·감리결과 조치 - 제19차 증권선물위원회(’26.10.28.) 조치 의결",
       "url": "https://www.fsc.go.kr/no010101/88013?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-28T00:00:00+09:00",
       "displayDate": "2026-10-27",
       "dept": "회계제도팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "6f7352acb521929074d19f991a0ea03b277fa8ef3e75aa4971585d00360fff5d"
+      "hash": "b50b7fc1b3b8ccf4959d747459ce910c28f073b9ef3cc6c04903c5474ab1ac63"
     },
     {
       "id": "FSC-bf2d28bfa34d3ede",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "미공개중요정보를 이용한 내부자등에 대한 중대범죄수사청 고발·통보 등 조치(2건) - 제19차 증권선물위원회(10.28.) 의결. 금일 등록된 게시글",
+      "title": "미공개중요정보를 이용한 내부자등에 대한 중대범죄수사청 고발·통보 등 조치(2건) - 제19차 증권선물위원회(10.28.) 의결",
       "url": "https://www.fsc.go.kr/no010101/88012?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-28T00:00:00+09:00",
       "displayDate": "2026-10-27",
       "dept": "자본시장조사총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "c4418e461518edc72c890536b3e603faa2f73eb54f238024f31ed96043fc111d"
+      "hash": "6e60f3c61e7a9e7b891025b61eb74d2f1f0179a7d91dc8d713efed0794bc7f0a"
     },
     {
       "id": "FSC-9e375c01810a08bb",
@@ -78,14 +78,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "빗썸 등 주요 가상자산사업자들에 대한 해킹사고에 대해 긴밀하고 신속하게 대응하고 있습니다. -「가상자산업권 등 침해사고 관련 긴급점검 회의 개최」. 금일 등록된 게시글",
+      "title": "빗썸 등 주요 가상자산사업자들에 대한 해킹사고에 대해 긴밀하고 신속하게 대응하고 있습니다. -「가상자산업권 등 침해사고 관련 긴급점검 회의 개최」",
       "url": "https://www.fsc.go.kr/no010101/88010?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-28T00:00:00+09:00",
       "displayDate": "2026-10-27",
       "dept": "금융안전과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "811617df073a054b788b9e6104c8d5d8ae25cb42093a15202b45bf2619a6cd93"
+      "hash": "35cb72c8c75d9400015c90ee31ba11297faf8a79418bdd2fd3ed3d0d84e8e975"
     },
     {
       "id": "FSC-45a4634b5f6e5716",
@@ -93,14 +93,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "기후대응위, 민관 협력으로 철강산업 저탄소 전환 해법 모색 -「산업부문 저탄소 전환정책 포럼(제2차)」개최, 철강산업 현장의 전환과제와 이를 뒷받침할 투자·금융 연계방안 논의. 금일 등록된 게시글",
+      "title": "기후대응위, 민관 협력으로 철강산업 저탄소 전환 해법 모색 -「산업부문 저탄소 전환정책 포럼(제2차)」개최, 철강산업 현장의 전환과제와 이를 뒷받침할 투자·금융 연계방안 논의",
       "url": "https://www.fsc.go.kr/no010101/88008?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-28T00:00:00+09:00",
       "displayDate": "2026-10-27",
       "dept": "산업금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "5e862ebc366d8b6487ab9c36d0873b4c27362100e68faa69ac5c15db7c71545d"
+      "hash": "442bb0c961778c9a29e6481a80c0d8be54d923d646e41bf14c9fbaa568160b08"
     },
     {
       "id": "FSC-a1f8fc73a856bba5",
@@ -108,14 +108,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "포용금융이 금융권에 뿌리내리도록 평가체계를 도입하고, 공공부문이 앞장서서 부실채권 관리체계를 개편하겠습니다. - 이억원 금융위원장, 제7차 포용적 금융 대전환 회의 주재. 금일 등록된 게시글",
+      "title": "포용금융이 금융권에 뿌리내리도록 평가체계를 도입하고, 공공부문이 앞장서서 부실채권 관리체계를 개편하겠습니다. - 이억원 금융위원장, 제7차 포용적 금융 대전환 회의 주재",
       "url": "https://www.fsc.go.kr/no010101/88006?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-28T00:00:00+09:00",
       "displayDate": "2026-10-27",
       "dept": "서민금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "6d3c08de3400a1a05ed5a0ff0dd9ada0335b51c8c81f99ecdcd364aa5411068d"
+      "hash": "766c14b0b0c685af762bf67aa71c5231cc1c55837eb37d79800dff9c50d4bb79"
     },
     {
       "id": "FSC-ad76a6e4f0d8632d",
@@ -123,14 +123,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "제11회 ‘금융의 날’ 기념식 개최. 금일 등록된 게시글",
+      "title": "제11회 ‘금융의 날’ 기념식 개최",
       "url": "https://www.fsc.go.kr/no010101/88005?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-28T00:00:00+09:00",
       "displayDate": "2026-10-27",
       "dept": "금융시장분석과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "e786d911584c1068d68f5cf36642fb1296c9c42a85d1f878251b2f9325590529"
+      "hash": "68ed4c3c331c86c6248b819a80bb301bf210f44a63dd21492ee9b1d2c1ffcab4"
     },
     {
       "id": "FSS-513b6fc9fd6d29b0",
@@ -143,7 +143,7 @@
       "publishedAt": "2026-10-28T00:00:00+09:00",
       "displayDate": "2026-10-27",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0999c47e9c12795e316727e2c224e187c62eb98f478b91e14c3806f05a56067c"
     },
@@ -158,7 +158,7 @@
       "publishedAt": "2026-10-28T00:00:00+09:00",
       "displayDate": "2026-10-27",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "feb96f0abfa08720422677f2d0cd0c3f0bb5c4fa37d7eaa9ea5fd9b05caf3e50"
     },
@@ -173,7 +173,7 @@
       "publishedAt": "2026-10-28T00:00:00+09:00",
       "displayDate": "2026-10-27",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "af6d2952193b99e8450bd899cb87557689c77e57ab554315644eb60a6f851d8e"
     },
@@ -188,7 +188,7 @@
       "publishedAt": "2026-10-28T00:00:00+09:00",
       "displayDate": "2026-10-27",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c39f6aaa5e8ee943a4cfcb6e89a676bff8d241a22155749adc38f9d67ec4cc59"
     },
@@ -203,7 +203,7 @@
       "publishedAt": "2026-10-28T00:00:00+09:00",
       "displayDate": "2026-10-27",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "7758223484b56d7bba53303e0881fbb17e9c299edb73d9b2d5e23e26fcf6b064"
     },

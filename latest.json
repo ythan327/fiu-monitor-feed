@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T06:51:28+09:00",
+  "generatedAt": "2026-10-29T10:37:11+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-29T06:51:28+09:00",
+        "lastSuccessAt": "2026-10-29T10:37:11+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-29T06:51:28+09:00",
+        "lastSuccessAt": "2026-10-29T10:37:11+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-29T06:51:28+09:00",
+        "lastSuccessAt": "2026-10-29T10:37:11+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-29T06:51:28+09:00",
+        "lastSuccessAt": "2026-10-29T10:37:11+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-29T06:51:28+09:00",
+        "lastSuccessAt": "2026-10-29T10:37:11+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
+    "newSinceLastFeed": 2,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSS-24eb9b4a0f5d4dcc",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "보험사기 연루 보험업종사자에 대한 등록취소, 업무정지 등 제재",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=247619&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-29T00:00:00+09:00",
+      "displayDate": "2026-10-28",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "683171369a219ff6b1aad1d3b75e47538939171ae2c43d157dadc29aa1d7ffbc"
+    },
+    {
+      "id": "FSS-5f1566582c2ee33b",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "퇴직연금 기능강화를 위한 노사정 합의로 노동자의 든든한 노후소득 보장체계 구축",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=247600&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-10-29T00:00:00+09:00",
+      "displayDate": "2026-10-28",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "38ca6623e52038b170768e0fa7fa95804980e825de99079ccccc9de1473b9c7a"
+    },
     {
       "id": "FSS-8b02f5a5662e0c6d",
       "source": "FSS",
@@ -53,7 +83,7 @@
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "5119c68aebc6ecaa62072e48f018e224519e229696abe39fc2570ae8c698412c"
     },
@@ -281,36 +311,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "b75afc1ec21890ba3eac8bb66b169b72448a70df883c35633d0c92bdf2eb6b6a"
-    },
-    {
-      "id": "FSS-1567ba2edfbdf161",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "일본계 자본의 JYP 주식 공개매수 보도 관련 투자자 유의사항",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=245702&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-27T00:00:00+09:00",
-      "displayDate": "2026-10-26",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "5ff5f9e1386b5542c42c063c12823cb1cb7c59695539db2a65fe8935d46b797e"
-    },
-    {
-      "id": "FSS-002e6dd8e650329e",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "투자한도 100%는 상품의 원리금 보장성 표시가 아닙니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=245254&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-27T00:00:00+09:00",
-      "displayDate": "2026-10-26",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "fdac03dff14b4836b51b053228e7530df5d6d25e095942bb688a05ae2387f50c"
     },
     {
       "id": "FSC-29cf961312191e59",

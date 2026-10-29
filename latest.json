@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T17:08:55+09:00",
+  "generatedAt": "2026-10-30T00:26:36+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-29T17:08:55+09:00",
+        "lastSuccessAt": "2026-10-30T00:26:36+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-29T17:08:55+09:00",
+        "lastSuccessAt": "2026-10-30T00:26:36+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-29T17:08:55+09:00",
+        "lastSuccessAt": "2026-10-30T00:26:36+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-29T17:08:55+09:00",
+        "lastSuccessAt": "2026-10-30T00:26:36+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-29T17:08:55+09:00",
+        "lastSuccessAt": "2026-10-30T00:26:36+09:00",
         "itemCount": 3
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 7,
+    "newSinceLastFeed": 0,
     "totalVisible": 23
   },
   "items": [
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "제2차 국민참여성장펀드의 운용사들의 국민투자금 운용전략을 청취하고 향후 관리방안을 논의하였습니다.. 금일 등록된 게시글",
+      "title": "제2차 국민참여성장펀드의 운용사들의 국민투자금 운용전략을 청취하고 향후 관리방안을 논의하였습니다.",
       "url": "https://www.fsc.go.kr/no010101/88025?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "cc3afa0364a5d4966155a741bd260deae18b64e80afd87276a19e092a561f36e"
+      "hash": "e77397dcdb668c483e1a9ee2c6dcae5458d64f1d0fda837477d7c60af70aaf0b"
     },
     {
       "id": "FSC-91e2140a45974e7d",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "금융위원장, ‘금융분야 재난대응 안전한국훈련’ 주관. 금일 등록된 게시글",
+      "title": "금융위원장, ‘금융분야 재난대응 안전한국훈련’ 주관",
       "url": "https://www.fsc.go.kr/no010101/88023?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "감사담당관",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "1e10149b6509f6441ae8a163490953f21391bdcc873fc65efc9d668a85e90d10"
+      "hash": "982c89098798436b2813d5d0a478526f8885380fe08618297ee23ac72c693e8b"
     },
     {
       "id": "FSC-dac62aa602ad7ae1",
@@ -78,14 +78,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "보험사기 연루 보험업종사자에 대한 등록취소·업무정지 등 제재. 금일 등록된 게시글",
+      "title": "보험사기 연루 보험업종사자에 대한 등록취소·업무정지 등 제재",
       "url": "https://www.fsc.go.kr/no010101/88021?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "보험과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "82fe4bf5c7d9881f02863542b77caf973ac85fcc002c7f89f7036ec699513541"
+      "hash": "c0c69d03cb741a09d4f541832fb8ec5dfa2d2bce6f5628bf442ba3e7f09afd45"
     },
     {
       "id": "FSC-0becb0200aa912b3",
@@ -93,14 +93,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "“금융회사의 부실 확산에 신속·선제적으로 대응하여 금융시장의 안정 및 소비자 보호를 위한 ｢금융회사 신속정리제도｣ 도입을 추진합니다.”. 금일 등록된 게시글",
+      "title": "“금융회사의 부실 확산에 신속·선제적으로 대응하여 금융시장의 안정 및 소비자 보호를 위한 ｢금융회사 신속정리제도｣ 도입을 추진합니다.”",
       "url": "https://www.fsc.go.kr/no010101/88020?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "구조개선정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "0cb5e6958dbf3548eca554e3d83ec4f04cdfb7dde305f61040071acc749446d1"
+      "hash": "ebc230996109a6129d906edb206dab27765df49056ff548c3b93bcb08caafe20"
     },
     {
       "id": "FSC-348d775519d21583",
@@ -108,14 +108,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "☎1375(일상치료)로, 빚의 고통은 덜고 희망의 빛은 더하겠습니다. - 금융위원회·신용회복위원회, 채무상담 대표번호 ☎1375 개통식 개최 -. 금일 등록된 게시글",
+      "title": "☎1375(일상치료)로, 빚의 고통은 덜고 희망의 빛은 더하겠습니다. - 금융위원회·신용회복위원회, 채무상담 대표번호 ☎1375 개통식 개최 -",
       "url": "https://www.fsc.go.kr/no010101/88019?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "복합지원팀,서민금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "c5ccd99f2aa44f9ccd0a08845c96d518f0650edfca5a6abfad6c18663299672e"
+      "hash": "eb9530a4f2f506c9868475836663f0c15068f10ee8fdecf23fe4b16ba89e6554"
     },
     {
       "id": "FSS-5456262f31230de0",
@@ -128,7 +128,7 @@
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "de6b8ed11baee329cb8c5e8a884ccc51c4c34ae1835ff02695e92645b975737a"
     },
@@ -143,7 +143,7 @@
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "5fdb38a6b8dc6cbcfc20071b01e875e4d8c9c83a96f502a7dde1a52d45651047"
     },

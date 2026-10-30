@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T22:21:46+09:00",
+  "generatedAt": "2026-10-31T03:45:16+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-30T22:21:46+09:00",
+        "lastSuccessAt": "2026-10-31T03:45:16+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-30T22:21:46+09:00",
+        "lastSuccessAt": "2026-10-31T03:45:16+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-30T22:21:46+09:00",
+        "lastSuccessAt": "2026-10-31T03:45:16+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-30T22:21:46+09:00",
+        "lastSuccessAt": "2026-10-31T03:45:16+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-30T22:21:46+09:00",
+        "lastSuccessAt": "2026-10-31T03:45:16+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 3,
+    "newSinceLastFeed": 0,
     "totalVisible": 22
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-10-30T17:52:43+09:00",
       "displayDate": "2026-10-30",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "가상자산사업자 신고에 관한 정보공개현황(2026.10.30. 기준).xlsx",
@@ -74,7 +74,7 @@
       "publishedAt": "2026-10-30T16:27:55+09:00",
       "displayDate": "2026-10-30",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "261030 (보도참고자료) 불법 가상자산 취급업자에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청_FN.hwpx",
@@ -95,14 +95,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "불법 가상자산 취급업자(특금법상 미신고 가상자산사업자)에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청. 금일 등록된 게시글",
+      "title": "불법 가상자산 취급업자(특금법상 미신고 가상자산사업자)에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청",
       "url": "https://www.fsc.go.kr/no010101/88039?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-30T00:00:00+09:00",
       "displayDate": "2026-10-29",
       "dept": "가상자산검사과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "acc30889864f75b57a11fb34362979894cb0e5ee18f69fb9977651d182112082"
+      "hash": "e91f7c243c268e8fa1f1cf621bd232e14af748541530111e234ef01fee0eca27"
     },
     {
       "id": "FSC-18c8f8efa95cf75f",
@@ -110,14 +110,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "제9회 ‘회계의 날’ 기념식 및 회계업계 간담회 개최. 금일 등록된 게시글",
+      "title": "제9회 ‘회계의 날’ 기념식 및 회계업계 간담회 개최",
       "url": "https://www.fsc.go.kr/no010101/88031?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-30T00:00:00+09:00",
       "displayDate": "2026-10-29",
       "dept": "회계제도팀",
       "isNew": false,
       "attachments": [],
-      "hash": "2655c01419586dc2f117d14707cbca1069fe26b21b7b9cf9b82583071f151439"
+      "hash": "d9609f06e03e22b7be582eee182214818d23864988b6110c822635d9a7f98752"
     },
     {
       "id": "FSC-5c5cab20ce52cca3",
@@ -125,14 +125,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "한국의 풀뿌리 금융, 미소금융이 다시 한번 도약합니다. - 미소금융 재원 기부 협약식 개최. 금일 등록된 게시글",
+      "title": "한국의 풀뿌리 금융, 미소금융이 다시 한번 도약합니다. - 미소금융 재원 기부 협약식 개최",
       "url": "https://www.fsc.go.kr/no010101/88029?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-30T00:00:00+09:00",
       "displayDate": "2026-10-29",
       "dept": "서민금융과",
       "isNew": false,
       "attachments": [],
-      "hash": "d22bd174090434e7af33c2a8fe36a1a8e6c1d679e61aaf3b6d438f01baa06bd4"
+      "hash": "96d759cf0574a3b62a48e05a8809eb661c8707c17dca37a9a7e352933bdfb60b"
     },
     {
       "id": "FSC-a14dc4bab1bd81ae",
@@ -140,14 +140,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "국민성장펀드가 국내 최대 태양광 발전소 건설과 반도체 밸류체인 경쟁력 강화를 지원합니다.. 금일 등록된 게시글",
+      "title": "국민성장펀드가 국내 최대 태양광 발전소 건설과 반도체 밸류체인 경쟁력 강화를 지원합니다.",
       "url": "https://www.fsc.go.kr/no010101/88028?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-30T00:00:00+09:00",
       "displayDate": "2026-10-29",
       "dept": "국민성장펀드총괄과",
       "isNew": false,
       "attachments": [],
-      "hash": "675240d3a33c9b244ea26b259f6c52e0fdf992c4f25113cbc6f9a784924bf797"
+      "hash": "f91c137f50945665cf4af306a90f27d17982cfdc2a110b64466d38f3efa1119e"
     },
     {
       "id": "FSC-1c1452c21871dd03",
@@ -155,14 +155,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "퇴직연금 기능강화를 위한 노사정 합의로 노동자의 든든한 노후소득 보장체계 구축. 금일 등록된 게시글",
+      "title": "퇴직연금 기능강화를 위한 노사정 합의로 노동자의 든든한 노후소득 보장체계 구축",
       "url": "https://www.fsc.go.kr/no010101/88027?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-10-30T00:00:00+09:00",
       "displayDate": "2026-10-29",
       "dept": "자산운용과",
       "isNew": false,
       "attachments": [],
-      "hash": "cf85e3539aca3d41f8836adf4314c984007edb405267320c9e7e19fa2bcefaef"
+      "hash": "a8e9e525b1111c914be80c50fc32eb31d1c603aa73de80168e5aecf347f14b3c"
     },
     {
       "id": "FSS-6151dbc7b0c478c8",

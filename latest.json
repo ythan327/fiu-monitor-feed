@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T09:11:59+09:00",
+  "generatedAt": "2026-10-30T15:15:18+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,100 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-10-30T09:11:59+09:00",
+        "lastSuccessAt": "2026-10-30T15:15:18+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-10-30T09:11:59+09:00",
+        "lastSuccessAt": "2026-10-30T15:15:18+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-10-30T09:11:59+09:00",
+        "lastSuccessAt": "2026-10-30T15:15:18+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-10-30T09:11:59+09:00",
+        "lastSuccessAt": "2026-10-30T15:15:18+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-10-30T09:11:59+09:00",
-        "itemCount": 3
+        "lastSuccessAt": "2026-10-30T15:15:18+09:00",
+        "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
-    "totalVisible": 23
+    "newSinceLastFeed": 4,
+    "totalVisible": 20
   },
   "items": [
+    {
+      "id": "FSC-18c8f8efa95cf75f",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "제9회 ‘회계의 날’ 기념식 및 회계업계 간담회 개최. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88031?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-30T00:00:00+09:00",
+      "displayDate": "2026-10-29",
+      "dept": "회계제도팀",
+      "isNew": true,
+      "attachments": [],
+      "hash": "2655c01419586dc2f117d14707cbca1069fe26b21b7b9cf9b82583071f151439"
+    },
+    {
+      "id": "FSC-5c5cab20ce52cca3",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "한국의 풀뿌리 금융, 미소금융이 다시 한번 도약합니다. - 미소금융 재원 기부 협약식 개최. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88029?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-30T00:00:00+09:00",
+      "displayDate": "2026-10-29",
+      "dept": "서민금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "d22bd174090434e7af33c2a8fe36a1a8e6c1d679e61aaf3b6d438f01baa06bd4"
+    },
+    {
+      "id": "FSC-a14dc4bab1bd81ae",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "국민성장펀드가 국내 최대 태양광 발전소 건설과 반도체 밸류체인 경쟁력 강화를 지원합니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88028?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-30T00:00:00+09:00",
+      "displayDate": "2026-10-29",
+      "dept": "국민성장펀드총괄과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "675240d3a33c9b244ea26b259f6c52e0fdf992c4f25113cbc6f9a784924bf797"
+    },
+    {
+      "id": "FSC-1c1452c21871dd03",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "퇴직연금 기능강화를 위한 노사정 합의로 노동자의 든든한 노후소득 보장체계 구축. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88027?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-10-30T00:00:00+09:00",
+      "displayDate": "2026-10-29",
+      "dept": "자산운용과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "cf85e3539aca3d41f8836adf4314c984007edb405267320c9e7e19fa2bcefaef"
+    },
     {
       "id": "FSS-6151dbc7b0c478c8",
       "source": "FSS",
@@ -53,7 +113,7 @@
       "publishedAt": "2026-10-30T00:00:00+09:00",
       "displayDate": "2026-10-29",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "71ed716e3b30980679e3012efffd7ac0e558061103e26cda778f87496ae2cdf0"
     },
@@ -223,66 +283,6 @@
       "hash": "b50b7fc1b3b8ccf4959d747459ce910c28f073b9ef3cc6c04903c5474ab1ac63"
     },
     {
-      "id": "FSC-bf2d28bfa34d3ede",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "미공개중요정보를 이용한 내부자등에 대한 중대범죄수사청 고발·통보 등 조치(2건) - 제19차 증권선물위원회(10.28.) 의결",
-      "url": "https://www.fsc.go.kr/no010101/88012?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-28T00:00:00+09:00",
-      "displayDate": "2026-10-27",
-      "dept": "자본시장조사총괄과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "6e60f3c61e7a9e7b891025b61eb74d2f1f0179a7d91dc8d713efed0794bc7f0a"
-    },
-    {
-      "id": "FSC-9e375c01810a08bb",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "빗썸 등 주요 가상자산사업자들에 대한 해킹사고에 대해 긴밀하고 신속하게 대응하고 있습니다. -「가상자산업권 등 침해사고 관련 긴급점검 회의 개최」",
-      "url": "https://www.fsc.go.kr/no010101/88010?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-28T00:00:00+09:00",
-      "displayDate": "2026-10-27",
-      "dept": "금융안전과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "35cb72c8c75d9400015c90ee31ba11297faf8a79418bdd2fd3ed3d0d84e8e975"
-    },
-    {
-      "id": "FSC-45a4634b5f6e5716",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "기후대응위, 민관 협력으로 철강산업 저탄소 전환 해법 모색 -「산업부문 저탄소 전환정책 포럼(제2차)」개최, 철강산업 현장의 전환과제와 이를 뒷받침할 투자·금융 연계방안 논의",
-      "url": "https://www.fsc.go.kr/no010101/88008?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-28T00:00:00+09:00",
-      "displayDate": "2026-10-27",
-      "dept": "산업금융과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "442bb0c961778c9a29e6481a80c0d8be54d923d646e41bf14c9fbaa568160b08"
-    },
-    {
-      "id": "FSC-a1f8fc73a856bba5",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "포용금융이 금융권에 뿌리내리도록 평가체계를 도입하고, 공공부문이 앞장서서 부실채권 관리체계를 개편하겠습니다. - 이억원 금융위원장, 제7차 포용적 금융 대전환 회의 주재",
-      "url": "https://www.fsc.go.kr/no010101/88006?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-28T00:00:00+09:00",
-      "displayDate": "2026-10-27",
-      "dept": "서민금융과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "766c14b0b0c685af762bf67aa71c5231cc1c55837eb37d79800dff9c50d4bb79"
-    },
-    {
       "id": "FSS-513b6fc9fd6d29b0",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -341,69 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "c39f6aaa5e8ee943a4cfcb6e89a676bff8d241a22155749adc38f9d67ec4cc59"
-    },
-    {
-      "id": "FIU-SANCTIONS-139",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "SANCTIONS",
-      "categoryLabel": "제재공시",
-      "title": "화우환전소 제재내용 공개안",
-      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=139&seCd=0022",
-      "publishedAt": "2026-10-23T11:19:02+09:00",
-      "displayDate": "2026-10-23",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "화우환전소 제재내용 공개안.pdf",
-          "type": "application/pdf",
-          "size": 69406
-        }
-      ],
-      "hash": "f5ac87fc82ba88a1a3bec90f49a95de4d9ec6d98c16c4724e0dddfe736575852"
-    },
-    {
-      "id": "FIU-SANCTIONS-138",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "SANCTIONS",
-      "categoryLabel": "제재공시",
-      "title": "칠성환전소 제재내용 공개안",
-      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=138&seCd=0022",
-      "publishedAt": "2026-10-23T11:18:50+09:00",
-      "displayDate": "2026-10-23",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "칠성환전소 제재내용 공개안.pdf",
-          "type": "application/pdf",
-          "size": 68580
-        }
-      ],
-      "hash": "94bb0a9c809f44b6b9d46c6254639f5d4d605332ac0fe238cf97aa8eeb8b3831"
-    },
-    {
-      "id": "FIU-SANCTIONS-137",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "SANCTIONS",
-      "categoryLabel": "제재공시",
-      "title": "가리봉환전소 제재내용 공개안",
-      "url": "https://www.kofiu.go.kr/kor/notification/sanctions_view.do?ntcnYardOrdrNo=137&seCd=0022",
-      "publishedAt": "2026-10-23T11:18:38+09:00",
-      "displayDate": "2026-10-23",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "가리봉환전소 제재내용 공개안.pdf",
-          "type": "application/pdf",
-          "size": 68208
-        }
-      ],
-      "hash": "61020fa3c4accbbfadf73b8a8f6496e80fa6fc399b0410cf5400cd79c58ce94b"
     }
   ]
 }

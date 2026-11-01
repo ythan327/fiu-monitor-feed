@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T07:46:11+09:00",
+  "generatedAt": "2026-11-01T10:55:56+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-01T07:46:11+09:00",
+        "lastSuccessAt": "2026-11-01T10:55:56+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-01T07:46:11+09:00",
+        "lastSuccessAt": "2026-11-01T10:55:56+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-01T07:46:11+09:00",
+        "lastSuccessAt": "2026-11-01T10:55:56+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-01T07:46:11+09:00",
+        "lastSuccessAt": "2026-11-01T10:55:56+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-01T07:46:11+09:00",
+        "lastSuccessAt": "2026-11-01T10:55:56+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 10,
+    "newSinceLastFeed": 0,
     "totalVisible": 22
   },
   "items": [
@@ -100,7 +100,7 @@
       "publishedAt": "2026-10-30T00:00:00+09:00",
       "displayDate": "2026-10-29",
       "dept": "가상자산검사과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e91f7c243c268e8fa1f1cf621bd232e14af748541530111e234ef01fee0eca27"
     },
@@ -115,7 +115,7 @@
       "publishedAt": "2026-10-30T00:00:00+09:00",
       "displayDate": "2026-10-29",
       "dept": "회계제도팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "d9609f06e03e22b7be582eee182214818d23864988b6110c822635d9a7f98752"
     },
@@ -130,7 +130,7 @@
       "publishedAt": "2026-10-30T00:00:00+09:00",
       "displayDate": "2026-10-29",
       "dept": "서민금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "96d759cf0574a3b62a48e05a8809eb661c8707c17dca37a9a7e352933bdfb60b"
     },
@@ -145,7 +145,7 @@
       "publishedAt": "2026-10-30T00:00:00+09:00",
       "displayDate": "2026-10-29",
       "dept": "국민성장펀드총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "f91c137f50945665cf4af306a90f27d17982cfdc2a110b64466d38f3efa1119e"
     },
@@ -160,7 +160,7 @@
       "publishedAt": "2026-10-30T00:00:00+09:00",
       "displayDate": "2026-10-29",
       "dept": "자산운용과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "a8e9e525b1111c914be80c50fc32eb31d1c603aa73de80168e5aecf347f14b3c"
     },
@@ -190,7 +190,7 @@
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "국민지역참여지원과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e77397dcdb668c483e1a9ee2c6dcae5458d64f1d0fda837477d7c60af70aaf0b"
     },
@@ -205,7 +205,7 @@
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "감사담당관",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "982c89098798436b2813d5d0a478526f8885380fe08618297ee23ac72c693e8b"
     },
@@ -220,7 +220,7 @@
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "보험과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c0c69d03cb741a09d4f541832fb8ec5dfa2d2bce6f5628bf442ba3e7f09afd45"
     },
@@ -235,7 +235,7 @@
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "구조개선정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "ebc230996109a6129d906edb206dab27765df49056ff548c3b93bcb08caafe20"
     },
@@ -250,7 +250,7 @@
       "publishedAt": "2026-10-29T00:00:00+09:00",
       "displayDate": "2026-10-28",
       "dept": "복합지원팀,서민금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "eb9530a4f2f506c9868475836663f0c15068f10ee8fdecf23fe4b16ba89e6554"
     },

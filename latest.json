@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T10:55:56+09:00",
+  "generatedAt": "2026-11-01T17:52:01+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-01T10:55:56+09:00",
+        "lastSuccessAt": "2026-11-01T17:52:01+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-01T10:55:56+09:00",
+        "lastSuccessAt": "2026-11-01T17:52:01+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-01T10:55:56+09:00",
+        "lastSuccessAt": "2026-11-01T17:52:01+09:00",
         "itemCount": 1
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-01T10:55:56+09:00",
+        "lastSuccessAt": "2026-11-01T17:52:01+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-01T10:55:56+09:00",
+        "lastSuccessAt": "2026-11-01T17:52:01+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSS-93dc2423c0ec5346",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "자동 가입되는 시민안전보험, 보험금 청구까지 꼭 챙기세요",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249656&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-01T00:00:00+09:00",
+      "displayDate": "2026-10-31",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "274d1f7165aac375423b0bd47274f9d9df89cfeb3825fef7a82f0f41089e2ec3"
+    },
     {
       "id": "FIU-NOTICE-194",
       "source": "FIU",
@@ -373,21 +388,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "af6d2952193b99e8450bd899cb87557689c77e57ab554315644eb60a6f851d8e"
-    },
-    {
-      "id": "FSS-850621a445363d7e",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "포용금융이 금융권에 뿌리내리도록 평가체계를 도입하고, 공공부문이 앞장서서 부실채권 관리체계를 개편하겠습니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=246792&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-28T00:00:00+09:00",
-      "displayDate": "2026-10-27",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "c39f6aaa5e8ee943a4cfcb6e89a676bff8d241a22155749adc38f9d67ec4cc59"
     }
   ]
 }

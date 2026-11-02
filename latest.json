@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T08:47:12+09:00",
+  "generatedAt": "2026-11-02T13:51:25+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,122 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-02T08:47:12+09:00",
+        "lastSuccessAt": "2026-11-02T13:51:25+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-02T08:47:12+09:00",
+        "lastSuccessAt": "2026-11-02T13:51:25+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-02T08:47:12+09:00",
-        "itemCount": 1
+        "lastSuccessAt": "2026-11-02T13:51:25+09:00",
+        "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-02T08:47:12+09:00",
+        "lastSuccessAt": "2026-11-02T13:51:25+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-02T08:47:12+09:00",
+        "lastSuccessAt": "2026-11-02T13:51:25+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
-    "totalVisible": 22
+    "newSinceLastFeed": 4,
+    "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FIU-REPORT-424",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "[보도참고] 불법 가상자산 취급업자에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청",
+      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=424&seCd=0001",
+      "publishedAt": "2026-11-02T09:41:38+09:00",
+      "displayDate": "2026-11-02",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "261030 (보도참고자료) 불법 가상자산 취급업자에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청_FN.hwpx",
+          "type": "application/octet-stream",
+          "size": 263142
+        },
+        {
+          "name": "261030 (보도참고자료) 불법 가상자산 취급업자에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청_FN.pdf",
+          "type": "application/pdf",
+          "size": 277659
+        }
+      ],
+      "hash": "c799c03b8abd0db0212ba3c28c3ffd0497455967588c84979100761c71e8f41e"
+    },
+    {
+      "id": "FIU-REPORT-423",
+      "source": "FIU",
+      "sourceLabel": "FIU",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "국제자금세탁방지기구(FATF) 참석 결과 보도",
+      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=423&seCd=0001",
+      "publishedAt": "2026-11-02T09:35:59+09:00",
+      "displayDate": "2026-11-02",
+      "dept": "",
+      "isNew": true,
+      "attachments": [
+        {
+          "name": "261102(보도자료) 국제자금세탁방지기구(FATF) 참석 결과 보도.pdf",
+          "type": "application/pdf",
+          "size": 316707
+        },
+        {
+          "name": "261102(보도자료) 국제자금세탁방지기구(FATF) 참석 결과 보도.hwpx",
+          "type": "application/octet-stream",
+          "size": 282653
+        }
+      ],
+      "hash": "04d6b48b1ef3021a48e13cbb741a39a869911a9106560b700c6fceaf547149e6"
+    },
+    {
+      "id": "FSC-0da7b1a4e806ece1",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융정보분석원, 국제자금세탁방지기구(FATF) 총회 참석. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88048?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-02T00:00:00+09:00",
+      "displayDate": "2026-11-01",
+      "dept": "금융정보분석원 기획행정실",
+      "isNew": true,
+      "attachments": [],
+      "hash": "6e879ad1f0beb8a513c3c056ec72cf48f8fdc5b34d1cbfb0a1fca74274a35fa8"
+    },
+    {
+      "id": "FSS-a99d13ae60de1255",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "사회초년생 청년 운전자가 자동차보험 할인혜택을 쉽게 받을 수 있도록 가입 절차를 개선합니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249670&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-02T00:00:00+09:00",
+      "displayDate": "2026-11-01",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "70d53d8d2e5c6629f923c725f166ea1100d351d1c6b75a8354689552c8225010"
+    },
     {
       "id": "FSS-93dc2423c0ec5346",
       "source": "FSS",
@@ -77,32 +159,6 @@
         }
       ],
       "hash": "0d893cd1c9adedf4f36f9b7dc69cfbe66d23bc13827a4887fcb31ba579341e5f"
-    },
-    {
-      "id": "FIU-REPORT-422",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "261030 (보도참고자료) 불법 가상자산 취급업자에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=422&seCd=0001",
-      "publishedAt": "2026-10-30T16:27:55+09:00",
-      "displayDate": "2026-10-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "261030 (보도참고자료) 불법 가상자산 취급업자에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청_FN.hwpx",
-          "type": "application/haansofthwpx",
-          "size": 263142
-        },
-        {
-          "name": "261030 (보도참고자료) 불법 가상자산 취급업자에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청_FN.pdf",
-          "type": "application/pdf",
-          "size": 277659
-        }
-      ],
-      "hash": "d0769df958f8d15142b6e099d362b58380978d839630a2af7edf3f16c4a4218c"
     },
     {
       "id": "FSC-981921749dc83f82",
@@ -255,21 +311,6 @@
       "hash": "ebc230996109a6129d906edb206dab27765df49056ff548c3b93bcb08caafe20"
     },
     {
-      "id": "FSC-348d775519d21583",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "☎1375(일상치료)로, 빚의 고통은 덜고 희망의 빛은 더하겠습니다. - 금융위원회·신용회복위원회, 채무상담 대표번호 ☎1375 개통식 개최 -",
-      "url": "https://www.fsc.go.kr/no010101/88019?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-29T00:00:00+09:00",
-      "displayDate": "2026-10-28",
-      "dept": "복합지원팀,서민금융과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "eb9530a4f2f506c9868475836663f0c15068f10ee8fdecf23fe4b16ba89e6554"
-    },
-    {
       "id": "FSS-5456262f31230de0",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -373,21 +414,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "feb96f0abfa08720422677f2d0cd0c3f0bb5c4fa37d7eaa9ea5fd9b05caf3e50"
-    },
-    {
-      "id": "FSS-7e50e42844811bce",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "빗썸 등 주요 가상자산사업자들에 대한 해킹사고에 대해 긴밀하고 신속하게 대응하고 있습니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=246843&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-28T00:00:00+09:00",
-      "displayDate": "2026-10-27",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "af6d2952193b99e8450bd899cb87557689c77e57ab554315644eb60a6f851d8e"
     }
   ]
 }

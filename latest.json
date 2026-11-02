@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-02T13:51:25+09:00",
+  "generatedAt": "2026-11-02T22:12:05+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-02T13:51:25+09:00",
+        "lastSuccessAt": "2026-11-02T22:12:05+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-02T13:51:25+09:00",
+        "lastSuccessAt": "2026-11-02T22:12:05+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-02T13:51:25+09:00",
+        "lastSuccessAt": "2026-11-02T22:12:05+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-02T13:51:25+09:00",
+        "lastSuccessAt": "2026-11-02T22:12:05+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-02T13:51:25+09:00",
+        "lastSuccessAt": "2026-11-02T22:12:05+09:00",
         "itemCount": 0
       }
     }
@@ -53,7 +53,7 @@
       "publishedAt": "2026-11-02T09:41:38+09:00",
       "displayDate": "2026-11-02",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "261030 (보도참고자료) 불법 가상자산 취급업자에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청_FN.hwpx",
@@ -79,7 +79,7 @@
       "publishedAt": "2026-11-02T09:35:59+09:00",
       "displayDate": "2026-11-02",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [
         {
           "name": "261102(보도자료) 국제자금세탁방지기구(FATF) 참석 결과 보도.pdf",
@@ -95,6 +95,36 @@
       "hash": "04d6b48b1ef3021a48e13cbb741a39a869911a9106560b700c6fceaf547149e6"
     },
     {
+      "id": "FSC-726fd958529d8455",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "글로벌 해킹 위협에 대비한 국내 가상자산사업자의 사고대응력 제고를 위해 긴밀하고 신속하게 대응해 나가겠습니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88054?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-02T00:00:00+09:00",
+      "displayDate": "2026-11-01",
+      "dept": "금융안전과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "7360ebf3f3159d0f7b7da999f447192db346f364071dcda8a384a1575390e25e"
+    },
+    {
+      "id": "FSC-d5e840647561aec5",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "생산적 금융의 온기를 지방과 중소기업까지 이어갑니다. - 이억원 금융위원장, 제6차 생산적 금융 대전환 회의 개최. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88052?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-02T00:00:00+09:00",
+      "displayDate": "2026-11-01",
+      "dept": "은행과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "82c001e16d0822a5bd9937c5d4eaddd99bea2b1bb675ca07f0a040f6c14bb59f"
+    },
+    {
       "id": "FSC-0da7b1a4e806ece1",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -105,9 +135,39 @@
       "publishedAt": "2026-11-02T00:00:00+09:00",
       "displayDate": "2026-11-01",
       "dept": "금융정보분석원 기획행정실",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "6e879ad1f0beb8a513c3c056ec72cf48f8fdc5b34d1cbfb0a1fca74274a35fa8"
+    },
+    {
+      "id": "FSS-7ef97662b26e06ca",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "글로벌 해킹 위협에 대비한 국내 가상자산사업자의 사고대응력 제고를 위해 긴밀하고 신속하게 대응해 나가겠습니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249686&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-02T00:00:00+09:00",
+      "displayDate": "2026-11-01",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "7630e509ec7e7ba25cd8787ce61f33d79067f44ee5ff3f882ee06ecdaa774f90"
+    },
+    {
+      "id": "FSS-58b9842a4f22d7d3",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "생산적 금융의 온기를 지방과 중소기업까지 이어갑니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249682&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-02T00:00:00+09:00",
+      "displayDate": "2026-11-01",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "bba34e8138450bc7c9c4b034bdf17753443b28416801075c6f85ea461de114c1"
     },
     {
       "id": "FSS-a99d13ae60de1255",
@@ -120,7 +180,7 @@
       "publishedAt": "2026-11-02T00:00:00+09:00",
       "displayDate": "2026-11-01",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "70d53d8d2e5c6629f923c725f166ea1100d351d1c6b75a8354689552c8225010"
     },
@@ -281,36 +341,6 @@
       "hash": "982c89098798436b2813d5d0a478526f8885380fe08618297ee23ac72c693e8b"
     },
     {
-      "id": "FSC-dac62aa602ad7ae1",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "보험사기 연루 보험업종사자에 대한 등록취소·업무정지 등 제재",
-      "url": "https://www.fsc.go.kr/no010101/88021?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-29T00:00:00+09:00",
-      "displayDate": "2026-10-28",
-      "dept": "보험과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "c0c69d03cb741a09d4f541832fb8ec5dfa2d2bce6f5628bf442ba3e7f09afd45"
-    },
-    {
-      "id": "FSC-0becb0200aa912b3",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "“금융회사의 부실 확산에 신속·선제적으로 대응하여 금융시장의 안정 및 소비자 보호를 위한 ｢금융회사 신속정리제도｣ 도입을 추진합니다.”",
-      "url": "https://www.fsc.go.kr/no010101/88020?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-29T00:00:00+09:00",
-      "displayDate": "2026-10-28",
-      "dept": "구조개선정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ebc230996109a6129d906edb206dab27765df49056ff548c3b93bcb08caafe20"
-    },
-    {
       "id": "FSS-5456262f31230de0",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -384,36 +414,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "5119c68aebc6ecaa62072e48f018e224519e229696abe39fc2570ae8c698412c"
-    },
-    {
-      "id": "FSS-513b6fc9fd6d29b0",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "사업보고서 등에 대한 조사, 감리결과 조치",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=247035&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-28T00:00:00+09:00",
-      "displayDate": "2026-10-27",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "0999c47e9c12795e316727e2c224e187c62eb98f478b91e14c3806f05a56067c"
-    },
-    {
-      "id": "FSS-0b30525d85d537c6",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "미공개중요정보를 이용한 내부자등에 대한 중대범죄수사청 고발, 통보 등 조치(2건)",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=247026&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-10-28T00:00:00+09:00",
-      "displayDate": "2026-10-27",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "feb96f0abfa08720422677f2d0cd0c3f0bb5c4fa37d7eaa9ea5fd9b05caf3e50"
     }
   ]
 }

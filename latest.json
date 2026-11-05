@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T18:05:16+09:00",
+  "generatedAt": "2026-11-06T02:34:23+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-05T18:05:16+09:00",
+        "lastSuccessAt": "2026-11-06T02:34:23+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-05T18:05:16+09:00",
+        "lastSuccessAt": "2026-11-06T02:34:23+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-05T18:05:16+09:00",
+        "lastSuccessAt": "2026-11-06T02:34:23+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-05T18:05:16+09:00",
+        "lastSuccessAt": "2026-11-06T02:34:23+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-05T18:05:16+09:00",
+        "lastSuccessAt": "2026-11-06T02:34:23+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 2,
+    "newSinceLastFeed": 0,
     "totalVisible": 23
   },
   "items": [
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "기업지배구조보고서 공시를 통해 상장회사의 주주보호와 주주환원 노력을 확대해 나가겠습니다.. 금일 등록된 게시글",
+      "title": "기업지배구조보고서 공시를 통해 상장회사의 주주보호와 주주환원 노력을 확대해 나가겠습니다.",
       "url": "https://www.fsc.go.kr/no010101/88091?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-05T00:00:00+09:00",
       "displayDate": "2026-11-04",
       "dept": "공정시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "fca3c0fc29ade178803dd5ea0a7f3b1da171cfced26f18e89b50670004846877"
+      "hash": "0360707083752dbf0c039a83a337a4038760ca9d3e7af8fe89280c735023d078"
     },
     {
       "id": "FSC-844d2250316f138e",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "AI시대, 거세지는 침해위협에 맞서 全 금융권이 튼튼한 보안체계로 무장하도록 혁신적인 정책과제를 적극 추진하겠습니다.. 금일 등록된 게시글",
+      "title": "AI시대, 거세지는 침해위협에 맞서 全 금융권이 튼튼한 보안체계로 무장하도록 혁신적인 정책과제를 적극 추진하겠습니다.",
       "url": "https://www.fsc.go.kr/no010101/88086?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-05T00:00:00+09:00",
       "displayDate": "2026-11-04",
       "dept": "금융안전과",
       "isNew": false,
       "attachments": [],
-      "hash": "a9906ae07444592371576118fb6623bdebb93bcf894d9f2fb02074a6849ea5fb"
+      "hash": "1ad4fd6091b5eda1230ff05b408453c22e6b0f8f16c30ad5a55f2274b09e9c79"
     },
     {
       "id": "FSC-8d9310d2e1b43641",
@@ -78,14 +78,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "｢“취재정보로 매매해 ○○억 부당이득”···○○신문 조사 마무리｣ 보도 관련. 금일 등록된 게시글",
+      "title": "｢“취재정보로 매매해 ○○억 부당이득”···○○신문 조사 마무리｣ 보도 관련",
       "url": "https://www.fsc.go.kr/no010101/88085?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-05T00:00:00+09:00",
       "displayDate": "2026-11-04",
       "dept": "조사과",
       "isNew": false,
       "attachments": [],
-      "hash": "5381296ad03337c27f881d8e4fe91babe8cdad279bea6bc009af03a0964cc0a0"
+      "hash": "572152999fa4e396114326bccc798f9b1e929254701fca6073dd921e999dc72f"
     },
     {
       "id": "FSS-cbb4bdeae7dcbca6",
@@ -98,7 +98,7 @@
       "publishedAt": "2026-11-05T00:00:00+09:00",
       "displayDate": "2026-11-04",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c59afea33d6807112a0f1283bcc547255654c9d09b1ebd89e2372119af3896a9"
     },

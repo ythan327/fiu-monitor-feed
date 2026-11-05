@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T10:42:58+09:00",
+  "generatedAt": "2026-11-05T18:05:16+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-05T10:42:58+09:00",
+        "lastSuccessAt": "2026-11-05T18:05:16+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-05T10:42:58+09:00",
+        "lastSuccessAt": "2026-11-05T18:05:16+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-05T10:42:58+09:00",
+        "lastSuccessAt": "2026-11-05T18:05:16+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-05T10:42:58+09:00",
+        "lastSuccessAt": "2026-11-05T18:05:16+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-05T10:42:58+09:00",
+        "lastSuccessAt": "2026-11-05T18:05:16+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 3,
+    "newSinceLastFeed": 2,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-e41c0526e74ceacc",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "기업지배구조보고서 공시를 통해 상장회사의 주주보호와 주주환원 노력을 확대해 나가겠습니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88091?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-05T00:00:00+09:00",
+      "displayDate": "2026-11-04",
+      "dept": "공정시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "fca3c0fc29ade178803dd5ea0a7f3b1da171cfced26f18e89b50670004846877"
+    },
     {
       "id": "FSC-844d2250316f138e",
       "source": "FSC",
@@ -53,7 +68,7 @@
       "publishedAt": "2026-11-05T00:00:00+09:00",
       "displayDate": "2026-11-04",
       "dept": "금융안전과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "a9906ae07444592371576118fb6623bdebb93bcf894d9f2fb02074a6849ea5fb"
     },
@@ -68,9 +83,24 @@
       "publishedAt": "2026-11-05T00:00:00+09:00",
       "displayDate": "2026-11-04",
       "dept": "조사과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "5381296ad03337c27f881d8e4fe91babe8cdad279bea6bc009af03a0964cc0a0"
+    },
+    {
+      "id": "FSS-cbb4bdeae7dcbca6",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "포용금융, 이제 차주의 체감성과도 살펴보겠습니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249746&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-05T00:00:00+09:00",
+      "displayDate": "2026-11-04",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "c59afea33d6807112a0f1283bcc547255654c9d09b1ebd89e2372119af3896a9"
     },
     {
       "id": "FSS-93a78fe32b82af7c",
@@ -83,7 +113,7 @@
       "publishedAt": "2026-11-05T00:00:00+09:00",
       "displayDate": "2026-11-04",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "ddeb4e999455f50f5b1730c6cd4922d7cd25ab7e9d88e03ee7d02d484d09d45b"
     },
@@ -335,21 +365,6 @@
       "hash": "787b60eb04791250b915de85fddbad2ca1197b608515c4d330962fcd59a6597a"
     },
     {
-      "id": "FSC-0da7b1a4e806ece1",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융정보분석원, 국제자금세탁방지기구(FATF) 총회 참석",
-      "url": "https://www.fsc.go.kr/no010101/88048?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-02T00:00:00+09:00",
-      "displayDate": "2026-11-01",
-      "dept": "금융정보분석원 기획행정실",
-      "isNew": false,
-      "attachments": [],
-      "hash": "8e73a920bfebca7bb45c3495e1f26956077a650f97d866a4d913ee80dfaaa057"
-    },
-    {
       "id": "FSS-7ef97662b26e06ca",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -378,21 +393,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "bba34e8138450bc7c9c4b034bdf17753443b28416801075c6f85ea461de114c1"
-    },
-    {
-      "id": "FSS-a99d13ae60de1255",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "사회초년생 청년 운전자가 자동차보험 할인혜택을 쉽게 받을 수 있도록 가입 절차를 개선합니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249670&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-02T00:00:00+09:00",
-      "displayDate": "2026-11-01",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "70d53d8d2e5c6629f923c725f166ea1100d351d1c6b75a8354689552c8225010"
     },
     {
       "id": "FIU-NOTICE-194",

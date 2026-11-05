@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T06:26:54+09:00",
+  "generatedAt": "2026-11-05T10:42:58+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,85 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-05T06:26:54+09:00",
+        "lastSuccessAt": "2026-11-05T10:42:58+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-05T06:26:54+09:00",
+        "lastSuccessAt": "2026-11-05T10:42:58+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-05T06:26:54+09:00",
+        "lastSuccessAt": "2026-11-05T10:42:58+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-05T06:26:54+09:00",
+        "lastSuccessAt": "2026-11-05T10:42:58+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-05T06:26:54+09:00",
+        "lastSuccessAt": "2026-11-05T10:42:58+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 3,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-844d2250316f138e",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "AI시대, 거세지는 침해위협에 맞서 全 금융권이 튼튼한 보안체계로 무장하도록 혁신적인 정책과제를 적극 추진하겠습니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88086?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-05T00:00:00+09:00",
+      "displayDate": "2026-11-04",
+      "dept": "금융안전과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "a9906ae07444592371576118fb6623bdebb93bcf894d9f2fb02074a6849ea5fb"
+    },
+    {
+      "id": "FSC-8d9310d2e1b43641",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "｢“취재정보로 매매해 ○○억 부당이득”···○○신문 조사 마무리｣ 보도 관련. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88085?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-05T00:00:00+09:00",
+      "displayDate": "2026-11-04",
+      "dept": "조사과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5381296ad03337c27f881d8e4fe91babe8cdad279bea6bc009af03a0964cc0a0"
+    },
+    {
+      "id": "FSS-93a78fe32b82af7c",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "AI시대, 거세지는 침해위협에 맞서 全 금융권이 튼튼한 보안체계로 무장하도록 혁신적인 정책과제를 적극 추진하겠습니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249742&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-05T00:00:00+09:00",
+      "displayDate": "2026-11-04",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ddeb4e999455f50f5b1730c6cd4922d7cd25ab7e9d88e03ee7d02d484d09d45b"
+    },
     {
       "id": "FSC-a2826a4913e997c6",
       "source": "FSC",
@@ -350,21 +395,6 @@
       "hash": "70d53d8d2e5c6629f923c725f166ea1100d351d1c6b75a8354689552c8225010"
     },
     {
-      "id": "FSS-93dc2423c0ec5346",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "자동 가입되는 시민안전보험, 보험금 청구까지 꼭 챙기세요",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249656&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-01T00:00:00+09:00",
-      "displayDate": "2026-10-31",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "274d1f7165aac375423b0bd47274f9d9df89cfeb3825fef7a82f0f41089e2ec3"
-    },
-    {
       "id": "FIU-NOTICE-194",
       "source": "FIU",
       "sourceLabel": "FIU",
@@ -384,36 +414,6 @@
         }
       ],
       "hash": "0d893cd1c9adedf4f36f9b7dc69cfbe66d23bc13827a4887fcb31ba579341e5f"
-    },
-    {
-      "id": "FSC-981921749dc83f82",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "불법 가상자산 취급업자(특금법상 미신고 가상자산사업자)에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청",
-      "url": "https://www.fsc.go.kr/no010101/88039?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-30T00:00:00+09:00",
-      "displayDate": "2026-10-29",
-      "dept": "가상자산검사과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "e91f7c243c268e8fa1f1cf621bd232e14af748541530111e234ef01fee0eca27"
-    },
-    {
-      "id": "FSC-18c8f8efa95cf75f",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제9회 ‘회계의 날’ 기념식 및 회계업계 간담회 개최",
-      "url": "https://www.fsc.go.kr/no010101/88031?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-10-30T00:00:00+09:00",
-      "displayDate": "2026-10-29",
-      "dept": "회계제도팀",
-      "isNew": false,
-      "attachments": [],
-      "hash": "d9609f06e03e22b7be582eee182214818d23864988b6110c822635d9a7f98752"
     }
   ]
 }

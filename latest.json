@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T12:33:56+09:00",
+  "generatedAt": "2026-11-06T20:53:01+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-06T12:33:56+09:00",
+        "lastSuccessAt": "2026-11-06T20:53:01+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-06T12:33:56+09:00",
+        "lastSuccessAt": "2026-11-06T20:53:01+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-06T12:33:56+09:00",
+        "lastSuccessAt": "2026-11-06T20:53:01+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-06T12:33:56+09:00",
+        "lastSuccessAt": "2026-11-06T20:53:01+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-06T12:33:56+09:00",
+        "lastSuccessAt": "2026-11-06T20:53:01+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 4,
+    "newSinceLastFeed": 2,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-62210a45bced73d6",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "국내외 주식시장 변동성 확대로 단계별 대응조치 가동. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88100?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-06T00:00:00+09:00",
+      "displayDate": "2026-11-05",
+      "dept": "자본시장과,금융시장분석과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "f0631c94535669400561e01a19d69ec78eba433b4702bb2861b62071aaca291f"
+    },
     {
       "id": "FSC-fc7ccd9dc6d6ab05",
       "source": "FSC",
@@ -53,7 +68,7 @@
       "publishedAt": "2026-11-06T00:00:00+09:00",
       "displayDate": "2026-11-05",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "a4e20d6ea0f3d8d882cced0126c2ef6a8ae4811f7d7a7137303d4d67dbc9f063"
     },
@@ -68,9 +83,24 @@
       "publishedAt": "2026-11-06T00:00:00+09:00",
       "displayDate": "2026-11-05",
       "dept": "금융안전과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "db4ff2c6ecb4a1c9999920c8b01403052898defc9c4aebee123dd7b3cec147a1"
+    },
+    {
+      "id": "FSS-f5df62437a37d5cf",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "정부와 퇴직연금사업자가 함께 안정성과 수익성을 갖춘 퇴직연금 생태계를 만들어 나가겠습니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249765&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-06T00:00:00+09:00",
+      "displayDate": "2026-11-05",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "f8b748fe3c2c1f862dcd5ebad40d9619acca4734de932269609c8021c39c5ddc"
     },
     {
       "id": "FSS-4cf504443c6c694f",
@@ -83,7 +113,7 @@
       "publishedAt": "2026-11-06T00:00:00+09:00",
       "displayDate": "2026-11-05",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0daf8f00a4a751df981f5b0882be1d69f1d6e824bea52cc198f159c1f38c706e"
     },
@@ -98,7 +128,7 @@
       "publishedAt": "2026-11-06T00:00:00+09:00",
       "displayDate": "2026-11-05",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0dfc15e819e30b184c86976877975491fe15f93f620158a4ff353d6159039b94"
     },
@@ -283,21 +313,6 @@
       "hash": "ac8052965f798e2c9b1afa3282ea225f5c50203310608b764e8bbececee99502"
     },
     {
-      "id": "FSC-d1f57bf478c9a797",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "코너스톤투자자 제도 등 도입 관련 자본시장법 시행령 개정안 국무회의 의결",
-      "url": "https://www.fsc.go.kr/no010101/88071?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-03T00:00:00+09:00",
-      "displayDate": "2026-11-02",
-      "dept": "자본시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "6b9ac9f43b1477848db9d392e29a63ba95e27df9969b9157109f68137e099357"
-    },
-    {
       "id": "FSS-3d26d10de1bdbcdb",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "6e46b43a533e0500686652547728a50b530a2737c9a25e9f1df782b153c328cb"
-    },
-    {
-      "id": "FSS-858566b0b742a5d1",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "코너스톤투자자 제도 등 도입 관련 자본시장법 시행령 개정안 국무회의 의결",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249707&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-03T00:00:00+09:00",
-      "displayDate": "2026-11-02",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "4768b6a11aece3fd542dfc074fc3188884f732d39afaa3341ecba68c8aacd115"
     },
     {
       "id": "FIU-REPORT-424",

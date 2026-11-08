@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T16:46:01+09:00",
+  "generatedAt": "2026-11-08T23:50:09+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-08T16:46:01+09:00",
+        "lastSuccessAt": "2026-11-08T23:50:09+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-08T16:46:01+09:00",
+        "lastSuccessAt": "2026-11-08T23:50:09+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-08T16:46:01+09:00",
+        "lastSuccessAt": "2026-11-08T23:50:09+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-08T16:46:01+09:00",
+        "lastSuccessAt": "2026-11-08T23:50:09+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-08T16:46:01+09:00",
+        "lastSuccessAt": "2026-11-08T23:50:09+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 2,
+    "newSinceLastFeed": 0,
     "totalVisible": 23
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-11-08T00:00:00+09:00",
       "displayDate": "2026-11-07",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "eafc9ff9c882adb557633dc4c08d83aa5895ea5b2fb70b10260a96803ea80a43"
     },
@@ -68,7 +68,7 @@
       "publishedAt": "2026-11-08T00:00:00+09:00",
       "displayDate": "2026-11-07",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "3082fb9e93e5cd74cbfaeadd1c1f033a28a380d250921fb027845bb2a1a71279"
     },

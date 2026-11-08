@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T10:08:55+09:00",
+  "generatedAt": "2026-11-08T16:46:01+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-08T10:08:55+09:00",
+        "lastSuccessAt": "2026-11-08T16:46:01+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-08T10:08:55+09:00",
+        "lastSuccessAt": "2026-11-08T16:46:01+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-08T10:08:55+09:00",
+        "lastSuccessAt": "2026-11-08T16:46:01+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-08T10:08:55+09:00",
+        "lastSuccessAt": "2026-11-08T16:46:01+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-08T10:08:55+09:00",
+        "lastSuccessAt": "2026-11-08T16:46:01+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 2,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSS-73be2caf1df5839c",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "증시 변동성 완화를 위한 신용공여 담보비율 유지의무 면제조치 시행",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249770&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-08T00:00:00+09:00",
+      "displayDate": "2026-11-07",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "eafc9ff9c882adb557633dc4c08d83aa5895ea5b2fb70b10260a96803ea80a43"
+    },
+    {
+      "id": "FSS-ec2cee48556a58ab",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "군장병 대상 금융교육강사 양성 연수를 실시합니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249769&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-08T00:00:00+09:00",
+      "displayDate": "2026-11-07",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "3082fb9e93e5cd74cbfaeadd1c1f033a28a380d250921fb027845bb2a1a71279"
+    },
     {
       "id": "FSC-62210a45bced73d6",
       "source": "FSC",
@@ -311,36 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "ac8052965f798e2c9b1afa3282ea225f5c50203310608b764e8bbececee99502"
-    },
-    {
-      "id": "FSS-3d26d10de1bdbcdb",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "제1회 퇴직연금 장기투자 캠페인 출범식 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249713&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-03T00:00:00+09:00",
-      "displayDate": "2026-11-02",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "897cc3cd0bc45a5f394f4ae0b9c629eedadab4138934b6071c5bd1a8adb60abd"
-    },
-    {
-      "id": "FSS-772cd11df51f0723",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금감원장, 임원회의(11.3.) 당부사항",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249709&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-03T00:00:00+09:00",
-      "displayDate": "2026-11-02",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "6e46b43a533e0500686652547728a50b530a2737c9a25e9f1df782b153c328cb"
     },
     {
       "id": "FIU-REPORT-424",

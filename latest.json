@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T11:53:59+09:00",
+  "generatedAt": "2026-11-09T19:59:57+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-09T11:53:59+09:00",
+        "lastSuccessAt": "2026-11-09T19:59:57+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-09T11:53:59+09:00",
+        "lastSuccessAt": "2026-11-09T19:59:57+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-09T11:53:59+09:00",
+        "lastSuccessAt": "2026-11-09T19:59:57+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-09T11:53:59+09:00",
+        "lastSuccessAt": "2026-11-09T19:59:57+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-09T11:53:59+09:00",
+        "lastSuccessAt": "2026-11-09T19:59:57+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
+    "newSinceLastFeed": 2,
     "totalVisible": 23
   },
   "items": [
@@ -53,9 +53,39 @@
       "publishedAt": "2026-11-09T00:00:00+09:00",
       "displayDate": "2026-11-08",
       "dept": "디지털금융총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "25681c098734dc70205e60aa98a586861f003508024b389f8faa1ea6cacce36e"
+    },
+    {
+      "id": "FSS-1bcfcf808f9b6635",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "보이스피싱 피해로 멈춘 일상, 금융권이 '다시, 일상으로' 이어드립니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249776&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-09T00:00:00+09:00",
+      "displayDate": "2026-11-08",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "0a1bf026e3a7a68afac044533c3e8f941547304c76aeb42212fadcdc18f62d97"
+    },
+    {
+      "id": "FSS-39b9fb786a8e8c18",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "상장사 대상 '2026년도 찾아가는 불공정거래 예방교육' 실시",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249775&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-09T00:00:00+09:00",
+      "displayDate": "2026-11-08",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "dc33033a96eabd564abfd68f2f8f706074373460a485a659d83876d12ff1c0e2"
     },
     {
       "id": "FSS-73be2caf1df5839c",
@@ -311,36 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "bdd0a59ef1e3e6a1e91664b5a22b75d7571fde53905c4fa54e08b19c598fe215"
-    },
-    {
-      "id": "FSS-f1bca3f7693baa9e",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "계리가정보고서 도입 등 보험업감독규정 개정안 금융위원회 의결",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249734&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-04T00:00:00+09:00",
-      "displayDate": "2026-11-03",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "42947981af120aa870b9578e01661d375e914addbe5a926c3c653010845afa6f"
-    },
-    {
-      "id": "FSS-90ea7e56f08f21ee",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "베트남, 인도네시아 보험감독당국 초청 세미나 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249719&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-04T00:00:00+09:00",
-      "displayDate": "2026-11-03",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "3bf3d7e4e31ee233808fa27155dc624c9d8ea0fe86bb128deadac4b0e854ca5c"
     },
     {
       "id": "FIU-REPORT-424",

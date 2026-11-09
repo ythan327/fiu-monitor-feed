@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-09T19:59:57+09:00",
+  "generatedAt": "2026-11-10T06:24:12+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-09T19:59:57+09:00",
+        "lastSuccessAt": "2026-11-10T06:24:12+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-09T19:59:57+09:00",
+        "lastSuccessAt": "2026-11-10T06:24:12+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-09T19:59:57+09:00",
+        "lastSuccessAt": "2026-11-10T06:24:12+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-09T19:59:57+09:00",
+        "lastSuccessAt": "2026-11-10T06:24:12+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-09T19:59:57+09:00",
+        "lastSuccessAt": "2026-11-10T06:24:12+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 2,
+    "newSinceLastFeed": 0,
     "totalVisible": 23
   },
   "items": [
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "다음 금융은 이미 시작됐다 「코리아 핀테크 위크 2026」, 11월 25일 개막. 금일 등록된 게시글",
+      "title": "다음 금융은 이미 시작됐다 「코리아 핀테크 위크 2026」, 11월 25일 개막",
       "url": "https://www.fsc.go.kr/no010101/88104?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-09T00:00:00+09:00",
       "displayDate": "2026-11-08",
       "dept": "디지털금융총괄과",
       "isNew": false,
       "attachments": [],
-      "hash": "25681c098734dc70205e60aa98a586861f003508024b389f8faa1ea6cacce36e"
+      "hash": "f697495f9d1147c8fabf093caa760ec6d6efcfda8655045092aa34ce33a4df40"
     },
     {
       "id": "FSS-1bcfcf808f9b6635",
@@ -68,7 +68,7 @@
       "publishedAt": "2026-11-09T00:00:00+09:00",
       "displayDate": "2026-11-08",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "0a1bf026e3a7a68afac044533c3e8f941547304c76aeb42212fadcdc18f62d97"
     },
@@ -83,7 +83,7 @@
       "publishedAt": "2026-11-09T00:00:00+09:00",
       "displayDate": "2026-11-08",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "dc33033a96eabd564abfd68f2f8f706074373460a485a659d83876d12ff1c0e2"
     },

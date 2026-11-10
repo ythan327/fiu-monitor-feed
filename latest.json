@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T12:45:44+09:00",
+  "generatedAt": "2026-11-10T21:14:58+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,31 +8,31 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-10T12:45:44+09:00",
+        "lastSuccessAt": "2026-11-10T21:14:58+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-10T12:45:44+09:00",
+        "lastSuccessAt": "2026-11-10T21:14:58+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-10T12:45:44+09:00",
+        "lastSuccessAt": "2026-11-10T21:14:58+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-10T12:45:44+09:00",
+        "lastSuccessAt": "2026-11-10T21:14:58+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-10T12:45:44+09:00",
+        "lastSuccessAt": "2026-11-10T21:14:58+09:00",
         "itemCount": 0
       }
     }
@@ -42,6 +42,21 @@
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSS-f38e5c9d24f2754d",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융감독원, 부동산신탁사 임원 간담회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249795&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-10T00:00:00+09:00",
+      "displayDate": "2026-11-09",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "be54875fdf593f091c9e66affacde716c65dc91b6eb0a148032c95e6eb31d987"
+    },
     {
       "id": "FSS-d403cd3fdc9eb808",
       "source": "FSS",
@@ -53,7 +68,7 @@
       "publishedAt": "2026-11-10T00:00:00+09:00",
       "displayDate": "2026-11-09",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "ac5e6df0476604fe60245bec953a31bfe086a82a831e3e2cba136fc816ddee3b"
     },
@@ -281,21 +296,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "c59afea33d6807112a0f1283bcc547255654c9d09b1ebd89e2372119af3896a9"
-    },
-    {
-      "id": "FSS-93a78fe32b82af7c",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "AI시대, 거세지는 침해위협에 맞서 全 금융권이 튼튼한 보안체계로 무장하도록 혁신적인 정책과제를 적극 추진하겠습니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249742&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-05T00:00:00+09:00",
-      "displayDate": "2026-11-04",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ddeb4e999455f50f5b1730c6cd4922d7cd25ab7e9d88e03ee7d02d484d09d45b"
     },
     {
       "id": "FSC-a2826a4913e997c6",

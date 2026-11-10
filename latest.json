@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T06:24:12+09:00",
+  "generatedAt": "2026-11-10T12:45:44+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-10T06:24:12+09:00",
+        "lastSuccessAt": "2026-11-10T12:45:44+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-10T06:24:12+09:00",
+        "lastSuccessAt": "2026-11-10T12:45:44+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-10T06:24:12+09:00",
+        "lastSuccessAt": "2026-11-10T12:45:44+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-10T06:24:12+09:00",
+        "lastSuccessAt": "2026-11-10T12:45:44+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-10T06:24:12+09:00",
+        "lastSuccessAt": "2026-11-10T12:45:44+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSS-d403cd3fdc9eb808",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이찬진 금융감독원장, 회계법인CEO 및 전문가 간담회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249790&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-10T00:00:00+09:00",
+      "displayDate": "2026-11-09",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ac5e6df0476604fe60245bec953a31bfe086a82a831e3e2cba136fc816ddee3b"
+    },
     {
       "id": "FSC-2877c88b4a98e52d",
       "source": "FSC",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "9041d1375a1dc4c5213b868f4e47ec941bf5a0850ed9218cdcab842cbdcdceea"
-    },
-    {
-      "id": "FSS-e3290c242675d4c9",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "홍콩 H지수 ELS 관련 은행, 증권사 검사 결과 조치",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249736&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-04T00:00:00+09:00",
-      "displayDate": "2026-11-03",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "bdd0a59ef1e3e6a1e91664b5a22b75d7571fde53905c4fa54e08b19c598fe215"
     },
     {
       "id": "FIU-REPORT-424",

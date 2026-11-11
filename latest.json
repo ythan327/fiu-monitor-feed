@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T15:58:40+09:00",
+  "generatedAt": "2026-11-12T07:08:14+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,54 +8,84 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-11T15:58:40+09:00",
+        "lastSuccessAt": "2026-11-12T07:08:14+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-11T15:58:40+09:00",
+        "lastSuccessAt": "2026-11-12T07:08:14+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-11T15:58:40+09:00",
+        "lastSuccessAt": "2026-11-12T07:08:14+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-11T15:58:40+09:00",
+        "lastSuccessAt": "2026-11-12T07:08:14+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-11T15:58:40+09:00",
+        "lastSuccessAt": "2026-11-12T07:08:14+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 3,
+    "newSinceLastFeed": 2,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSS-b9960049dafa844b",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "26.6월말 금융복합기업집단 자본적정성 비율",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249814&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-12T00:00:00+09:00",
+      "displayDate": "2026-11-11",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ea00a8802f7b6f5e67542d9ddab361b44035691182e039fac765211536fa9c99"
+    },
     {
       "id": "FSC-4be42845cfb55461",
       "source": "FSC",
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "건설노동자, 플랫폼노동자와 프리랜서에 대한 포용금융으로 금융이용 문턱 낮아진다. 금일 등록된 게시글",
+      "title": "건설노동자, 플랫폼노동자와 프리랜서에 대한 포용금융으로 금융이용 문턱 낮아진다",
       "url": "https://www.fsc.go.kr/no010101/88118?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-11T00:00:00+09:00",
       "displayDate": "2026-11-10",
       "dept": "금융데이터정책과,은행과",
+      "isNew": false,
+      "attachments": [],
+      "hash": "f9cecb44907669d9d66b2e3b141a3ca538bdb93b71a5ec018b6ec15cc35bf3b0"
+    },
+    {
+      "id": "FSS-b2020c4a2b011c48",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "사업보고서 등에 대한 조사,감리결과 조치",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249812&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-11T00:00:00+09:00",
+      "displayDate": "2026-11-10",
+      "dept": "",
       "isNew": true,
       "attachments": [],
-      "hash": "6693c19b83452967ef4d7b5b6beba2c083b357c573ee6f0198f1240cd650fd0a"
+      "hash": "c161cad35e9772c136e812f8308681a141fea39a82f8288aa5d7921cf06a3388"
     },
     {
       "id": "FSS-bb384c69d45f52b6",
@@ -68,7 +98,7 @@
       "publishedAt": "2026-11-11T00:00:00+09:00",
       "displayDate": "2026-11-10",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "3ac829aa3838cfc0d2f807550cef91d9948d1f6bacd961dd305e9185197de969"
     },
@@ -83,7 +113,7 @@
       "publishedAt": "2026-11-11T00:00:00+09:00",
       "displayDate": "2026-11-10",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "633a816448a9aeae7393fd7f68189156ca14a315403fcdb9bc03f27be669cace"
     },
@@ -193,21 +223,6 @@
       "hash": "eafc9ff9c882adb557633dc4c08d83aa5895ea5b2fb70b10260a96803ea80a43"
     },
     {
-      "id": "FSS-ec2cee48556a58ab",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "군장병 대상 금융교육강사 양성 연수를 실시합니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249769&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-08T00:00:00+09:00",
-      "displayDate": "2026-11-07",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "3082fb9e93e5cd74cbfaeadd1c1f033a28a380d250921fb027845bb2a1a71279"
-    },
-    {
       "id": "FSC-62210a45bced73d6",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -251,21 +266,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "92f568a692f42e9f65f40fad34914843b78369604705f7b9c918f50fa30494ed"
-    },
-    {
-      "id": "FSS-f5df62437a37d5cf",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "정부와 퇴직연금사업자가 함께 안정성과 수익성을 갖춘 퇴직연금 생태계를 만들어 나가겠습니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249765&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-06T00:00:00+09:00",
-      "displayDate": "2026-11-05",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f8b748fe3c2c1f862dcd5ebad40d9619acca4734de932269609c8021c39c5ddc"
     },
     {
       "id": "FSC-e41c0526e74ceacc",

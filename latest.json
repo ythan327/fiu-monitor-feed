@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T09:27:20+09:00",
+  "generatedAt": "2026-11-11T15:58:40+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,85 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-11T09:27:20+09:00",
+        "lastSuccessAt": "2026-11-11T15:58:40+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-11T09:27:20+09:00",
+        "lastSuccessAt": "2026-11-11T15:58:40+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-11T09:27:20+09:00",
+        "lastSuccessAt": "2026-11-11T15:58:40+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-11T09:27:20+09:00",
+        "lastSuccessAt": "2026-11-11T15:58:40+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-11T09:27:20+09:00",
+        "lastSuccessAt": "2026-11-11T15:58:40+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
+    "newSinceLastFeed": 3,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-4be42845cfb55461",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "건설노동자, 플랫폼노동자와 프리랜서에 대한 포용금융으로 금융이용 문턱 낮아진다. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88118?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-11T00:00:00+09:00",
+      "displayDate": "2026-11-10",
+      "dept": "금융데이터정책과,은행과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "6693c19b83452967ef4d7b5b6beba2c083b357c573ee6f0198f1240cd650fd0a"
+    },
+    {
+      "id": "FSS-bb384c69d45f52b6",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "건설노동자, 플랫폼노동자와 프리랜서에 대한 포용금융으로 금융이용 문턱 낮아진다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249806&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-11T00:00:00+09:00",
+      "displayDate": "2026-11-10",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "3ac829aa3838cfc0d2f807550cef91d9948d1f6bacd961dd305e9185197de969"
+    },
+    {
+      "id": "FSS-d4fae00bf9c6b019",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2026년 10월 가계대출 동향(잠정)",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249804&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-11T00:00:00+09:00",
+      "displayDate": "2026-11-10",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "633a816448a9aeae7393fd7f68189156ca14a315403fcdb9bc03f27be669cace"
+    },
     {
       "id": "FSS-a6b8cc253c1ed895",
       "source": "FSS",
@@ -53,7 +98,7 @@
       "publishedAt": "2026-11-11T00:00:00+09:00",
       "displayDate": "2026-11-10",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "4d177583c370cd7c7af10b9c571a4a66ad1365cb94d057f5d60453f1f321a803"
     },
@@ -223,36 +268,6 @@
       "hash": "f8b748fe3c2c1f862dcd5ebad40d9619acca4734de932269609c8021c39c5ddc"
     },
     {
-      "id": "FSS-4cf504443c6c694f",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "국내외 주식시장 변동성 확대로 단계별 대응조치 가동",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249759&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-06T00:00:00+09:00",
-      "displayDate": "2026-11-05",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "0daf8f00a4a751df981f5b0882be1d69f1d6e824bea52cc198f159c1f38c706e"
-    },
-    {
-      "id": "FSS-f811fd7543eb48d7",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융권은 개인정보 유출 사고에 따른 보이스피싱 예방에 총력 대응하고 있습니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249758&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-06T00:00:00+09:00",
-      "displayDate": "2026-11-05",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "0dfc15e819e30b184c86976877975491fe15f93f620158a4ff353d6159039b94"
-    },
-    {
       "id": "FSC-e41c0526e74ceacc",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "4a62866b6be5522b535586bff768c56e491789769c9c507dcfd54160aaca58a3"
-    },
-    {
-      "id": "FSC-f238b5d59b954ddb",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "계리가정보고서 도입 등 ｢보험업감독규정｣ 개정안 금융위원회 의결",
-      "url": "https://www.fsc.go.kr/no010101/88081?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-04T00:00:00+09:00",
-      "displayDate": "2026-11-03",
-      "dept": "보험과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "9041d1375a1dc4c5213b868f4e47ec941bf5a0850ed9218cdcab842cbdcdceea"
     },
     {
       "id": "FIU-REPORT-424",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T20:41:12+09:00",
+  "generatedAt": "2026-11-13T04:38:34+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-12T20:41:12+09:00",
+        "lastSuccessAt": "2026-11-13T04:38:34+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-12T20:41:12+09:00",
+        "lastSuccessAt": "2026-11-13T04:38:34+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-12T20:41:12+09:00",
+        "lastSuccessAt": "2026-11-13T04:38:34+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-12T20:41:12+09:00",
+        "lastSuccessAt": "2026-11-13T04:38:34+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-12T20:41:12+09:00",
+        "lastSuccessAt": "2026-11-13T04:38:34+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 5,
+    "newSinceLastFeed": 0,
     "totalVisible": 23
   },
   "items": [
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "가상자산사업자에 대한 최고 수준의 보안 강화 조치를 통해 이용자의 자산과 정보를 철저히 지켜나가겠습니다.. 금일 등록된 게시글",
+      "title": "가상자산사업자에 대한 최고 수준의 보안 강화 조치를 통해 이용자의 자산과 정보를 철저히 지켜나가겠습니다.",
       "url": "https://www.fsc.go.kr/no010101/88133?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "가상자산과,금융안전과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "4de0f59f4f5c9674142a83b2d55cce48d72fbcb3c2fef206ca0410ca1151c9cb"
+      "hash": "af794254b3c503c8a85d1784cb91e6c8f7bda8287ef5ae4bd96a9d4ffdc70bc7"
     },
     {
       "id": "FSC-0c66804560faaaaa",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "인터넷/SNS상 코스닥 추가대책에 대한 허위정보 관련 투자자 유의사항. 금일 등록된 게시글",
+      "title": "인터넷/SNS상 코스닥 추가대책에 대한 허위정보 관련 투자자 유의사항",
       "url": "https://www.fsc.go.kr/no010101/88132?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "자본시장조사총괄과,자본시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "796ddf3e13a49a550c11aefcf985e4aa69b3d7394af852aba3f8455354c514b0"
+      "hash": "7da0f4020a2007bcf5cbe0241b0ef61133f88ad9c2fbce590df7b07e79cf630d"
     },
     {
       "id": "FSC-ecfb46ac28e28ed2",
@@ -78,14 +78,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "사업보고서 등에 대한 조사·감리결과 조치. 금일 등록된 게시글",
+      "title": "사업보고서 등에 대한 조사·감리결과 조치",
       "url": "https://www.fsc.go.kr/no010101/88127?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "회계제도팀",
       "isNew": false,
       "attachments": [],
-      "hash": "80cec0d2cc7682cb0edff63ec5210a3ad7d8a1d31cc76b1843f57ad5551536e0"
+      "hash": "e40972da4817563a774039c89795e17bad5d77b9ea7c1bf626555b8298f5765a"
     },
     {
       "id": "FSC-f7c35ab78764ee0a",
@@ -93,14 +93,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "금융회사 지배구조의 공정성과 투명성을 제고합니다.. 금일 등록된 게시글",
+      "title": "금융회사 지배구조의 공정성과 투명성을 제고합니다.",
       "url": "https://www.fsc.go.kr/no010101/88125?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "금융정책과,공정시장과",
       "isNew": false,
       "attachments": [],
-      "hash": "d1e22dff98519c0fa4b6868717e9dc5b07a14085f82a3314df045a7ebca4cf36"
+      "hash": "4dbe1dca88b28a2db587aa91b6b5e72b8fcbe93f459d83a4c1eb67c763272c40"
     },
     {
       "id": "FSC-0402b26acc4f3b82",
@@ -108,14 +108,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "2026년 10월 가계대출 동향(잠정). 금일 등록된 게시글",
+      "title": "2026년 10월 가계대출 동향(잠정)",
       "url": "https://www.fsc.go.kr/no010101/88124?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "금융정책과",
       "isNew": false,
       "attachments": [],
-      "hash": "e04c88e98d04463ed00f6167ad13e47b4fd0e1f3d152d8fa9091b9cc4acc8d58"
+      "hash": "d1760b0347bff9f22f0c8deb5f1cad261b6cf1adf43297a315eb78505e9f9ebb"
     },
     {
       "id": "FSC-2d1913b55b2f607a",
@@ -123,14 +123,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "미공개 무상증자정보를 이용한 내부자등에 대한 중대범죄수사청 고발·통보 조치 의결. 금일 등록된 게시글",
+      "title": "미공개 무상증자정보를 이용한 내부자등에 대한 중대범죄수사청 고발·통보 조치 의결",
       "url": "https://www.fsc.go.kr/no010101/88123?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "자본시장조사총괄과",
       "isNew": false,
       "attachments": [],
-      "hash": "d257e8b2c04db3ece36c08eb353c1cbfca4d714458ae0939807d8ccccbd1826b"
+      "hash": "f89b6f008553cb36ccbd287d368dd98ec68f9b7432529fbc7ef8e6a0430d4b1a"
     },
     {
       "id": "FSS-898384b6f81ab6ee",
@@ -143,7 +143,7 @@
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "37ad5f8fca335f5a862c6f645735eb98f3d1f01680c9466193291dd287a523e2"
     },
@@ -158,7 +158,7 @@
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "c7c182f58d712be20f04decbf96f6f00323b99cb49aa9d31ede9833913abb617"
     },
@@ -173,7 +173,7 @@
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "ec94af6821d55dbd9973dc61b97cc7343050b70c749b28b0e06aaec41d3a9834"
     },

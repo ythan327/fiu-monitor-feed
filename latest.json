@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T12:15:04+09:00",
+  "generatedAt": "2026-11-12T20:41:12+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,70 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-12T12:15:04+09:00",
+        "lastSuccessAt": "2026-11-12T20:41:12+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-12T12:15:04+09:00",
+        "lastSuccessAt": "2026-11-12T20:41:12+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-12T12:15:04+09:00",
+        "lastSuccessAt": "2026-11-12T20:41:12+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-12T12:15:04+09:00",
+        "lastSuccessAt": "2026-11-12T20:41:12+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-12T12:15:04+09:00",
+        "lastSuccessAt": "2026-11-12T20:41:12+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 7,
+    "newSinceLastFeed": 5,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-184a98845012f51f",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "가상자산사업자에 대한 최고 수준의 보안 강화 조치를 통해 이용자의 자산과 정보를 철저히 지켜나가겠습니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88133?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-12T00:00:00+09:00",
+      "displayDate": "2026-11-11",
+      "dept": "가상자산과,금융안전과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "4de0f59f4f5c9674142a83b2d55cce48d72fbcb3c2fef206ca0410ca1151c9cb"
+    },
+    {
+      "id": "FSC-0c66804560faaaaa",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "인터넷/SNS상 코스닥 추가대책에 대한 허위정보 관련 투자자 유의사항. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88132?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-12T00:00:00+09:00",
+      "displayDate": "2026-11-11",
+      "dept": "자본시장조사총괄과,자본시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "796ddf3e13a49a550c11aefcf985e4aa69b3d7394af852aba3f8455354c514b0"
+    },
     {
       "id": "FSC-ecfb46ac28e28ed2",
       "source": "FSC",
@@ -53,7 +83,7 @@
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "회계제도팀",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "80cec0d2cc7682cb0edff63ec5210a3ad7d8a1d31cc76b1843f57ad5551536e0"
     },
@@ -68,7 +98,7 @@
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "금융정책과,공정시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "d1e22dff98519c0fa4b6868717e9dc5b07a14085f82a3314df045a7ebca4cf36"
     },
@@ -83,7 +113,7 @@
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e04c88e98d04463ed00f6167ad13e47b4fd0e1f3d152d8fa9091b9cc4acc8d58"
     },
@@ -98,9 +128,54 @@
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "자본시장조사총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "d257e8b2c04db3ece36c08eb353c1cbfca4d714458ae0939807d8ccccbd1826b"
+    },
+    {
+      "id": "FSS-898384b6f81ab6ee",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "가상자산사업자에 대한 최고 수준의 보안 강화 조치를 통해 이용자의 자산과 정보를 철저히 지켜나가겠습니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249825&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-12T00:00:00+09:00",
+      "displayDate": "2026-11-11",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "37ad5f8fca335f5a862c6f645735eb98f3d1f01680c9466193291dd287a523e2"
+    },
+    {
+      "id": "FSS-cf7e8eaf6abe75eb",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "증권사 발행어음, IMA 부문 C-level 임원 간담회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249824&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-12T00:00:00+09:00",
+      "displayDate": "2026-11-11",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "c7c182f58d712be20f04decbf96f6f00323b99cb49aa9d31ede9833913abb617"
+    },
+    {
+      "id": "FSS-16a0b89662f7d2d2",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "인터넷, SNS상 코스닥 추가대책에 대한 허위정보 관련 투자자 유의사항",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249822&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-12T00:00:00+09:00",
+      "displayDate": "2026-11-11",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ec94af6821d55dbd9973dc61b97cc7343050b70c749b28b0e06aaec41d3a9834"
     },
     {
       "id": "FSS-a7b5688d7f29bfe6",
@@ -113,7 +188,7 @@
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "f5b39b8aa7ff2bb9b8d195ff1097913c3bb6ebe16c6af4b3869bc2f414373067"
     },
@@ -128,7 +203,7 @@
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "dedddb04ef432c47e5b3063fca8781c2718ec9b55c03fdd880a9cde699aaaebb"
     },
@@ -143,7 +218,7 @@
       "publishedAt": "2026-11-12T00:00:00+09:00",
       "displayDate": "2026-11-11",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "6e4f7b14149b0e25535c75b075a9a808c65f334d7c4a9121af8d73a76e9b3a3b"
     },
@@ -223,51 +298,6 @@
       "hash": "633a816448a9aeae7393fd7f68189156ca14a315403fcdb9bc03f27be669cace"
     },
     {
-      "id": "FSS-a6b8cc253c1ed895",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "증권사의 '주식정보 제공서비스' 이용시 숨어있는 이용료를 미리 확인하고 이용하세요",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249801&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-11T00:00:00+09:00",
-      "displayDate": "2026-11-10",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "4d177583c370cd7c7af10b9c571a4a66ad1365cb94d057f5d60453f1f321a803"
-    },
-    {
-      "id": "FSS-f38e5c9d24f2754d",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융감독원, 부동산신탁사 임원 간담회 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249795&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-10T00:00:00+09:00",
-      "displayDate": "2026-11-09",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "be54875fdf593f091c9e66affacde716c65dc91b6eb0a148032c95e6eb31d987"
-    },
-    {
-      "id": "FSS-d403cd3fdc9eb808",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "이찬진 금융감독원장, 회계법인CEO 및 전문가 간담회 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249790&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-10T00:00:00+09:00",
-      "displayDate": "2026-11-09",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ac5e6df0476604fe60245bec953a31bfe086a82a831e3e2cba136fc816ddee3b"
-    },
-    {
       "id": "FSC-2877c88b4a98e52d",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -311,36 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "ace798244f10b69c77921d5d3744655a909c1d7e8799d07444fc37b15e866bd8"
-    },
-    {
-      "id": "FSC-9c3fcf568b1015a0",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융권은 개인정보 유출 사고에 따른 보이스피싱 예방에 총력 대응하고 있습니다.",
-      "url": "https://www.fsc.go.kr/no010101/88098?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-06T00:00:00+09:00",
-      "displayDate": "2026-11-05",
-      "dept": "금융안전과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "92f568a692f42e9f65f40fad34914843b78369604705f7b9c918f50fa30494ed"
-    },
-    {
-      "id": "FSC-e41c0526e74ceacc",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "기업지배구조보고서 공시를 통해 상장회사의 주주보호와 주주환원 노력을 확대해 나가겠습니다.",
-      "url": "https://www.fsc.go.kr/no010101/88091?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-05T00:00:00+09:00",
-      "displayDate": "2026-11-04",
-      "dept": "공정시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "0360707083752dbf0c039a83a337a4038760ca9d3e7af8fe89280c735023d078"
     },
     {
       "id": "FIU-REPORT-424",

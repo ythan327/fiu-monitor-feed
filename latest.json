@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T16:40:03+09:00",
+  "generatedAt": "2026-11-14T00:57:43+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,38 +8,38 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-13T16:40:03+09:00",
+        "lastSuccessAt": "2026-11-14T00:57:43+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-13T16:40:03+09:00",
+        "lastSuccessAt": "2026-11-14T00:57:43+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-13T16:40:03+09:00",
+        "lastSuccessAt": "2026-11-14T00:57:43+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-13T16:40:03+09:00",
-        "itemCount": 1
+        "lastSuccessAt": "2026-11-14T00:57:43+09:00",
+        "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-13T16:40:03+09:00",
+        "lastSuccessAt": "2026-11-14T00:57:43+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 6,
-    "totalVisible": 23
+    "newSinceLastFeed": 0,
+    "totalVisible": 22
   },
   "items": [
     {
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "신진창 금융위원회 부위원장, 씨티그룹 국제부문 총 책임자 면담. 금일 등록된 게시글",
+      "title": "신진창 금융위원회 부위원장, 씨티그룹 국제부문 총 책임자 면담",
       "url": "https://www.fsc.go.kr/no010101/88146?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-13T00:00:00+09:00",
       "displayDate": "2026-11-12",
       "dept": "글로벌금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "1273cdd6fc93181e4c0f9c9a1059e3a97dbbafd87f8af7063f6dfef071763958"
+      "hash": "dccacacda520e13330abb616cf6f0b191925e1e44d4197fc61c874fd480baa48"
     },
     {
       "id": "FSC-61505ca850dac06f",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "지역기업과의 동행, 6개 정책금융기관이 현장에서 함께 합니다.. 금일 등록된 게시글",
+      "title": "지역기업과의 동행, 6개 정책금융기관이 현장에서 함께 합니다.",
       "url": "https://www.fsc.go.kr/no010101/88143?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-13T00:00:00+09:00",
       "displayDate": "2026-11-12",
       "dept": "산업금융과,국민성장펀드총괄과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "2325063001a55991189b483cf7f478219253bff77aca1293a9b869e118282ccb"
+      "hash": "19368e5fdc00dde7b559f41eee5b16b6c75bce5c32c33f257e09d85de5d591cc"
     },
     {
       "id": "FSC-51e834498c9c6da1",
@@ -78,14 +78,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "잠자고 있는 포인트, 지역화폐로 바꿔 골목상권에서 쓴다. 금일 등록된 게시글",
+      "title": "잠자고 있는 포인트, 지역화폐로 바꿔 골목상권에서 쓴다",
       "url": "https://www.fsc.go.kr/no010101/88142?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-13T00:00:00+09:00",
       "displayDate": "2026-11-12",
       "dept": "중소금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "ae6b3c3c64c4cfd4f944a5578702cbdaa92cd4c9afa7ac7196cba93b7a2a03a9"
+      "hash": "4d048621f40115d37a3eeef5cae2f8228f1ab8e94451cb6a64730fccda3a9525"
     },
     {
       "id": "FSC-4a57fbff9ac60928",
@@ -93,14 +93,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "서울 가격상승폭 둔화·매물 증가…수도권 내년 1분기까지 4만 호 이상 입주. 금일 등록된 게시글",
+      "title": "서울 가격상승폭 둔화·매물 증가…수도권 내년 1분기까지 4만 호 이상 입주",
       "url": "https://www.fsc.go.kr/no010101/88140?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-13T00:00:00+09:00",
       "displayDate": "2026-11-12",
       "dept": "금융정책과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "bb6a8f283c4f389d43fd03cdf6410d744cd3b4a4a43c8179769eb26df12edacf"
+      "hash": "c95c9e1356077766961875aad15c58396b479587c56246de0bbd77b5d2128ebe"
     },
     {
       "id": "FSC-b10105924e5df41d",
@@ -108,14 +108,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "신뢰받는 자본시장, 현장에서 묻고 답을 찾다. 금일 등록된 게시글",
+      "title": "신뢰받는 자본시장, 현장에서 묻고 답을 찾다",
       "url": "https://www.fsc.go.kr/no010101/88139?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-13T00:00:00+09:00",
       "displayDate": "2026-11-12",
       "dept": "자본시장과,자산운용과,공정시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "9259d877c4641b1f8fe0291674a409ac3e57bda072d0f995d00e424981c11b95"
+      "hash": "6550d7c49657448c26aab2898e5e7658ded43dab83d69117cc8483e815e6fcbc"
     },
     {
       "id": "FSC-11fd65eee6efcca1",
@@ -123,14 +123,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "261112(보도참고) 지배구조 개선방안(’11.12일 발표) 관련 설명자료. 금일 등록된 게시글",
+      "title": "261112(보도참고) 지배구조 개선방안(’11.12일 발표) 관련 설명자료",
       "url": "https://www.fsc.go.kr/no010101/88138?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-13T00:00:00+09:00",
       "displayDate": "2026-11-12",
       "dept": "금융정책과,공정시장과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "25f196700f866dcf26dc621c7f9913448e588fa24d6dd8b0d7736ccb5f6473a1"
+      "hash": "6f65700389faafb31a7dce284fdfa2ca4a72662ce2cd29f981f0ef65280166a2"
     },
     {
       "id": "FSC-2b4d23591e0a5b66",
@@ -138,14 +138,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "‘26년도 상반기 기술금융 테크평가 및 품질심사평가 결과. 금일 등록된 게시글",
+      "title": "‘26년도 상반기 기술금융 테크평가 및 품질심사평가 결과",
       "url": "https://www.fsc.go.kr/no010101/88137?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-13T00:00:00+09:00",
       "displayDate": "2026-11-12",
       "dept": "산업금융과",
       "isNew": false,
       "attachments": [],
-      "hash": "72eef1b3caa6d2b8f481ce28f4ff5c33b632a52c7a5e982dc995f2f98ee85379"
+      "hash": "0caed9a3efebfa5e1a76cd121e0f2fa7cd5fae01de2dd55eb5422c87da09f47a"
     },
     {
       "id": "FSS-83ad251893c928ad",
@@ -393,27 +393,6 @@
         }
       ],
       "hash": "04d6b48b1ef3021a48e13cbb741a39a869911a9106560b700c6fceaf547149e6"
-    },
-    {
-      "id": "FIU-NOTICE-194",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "NOTICE",
-      "categoryLabel": "공지사항",
-      "title": "가상자산사업자 신고 현황(2026.10.30. 기준)",
-      "url": "https://www.kofiu.go.kr/kor/notification/notice_view.do?ntcnYardOrdrNo=194&seCd=0007",
-      "publishedAt": "2026-10-30T17:52:43+09:00",
-      "displayDate": "2026-10-30",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "가상자산사업자 신고에 관한 정보공개현황(2026.10.30. 기준).xlsx",
-          "type": "application/haansoftxlsx",
-          "size": 19329
-        }
-      ],
-      "hash": "0d893cd1c9adedf4f36f9b7dc69cfbe66d23bc13827a4887fcb31ba579341e5f"
     }
   ]
 }

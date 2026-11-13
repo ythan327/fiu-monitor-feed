@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T04:38:34+09:00",
+  "generatedAt": "2026-11-13T09:55:57+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,85 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-13T04:38:34+09:00",
+        "lastSuccessAt": "2026-11-13T09:55:57+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-13T04:38:34+09:00",
+        "lastSuccessAt": "2026-11-13T09:55:57+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-13T04:38:34+09:00",
+        "lastSuccessAt": "2026-11-13T09:55:57+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-13T04:38:34+09:00",
+        "lastSuccessAt": "2026-11-13T09:55:57+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-13T04:38:34+09:00",
+        "lastSuccessAt": "2026-11-13T09:55:57+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 3,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-2b4d23591e0a5b66",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "‘26년도 상반기 기술금융 테크평가 및 품질심사평가 결과. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88137?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-13T00:00:00+09:00",
+      "displayDate": "2026-11-12",
+      "dept": "산업금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "72eef1b3caa6d2b8f481ce28f4ff5c33b632a52c7a5e982dc995f2f98ee85379"
+    },
+    {
+      "id": "FSS-83ad251893c928ad",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "신뢰받는 자본시장, 현장에서 묻고 답을 찾다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249834&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-13T00:00:00+09:00",
+      "displayDate": "2026-11-12",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "6df866726504e5dd4643d5521350d2a3db69968481111a9c8774d2e98a453315"
+    },
+    {
+      "id": "FSS-a90eda6ce9b3bf33",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "26년도 상반기 기술금융 테크평가 및 품질심사평가 결과",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249830&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-13T00:00:00+09:00",
+      "displayDate": "2026-11-12",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "954d84c98fd8bcb060bb6c7f0da4710782af2fb0ed15b185ebd885f3cdfc8b3a"
+    },
     {
       "id": "FSC-184a98845012f51f",
       "source": "FSC",
@@ -268,36 +313,6 @@
       "hash": "c161cad35e9772c136e812f8308681a141fea39a82f8288aa5d7921cf06a3388"
     },
     {
-      "id": "FSS-bb384c69d45f52b6",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "건설노동자, 플랫폼노동자와 프리랜서에 대한 포용금융으로 금융이용 문턱 낮아진다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249806&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-11T00:00:00+09:00",
-      "displayDate": "2026-11-10",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "3ac829aa3838cfc0d2f807550cef91d9948d1f6bacd961dd305e9185197de969"
-    },
-    {
-      "id": "FSS-d4fae00bf9c6b019",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "2026년 10월 가계대출 동향(잠정)",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249804&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-11T00:00:00+09:00",
-      "displayDate": "2026-11-10",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "633a816448a9aeae7393fd7f68189156ca14a315403fcdb9bc03f27be669cace"
-    },
-    {
       "id": "FSC-2877c88b4a98e52d",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "d3dcaed7b968c91e8779d2cbe7c80ef715cdd688b3978ee4dea74d858fb405d7"
-    },
-    {
-      "id": "FSC-fc7ccd9dc6d6ab05",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "현재 유포되고 있는 부동산 대책 관련 게시글의 보도에 유의하여 주시기 바랍니다.",
-      "url": "https://www.fsc.go.kr/no010101/88099?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-06T00:00:00+09:00",
-      "displayDate": "2026-11-05",
-      "dept": "금융정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ace798244f10b69c77921d5d3744655a909c1d7e8799d07444fc37b15e866bd8"
     },
     {
       "id": "FIU-REPORT-424",

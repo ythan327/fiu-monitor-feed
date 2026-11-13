@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T09:55:57+09:00",
+  "generatedAt": "2026-11-13T16:40:03+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,130 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-13T09:55:57+09:00",
+        "lastSuccessAt": "2026-11-13T16:40:03+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-13T09:55:57+09:00",
+        "lastSuccessAt": "2026-11-13T16:40:03+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-13T09:55:57+09:00",
+        "lastSuccessAt": "2026-11-13T16:40:03+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-13T09:55:57+09:00",
+        "lastSuccessAt": "2026-11-13T16:40:03+09:00",
         "itemCount": 1
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-13T09:55:57+09:00",
+        "lastSuccessAt": "2026-11-13T16:40:03+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 3,
+    "newSinceLastFeed": 6,
     "totalVisible": 23
   },
   "items": [
+    {
+      "id": "FSC-97d1517539a60222",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "신진창 금융위원회 부위원장, 씨티그룹 국제부문 총 책임자 면담. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88146?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-13T00:00:00+09:00",
+      "displayDate": "2026-11-12",
+      "dept": "글로벌금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1273cdd6fc93181e4c0f9c9a1059e3a97dbbafd87f8af7063f6dfef071763958"
+    },
+    {
+      "id": "FSC-61505ca850dac06f",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "지역기업과의 동행, 6개 정책금융기관이 현장에서 함께 합니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88143?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-13T00:00:00+09:00",
+      "displayDate": "2026-11-12",
+      "dept": "산업금융과,국민성장펀드총괄과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "2325063001a55991189b483cf7f478219253bff77aca1293a9b869e118282ccb"
+    },
+    {
+      "id": "FSC-51e834498c9c6da1",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "잠자고 있는 포인트, 지역화폐로 바꿔 골목상권에서 쓴다. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88142?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-13T00:00:00+09:00",
+      "displayDate": "2026-11-12",
+      "dept": "중소금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ae6b3c3c64c4cfd4f944a5578702cbdaa92cd4c9afa7ac7196cba93b7a2a03a9"
+    },
+    {
+      "id": "FSC-4a57fbff9ac60928",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "서울 가격상승폭 둔화·매물 증가…수도권 내년 1분기까지 4만 호 이상 입주. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88140?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-13T00:00:00+09:00",
+      "displayDate": "2026-11-12",
+      "dept": "금융정책과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "bb6a8f283c4f389d43fd03cdf6410d744cd3b4a4a43c8179769eb26df12edacf"
+    },
+    {
+      "id": "FSC-b10105924e5df41d",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "신뢰받는 자본시장, 현장에서 묻고 답을 찾다. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88139?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-13T00:00:00+09:00",
+      "displayDate": "2026-11-12",
+      "dept": "자본시장과,자산운용과,공정시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "9259d877c4641b1f8fe0291674a409ac3e57bda072d0f995d00e424981c11b95"
+    },
+    {
+      "id": "FSC-11fd65eee6efcca1",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "261112(보도참고) 지배구조 개선방안(’11.12일 발표) 관련 설명자료. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88138?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-13T00:00:00+09:00",
+      "displayDate": "2026-11-12",
+      "dept": "금융정책과,공정시장과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "25f196700f866dcf26dc621c7f9913448e588fa24d6dd8b0d7736ccb5f6473a1"
+    },
     {
       "id": "FSC-2b4d23591e0a5b66",
       "source": "FSC",
@@ -53,7 +143,7 @@
       "publishedAt": "2026-11-13T00:00:00+09:00",
       "displayDate": "2026-11-12",
       "dept": "산업금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "72eef1b3caa6d2b8f481ce28f4ff5c33b632a52c7a5e982dc995f2f98ee85379"
     },
@@ -68,7 +158,7 @@
       "publishedAt": "2026-11-13T00:00:00+09:00",
       "displayDate": "2026-11-12",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "6df866726504e5dd4643d5521350d2a3db69968481111a9c8774d2e98a453315"
     },
@@ -83,7 +173,7 @@
       "publishedAt": "2026-11-13T00:00:00+09:00",
       "displayDate": "2026-11-12",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "954d84c98fd8bcb060bb6c7f0da4710782af2fb0ed15b185ebd885f3cdfc8b3a"
     },
@@ -131,51 +221,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "e40972da4817563a774039c89795e17bad5d77b9ea7c1bf626555b8298f5765a"
-    },
-    {
-      "id": "FSC-f7c35ab78764ee0a",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융회사 지배구조의 공정성과 투명성을 제고합니다.",
-      "url": "https://www.fsc.go.kr/no010101/88125?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "금융정책과,공정시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "4dbe1dca88b28a2db587aa91b6b5e72b8fcbe93f459d83a4c1eb67c763272c40"
-    },
-    {
-      "id": "FSC-0402b26acc4f3b82",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "2026년 10월 가계대출 동향(잠정)",
-      "url": "https://www.fsc.go.kr/no010101/88124?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "금융정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "d1760b0347bff9f22f0c8deb5f1cad261b6cf1adf43297a315eb78505e9f9ebb"
-    },
-    {
-      "id": "FSC-2d1913b55b2f607a",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "미공개 무상증자정보를 이용한 내부자등에 대한 중대범죄수사청 고발·통보 조치 의결",
-      "url": "https://www.fsc.go.kr/no010101/88123?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "자본시장조사총괄과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f89b6f008553cb36ccbd287d368dd98ec68f9b7432529fbc7ef8e6a0430d4b1a"
     },
     {
       "id": "FSS-898384b6f81ab6ee",
@@ -283,21 +328,6 @@
       "hash": "ea00a8802f7b6f5e67542d9ddab361b44035691182e039fac765211536fa9c99"
     },
     {
-      "id": "FSC-4be42845cfb55461",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "건설노동자, 플랫폼노동자와 프리랜서에 대한 포용금융으로 금융이용 문턱 낮아진다",
-      "url": "https://www.fsc.go.kr/no010101/88118?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-11T00:00:00+09:00",
-      "displayDate": "2026-11-10",
-      "dept": "금융데이터정책과,은행과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f9cecb44907669d9d66b2e3b141a3ca538bdb93b71a5ec018b6ec15cc35bf3b0"
-    },
-    {
       "id": "FSS-b2020c4a2b011c48",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -311,36 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "c161cad35e9772c136e812f8308681a141fea39a82f8288aa5d7921cf06a3388"
-    },
-    {
-      "id": "FSC-2877c88b4a98e52d",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "다음 금융은 이미 시작됐다 「코리아 핀테크 위크 2026」, 11월 25일 개막",
-      "url": "https://www.fsc.go.kr/no010101/88104?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-09T00:00:00+09:00",
-      "displayDate": "2026-11-08",
-      "dept": "디지털금융총괄과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f697495f9d1147c8fabf093caa760ec6d6efcfda8655045092aa34ce33a4df40"
-    },
-    {
-      "id": "FSC-62210a45bced73d6",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "국내외 주식시장 변동성 확대로 단계별 대응조치 가동",
-      "url": "https://www.fsc.go.kr/no010101/88100?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-06T00:00:00+09:00",
-      "displayDate": "2026-11-05",
-      "dept": "자본시장과,금융시장분석과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "d3dcaed7b968c91e8779d2cbe7c80ef715cdd688b3978ee4dea74d858fb405d7"
     },
     {
       "id": "FIU-REPORT-424",

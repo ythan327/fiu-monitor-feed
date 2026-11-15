@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T09:09:28+09:00",
+  "generatedAt": "2026-11-15T15:59:13+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,100 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-15T09:09:28+09:00",
+        "lastSuccessAt": "2026-11-15T15:59:13+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-15T09:09:28+09:00",
+        "lastSuccessAt": "2026-11-15T15:59:13+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-15T09:09:28+09:00",
+        "lastSuccessAt": "2026-11-15T15:59:13+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-15T09:09:28+09:00",
+        "lastSuccessAt": "2026-11-15T15:59:13+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-15T09:09:28+09:00",
+        "lastSuccessAt": "2026-11-15T15:59:13+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 4,
     "totalVisible": 22
   },
   "items": [
+    {
+      "id": "FSS-ebf247a458092a0b",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금년 세무사시험 수석합격자(한OO씨)의 CPA시험 부정행위 언급과 관련하여 안내드립니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249859&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-15T00:00:00+09:00",
+      "displayDate": "2026-11-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ddab8bd9725fb1412bf35f18ad05bea58ba2aadc74377d94e6868d82a84b6348"
+    },
+    {
+      "id": "FSS-b4875fddcd5792a6",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "불법사금융 원스톱 지원, 이제 센터 방문 없이도 신청 가능합니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249857&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-15T00:00:00+09:00",
+      "displayDate": "2026-11-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "ecf938f779cf6844bfdc38986be8fee9c1555c8e64328d8a38f471895d649c8a"
+    },
+    {
+      "id": "FSS-88944210c8d93343",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융감독원, 2026 세계투자자주간 실시",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249856&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-15T00:00:00+09:00",
+      "displayDate": "2026-11-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "47c50985c58599876d6627bdd900ea7099412b181f3bf646fd1bb35a568c1925"
+    },
+    {
+      "id": "FSS-07197525f36e280b",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융소비자 중심의 금융감독 실현을 위한 제5차 금융소비자보호자문위원회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249855&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-15T00:00:00+09:00",
+      "displayDate": "2026-11-14",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "63500da502b39495fab0753bffa9dd6fb757dc1b63beedae66dd0364676c611c"
+    },
     {
       "id": "FSC-97d1517539a60222",
       "source": "FSC",
@@ -281,66 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "f5b39b8aa7ff2bb9b8d195ff1097913c3bb6ebe16c6af4b3869bc2f414373067"
-    },
-    {
-      "id": "FSS-40723f1c87b8bd2c",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "미공개 무상증자정보를 이용한 내부자등에 대한 중대범죄수사청 고발,통보 조치의결",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249817&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "dedddb04ef432c47e5b3063fca8781c2718ec9b55c03fdd880a9cde699aaaebb"
-    },
-    {
-      "id": "FSS-89229e89e00d8548",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융회사 지배구조의 공정성과 투명성을 제고합니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249815&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "6e4f7b14149b0e25535c75b075a9a808c65f334d7c4a9121af8d73a76e9b3a3b"
-    },
-    {
-      "id": "FSS-b9960049dafa844b",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "26.6월말 금융복합기업집단 자본적정성 비율",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249814&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ea00a8802f7b6f5e67542d9ddab361b44035691182e039fac765211536fa9c99"
-    },
-    {
-      "id": "FSS-b2020c4a2b011c48",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "사업보고서 등에 대한 조사,감리결과 조치",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249812&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-11T00:00:00+09:00",
-      "displayDate": "2026-11-10",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "c161cad35e9772c136e812f8308681a141fea39a82f8288aa5d7921cf06a3388"
     },
     {
       "id": "FIU-REPORT-424",

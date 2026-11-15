@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T15:59:13+09:00",
+  "generatedAt": "2026-11-15T23:40:14+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-15T15:59:13+09:00",
+        "lastSuccessAt": "2026-11-15T23:40:14+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-15T15:59:13+09:00",
+        "lastSuccessAt": "2026-11-15T23:40:14+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-15T15:59:13+09:00",
+        "lastSuccessAt": "2026-11-15T23:40:14+09:00",
         "itemCount": 2
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-15T15:59:13+09:00",
+        "lastSuccessAt": "2026-11-15T23:40:14+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-15T15:59:13+09:00",
+        "lastSuccessAt": "2026-11-15T23:40:14+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 4,
+    "newSinceLastFeed": 0,
     "totalVisible": 22
   },
   "items": [
@@ -53,7 +53,7 @@
       "publishedAt": "2026-11-15T00:00:00+09:00",
       "displayDate": "2026-11-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "ddab8bd9725fb1412bf35f18ad05bea58ba2aadc74377d94e6868d82a84b6348"
     },
@@ -68,7 +68,7 @@
       "publishedAt": "2026-11-15T00:00:00+09:00",
       "displayDate": "2026-11-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "ecf938f779cf6844bfdc38986be8fee9c1555c8e64328d8a38f471895d649c8a"
     },
@@ -83,7 +83,7 @@
       "publishedAt": "2026-11-15T00:00:00+09:00",
       "displayDate": "2026-11-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "47c50985c58599876d6627bdd900ea7099412b181f3bf646fd1bb35a568c1925"
     },
@@ -98,7 +98,7 @@
       "publishedAt": "2026-11-15T00:00:00+09:00",
       "displayDate": "2026-11-14",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "63500da502b39495fab0753bffa9dd6fb757dc1b63beedae66dd0364676c611c"
     },

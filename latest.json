@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T09:12:03+09:00",
+  "generatedAt": "2026-11-16T16:05:37+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,130 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-16T09:12:03+09:00",
+        "lastSuccessAt": "2026-11-16T16:05:37+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-16T09:12:03+09:00",
+        "lastSuccessAt": "2026-11-16T16:05:37+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-16T09:12:03+09:00",
-        "itemCount": 2
+        "lastSuccessAt": "2026-11-16T16:05:37+09:00",
+        "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-16T09:12:03+09:00",
+        "lastSuccessAt": "2026-11-16T16:05:37+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-16T09:12:03+09:00",
+        "lastSuccessAt": "2026-11-16T16:05:37+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
-    "totalVisible": 22
+    "newSinceLastFeed": 6,
+    "totalVisible": 20
   },
   "items": [
+    {
+      "id": "FSC-48964c895a9fe8b9",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "정부는 최근 발생한 금융보안원의 침해사고와 관련하여 철저한 원인조사 및 재발방지 대책 마련을 지시하였습니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88152?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-16T00:00:00+09:00",
+      "displayDate": "2026-11-15",
+      "dept": "금융안전과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "52ddf31eef9d7df168cf7b07119b657900aa38ae0b1746526b188f7aee9bc06b"
+    },
+    {
+      "id": "FSC-784ba5a36ec9d639",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "이억원 금융위원장, 글로벌 금융안정 공조 및 유럽 주요 금융당국과 협력 강화 나선다. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88151?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-16T00:00:00+09:00",
+      "displayDate": "2026-11-15",
+      "dept": "글로벌금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "c411346c1b682a9c479823e30c3ac841bf723a19327389c9bc9036a19176e6c3"
+    },
+    {
+      "id": "FSC-c797753b8e8dea44",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "불법사금융 원스톱 지원, 이제 센터 방문 없이도 신청 가능합니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88150?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-16T00:00:00+09:00",
+      "displayDate": "2026-11-15",
+      "dept": "가계금융과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "771b7a54564987079981d7bd37d10d43e58152924c30418948a65a34388ad3e8"
+    },
+    {
+      "id": "FSS-97575de20d16ddb1",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "흔들리지 않는 노후 준비의 기본 원칙 퇴직연금 가이드북을 적극 활용하세요!",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249868&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-16T00:00:00+09:00",
+      "displayDate": "2026-11-15",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "59cfdb5bbab69bb68c39950f696e30b40f3e1d1034d3994fbf999a4ce4872b16"
+    },
+    {
+      "id": "FSS-747f7b14e3f79097",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "랩 어카운트 관련 주요 분쟁사례 및 투자자 유의사항 안내",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249867&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-16T00:00:00+09:00",
+      "displayDate": "2026-11-15",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "e4dcdebecaa992e1dff2aeff0245755f83fa4dbff35d0407e7c289651815e887"
+    },
+    {
+      "id": "FSS-53cfad6be5dad185",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "정부는 최근 발생한 금융보안원의 침해사고와 관련하여 철저한 원인조사 및 재발방지 대책 마련을 지시하였습니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249862&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-16T00:00:00+09:00",
+      "displayDate": "2026-11-15",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1c39846a9e6e9521a936e72df8461337e6a6eba944222e09913163255efb5213"
+    },
     {
       "id": "FSS-ebf247a458092a0b",
       "source": "FSS",
@@ -238,51 +328,6 @@
       "hash": "954d84c98fd8bcb060bb6c7f0da4710782af2fb0ed15b185ebd885f3cdfc8b3a"
     },
     {
-      "id": "FSC-184a98845012f51f",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "가상자산사업자에 대한 최고 수준의 보안 강화 조치를 통해 이용자의 자산과 정보를 철저히 지켜나가겠습니다.",
-      "url": "https://www.fsc.go.kr/no010101/88133?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "가상자산과,금융안전과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "af794254b3c503c8a85d1784cb91e6c8f7bda8287ef5ae4bd96a9d4ffdc70bc7"
-    },
-    {
-      "id": "FSC-0c66804560faaaaa",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "인터넷/SNS상 코스닥 추가대책에 대한 허위정보 관련 투자자 유의사항",
-      "url": "https://www.fsc.go.kr/no010101/88132?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "자본시장조사총괄과,자본시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "7da0f4020a2007bcf5cbe0241b0ef61133f88ad9c2fbce590df7b07e79cf630d"
-    },
-    {
-      "id": "FSC-ecfb46ac28e28ed2",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "사업보고서 등에 대한 조사·감리결과 조치",
-      "url": "https://www.fsc.go.kr/no010101/88127?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "회계제도팀",
-      "isNew": false,
-      "attachments": [],
-      "hash": "e40972da4817563a774039c89795e17bad5d77b9ea7c1bf626555b8298f5765a"
-    },
-    {
       "id": "FSS-898384b6f81ab6ee",
       "source": "FSS",
       "sourceLabel": "금감원",
@@ -296,103 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "37ad5f8fca335f5a862c6f645735eb98f3d1f01680c9466193291dd287a523e2"
-    },
-    {
-      "id": "FSS-cf7e8eaf6abe75eb",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "증권사 발행어음, IMA 부문 C-level 임원 간담회 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249824&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "c7c182f58d712be20f04decbf96f6f00323b99cb49aa9d31ede9833913abb617"
-    },
-    {
-      "id": "FSS-16a0b89662f7d2d2",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "인터넷, SNS상 코스닥 추가대책에 대한 허위정보 관련 투자자 유의사항",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249822&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ec94af6821d55dbd9973dc61b97cc7343050b70c749b28b0e06aaec41d3a9834"
-    },
-    {
-      "id": "FSS-a7b5688d7f29bfe6",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "누가 내 신분증과 위임장을 들고 주민센터에 왔다고요 100% 보이스피싱 사기입니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249820&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "f5b39b8aa7ff2bb9b8d195ff1097913c3bb6ebe16c6af4b3869bc2f414373067"
-    },
-    {
-      "id": "FIU-REPORT-424",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "[보도참고] 불법 가상자산 취급업자에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=424&seCd=0001",
-      "publishedAt": "2026-11-02T09:41:38+09:00",
-      "displayDate": "2026-11-02",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "261030 (보도참고자료) 불법 가상자산 취급업자에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청_FN.hwpx",
-          "type": "application/octet-stream",
-          "size": 263142
-        },
-        {
-          "name": "261030 (보도참고자료) 불법 가상자산 취급업자에 대한 수사의뢰(DAXA, 3건) 및 접속차단(2건) 요청_FN.pdf",
-          "type": "application/pdf",
-          "size": 277659
-        }
-      ],
-      "hash": "c799c03b8abd0db0212ba3c28c3ffd0497455967588c84979100761c71e8f41e"
-    },
-    {
-      "id": "FIU-REPORT-423",
-      "source": "FIU",
-      "sourceLabel": "FIU",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "국제자금세탁방지기구(FATF) 참석 결과 보도",
-      "url": "https://www.kofiu.go.kr/kor/notification/report_view.do?ntcnYardOrdrNo=423&seCd=0001",
-      "publishedAt": "2026-11-02T09:35:59+09:00",
-      "displayDate": "2026-11-02",
-      "dept": "",
-      "isNew": false,
-      "attachments": [
-        {
-          "name": "261102(보도자료) 국제자금세탁방지기구(FATF) 참석 결과 보도.pdf",
-          "type": "application/pdf",
-          "size": 316707
-        },
-        {
-          "name": "261102(보도자료) 국제자금세탁방지기구(FATF) 참석 결과 보도.hwpx",
-          "type": "application/octet-stream",
-          "size": 282653
-        }
-      ],
-      "hash": "04d6b48b1ef3021a48e13cbb741a39a869911a9106560b700c6fceaf547149e6"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T16:05:37+09:00",
+  "generatedAt": "2026-11-17T02:19:26+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-16T16:05:37+09:00",
+        "lastSuccessAt": "2026-11-17T02:19:26+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-16T16:05:37+09:00",
+        "lastSuccessAt": "2026-11-17T02:19:26+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-16T16:05:37+09:00",
+        "lastSuccessAt": "2026-11-17T02:19:26+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-16T16:05:37+09:00",
+        "lastSuccessAt": "2026-11-17T02:19:26+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-16T16:05:37+09:00",
+        "lastSuccessAt": "2026-11-17T02:19:26+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 6,
+    "newSinceLastFeed": 0,
     "totalVisible": 20
   },
   "items": [
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "정부는 최근 발생한 금융보안원의 침해사고와 관련하여 철저한 원인조사 및 재발방지 대책 마련을 지시하였습니다.. 금일 등록된 게시글",
+      "title": "정부는 최근 발생한 금융보안원의 침해사고와 관련하여 철저한 원인조사 및 재발방지 대책 마련을 지시하였습니다.",
       "url": "https://www.fsc.go.kr/no010101/88152?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-16T00:00:00+09:00",
       "displayDate": "2026-11-15",
       "dept": "금융안전과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "52ddf31eef9d7df168cf7b07119b657900aa38ae0b1746526b188f7aee9bc06b"
+      "hash": "b2b8245d9470f46026bab401354404c50be7a9a3d22a699330c8241196e8f424"
     },
     {
       "id": "FSC-784ba5a36ec9d639",
@@ -63,14 +63,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "이억원 금융위원장, 글로벌 금융안정 공조 및 유럽 주요 금융당국과 협력 강화 나선다. 금일 등록된 게시글",
+      "title": "이억원 금융위원장, 글로벌 금융안정 공조 및 유럽 주요 금융당국과 협력 강화 나선다",
       "url": "https://www.fsc.go.kr/no010101/88151?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-16T00:00:00+09:00",
       "displayDate": "2026-11-15",
       "dept": "글로벌금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "c411346c1b682a9c479823e30c3ac841bf723a19327389c9bc9036a19176e6c3"
+      "hash": "54c45ecc728fd506f5d529fd889d4974ef04feb01995f892072c83c9dd22edfc"
     },
     {
       "id": "FSC-c797753b8e8dea44",
@@ -78,14 +78,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "불법사금융 원스톱 지원, 이제 센터 방문 없이도 신청 가능합니다.. 금일 등록된 게시글",
+      "title": "불법사금융 원스톱 지원, 이제 센터 방문 없이도 신청 가능합니다.",
       "url": "https://www.fsc.go.kr/no010101/88150?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-16T00:00:00+09:00",
       "displayDate": "2026-11-15",
       "dept": "가계금융과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "771b7a54564987079981d7bd37d10d43e58152924c30418948a65a34388ad3e8"
+      "hash": "eb6c64ff651614d92dc5042cd6236a40532956c73e034cc9afaf67e038755342"
     },
     {
       "id": "FSS-97575de20d16ddb1",
@@ -98,7 +98,7 @@
       "publishedAt": "2026-11-16T00:00:00+09:00",
       "displayDate": "2026-11-15",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "59cfdb5bbab69bb68c39950f696e30b40f3e1d1034d3994fbf999a4ce4872b16"
     },
@@ -113,7 +113,7 @@
       "publishedAt": "2026-11-16T00:00:00+09:00",
       "displayDate": "2026-11-15",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "e4dcdebecaa992e1dff2aeff0245755f83fa4dbff35d0407e7c289651815e887"
     },
@@ -128,7 +128,7 @@
       "publishedAt": "2026-11-16T00:00:00+09:00",
       "displayDate": "2026-11-15",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "1c39846a9e6e9521a936e72df8461337e6a6eba944222e09913163255efb5213"
     },

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T09:58:58+09:00",
+  "generatedAt": "2026-11-17T18:00:20+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,100 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-17T09:58:58+09:00",
+        "lastSuccessAt": "2026-11-17T18:00:20+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-17T09:58:58+09:00",
+        "lastSuccessAt": "2026-11-17T18:00:20+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-17T09:58:58+09:00",
+        "lastSuccessAt": "2026-11-17T18:00:20+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-17T09:58:58+09:00",
+        "lastSuccessAt": "2026-11-17T18:00:20+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-17T09:58:58+09:00",
+        "lastSuccessAt": "2026-11-17T18:00:20+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
+    "newSinceLastFeed": 4,
     "totalVisible": 20
   },
   "items": [
+    {
+      "id": "FSC-39b079f59031d9dd",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "지역이 발굴하면 금융이 뒷받침한다. 지역 핵심 중소·중견기업에 4.5조원 공급. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88160?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-17T00:00:00+09:00",
+      "displayDate": "2026-11-16",
+      "dept": "은행과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "3fc772117e3c8f23aec5f2bc41f63b35af1d26721a08b2c4f89c057d09b5893c"
+    },
+    {
+      "id": "FSS-975c52bb0f686b9e",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "회계부정, 안심하고 신고하세요. 국민권익위원회-금융감독원, 신고자 보호 강화를 위한 업무협약 체결",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249890&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-17T00:00:00+09:00",
+      "displayDate": "2026-11-16",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "86cac37ad92afca15721973dee714c05b69a67d18dd42a1f837b741f767f0926"
+    },
+    {
+      "id": "FSS-648464ac905e486f",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융감독원, 금융권 침해사고 관련 대부업권 설명회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249888&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-17T00:00:00+09:00",
+      "displayDate": "2026-11-16",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1975e64b0a622d8059352d23c586aa564144b10a4ba001e638c2231070347134"
+    },
+    {
+      "id": "FSS-3e28ad2eaf28cc65",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "전금업자, 온투업자 침해사고 대응 관련 간담회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249883&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-17T00:00:00+09:00",
+      "displayDate": "2026-11-16",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "706701705419028b2bb18f322795400d02567101832afd3f6be892bacec7dc74"
+    },
     {
       "id": "FSS-53d94591dec2edce",
       "source": "FSS",
@@ -53,7 +113,7 @@
       "publishedAt": "2026-11-17T00:00:00+09:00",
       "displayDate": "2026-11-16",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "1e993c65b4c6eeff01f05889441528352e37ad3cc0ef5272eaee71156f97bcbf"
     },
@@ -193,21 +253,6 @@
       "hash": "47c50985c58599876d6627bdd900ea7099412b181f3bf646fd1bb35a568c1925"
     },
     {
-      "id": "FSS-07197525f36e280b",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융소비자 중심의 금융감독 실현을 위한 제5차 금융소비자보호자문위원회 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249855&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-15T00:00:00+09:00",
-      "displayDate": "2026-11-14",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "63500da502b39495fab0753bffa9dd6fb757dc1b63beedae66dd0364676c611c"
-    },
-    {
       "id": "FSC-97d1517539a60222",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -296,51 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "6f65700389faafb31a7dce284fdfa2ca4a72662ce2cd29f981f0ef65280166a2"
-    },
-    {
-      "id": "FSC-2b4d23591e0a5b66",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "‘26년도 상반기 기술금융 테크평가 및 품질심사평가 결과",
-      "url": "https://www.fsc.go.kr/no010101/88137?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-13T00:00:00+09:00",
-      "displayDate": "2026-11-12",
-      "dept": "산업금융과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "0caed9a3efebfa5e1a76cd121e0f2fa7cd5fae01de2dd55eb5422c87da09f47a"
-    },
-    {
-      "id": "FSS-83ad251893c928ad",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "신뢰받는 자본시장, 현장에서 묻고 답을 찾다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249834&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-13T00:00:00+09:00",
-      "displayDate": "2026-11-12",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "6df866726504e5dd4643d5521350d2a3db69968481111a9c8774d2e98a453315"
-    },
-    {
-      "id": "FSS-a90eda6ce9b3bf33",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "26년도 상반기 기술금융 테크평가 및 품질심사평가 결과",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249830&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-13T00:00:00+09:00",
-      "displayDate": "2026-11-12",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "954d84c98fd8bcb060bb6c7f0da4710782af2fb0ed15b185ebd885f3cdfc8b3a"
     }
   ]
 }

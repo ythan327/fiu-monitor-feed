@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T18:00:20+09:00",
+  "generatedAt": "2026-11-18T03:26:46+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-17T18:00:20+09:00",
+        "lastSuccessAt": "2026-11-18T03:26:46+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-17T18:00:20+09:00",
+        "lastSuccessAt": "2026-11-18T03:26:46+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-17T18:00:20+09:00",
+        "lastSuccessAt": "2026-11-18T03:26:46+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-17T18:00:20+09:00",
+        "lastSuccessAt": "2026-11-18T03:26:46+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-17T18:00:20+09:00",
+        "lastSuccessAt": "2026-11-18T03:26:46+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 4,
+    "newSinceLastFeed": 0,
     "totalVisible": 20
   },
   "items": [
@@ -48,14 +48,14 @@
       "sourceLabel": "금융위",
       "category": "REPORT",
       "categoryLabel": "보도자료",
-      "title": "지역이 발굴하면 금융이 뒷받침한다. 지역 핵심 중소·중견기업에 4.5조원 공급. 금일 등록된 게시글",
+      "title": "지역이 발굴하면 금융이 뒷받침한다. 지역 핵심 중소·중견기업에 4.5조원 공급",
       "url": "https://www.fsc.go.kr/no010101/88160?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
       "publishedAt": "2026-11-17T00:00:00+09:00",
       "displayDate": "2026-11-16",
       "dept": "은행과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
-      "hash": "3fc772117e3c8f23aec5f2bc41f63b35af1d26721a08b2c4f89c057d09b5893c"
+      "hash": "499ef6576a836415fcf821ae64311f5d2ac7e795fcb3e5540b3c69e1d179fa98"
     },
     {
       "id": "FSS-975c52bb0f686b9e",
@@ -68,7 +68,7 @@
       "publishedAt": "2026-11-17T00:00:00+09:00",
       "displayDate": "2026-11-16",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "86cac37ad92afca15721973dee714c05b69a67d18dd42a1f837b741f767f0926"
     },
@@ -83,7 +83,7 @@
       "publishedAt": "2026-11-17T00:00:00+09:00",
       "displayDate": "2026-11-16",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "1975e64b0a622d8059352d23c586aa564144b10a4ba001e638c2231070347134"
     },
@@ -98,7 +98,7 @@
       "publishedAt": "2026-11-17T00:00:00+09:00",
       "displayDate": "2026-11-16",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "706701705419028b2bb18f322795400d02567101832afd3f6be892bacec7dc74"
     },

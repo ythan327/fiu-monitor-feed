@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T02:19:26+09:00",
+  "generatedAt": "2026-11-17T09:58:58+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-17T02:19:26+09:00",
+        "lastSuccessAt": "2026-11-17T09:58:58+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-17T02:19:26+09:00",
+        "lastSuccessAt": "2026-11-17T09:58:58+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-17T02:19:26+09:00",
+        "lastSuccessAt": "2026-11-17T09:58:58+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-17T02:19:26+09:00",
+        "lastSuccessAt": "2026-11-17T09:58:58+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-17T02:19:26+09:00",
+        "lastSuccessAt": "2026-11-17T09:58:58+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 1,
     "totalVisible": 20
   },
   "items": [
+    {
+      "id": "FSS-53d94591dec2edce",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "2026년 상반기 전자금융업 영업실적",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249882&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-17T00:00:00+09:00",
+      "displayDate": "2026-11-16",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "1e993c65b4c6eeff01f05889441528352e37ad3cc0ef5272eaee71156f97bcbf"
+    },
     {
       "id": "FSC-48964c895a9fe8b9",
       "source": "FSC",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "954d84c98fd8bcb060bb6c7f0da4710782af2fb0ed15b185ebd885f3cdfc8b3a"
-    },
-    {
-      "id": "FSS-898384b6f81ab6ee",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "가상자산사업자에 대한 최고 수준의 보안 강화 조치를 통해 이용자의 자산과 정보를 철저히 지켜나가겠습니다",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249825&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-12T00:00:00+09:00",
-      "displayDate": "2026-11-11",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "37ad5f8fca335f5a862c6f645735eb98f3d1f01680c9466193291dd287a523e2"
     }
   ]
 }

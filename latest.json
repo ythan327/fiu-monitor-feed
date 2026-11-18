@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T03:26:46+09:00",
+  "generatedAt": "2026-11-18T10:11:57+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,100 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-18T03:26:46+09:00",
+        "lastSuccessAt": "2026-11-18T10:11:57+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-18T03:26:46+09:00",
+        "lastSuccessAt": "2026-11-18T10:11:57+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-18T03:26:46+09:00",
+        "lastSuccessAt": "2026-11-18T10:11:57+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-18T03:26:46+09:00",
+        "lastSuccessAt": "2026-11-18T10:11:57+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-18T03:26:46+09:00",
+        "lastSuccessAt": "2026-11-18T10:11:57+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 0,
+    "newSinceLastFeed": 4,
     "totalVisible": 20
   },
   "items": [
+    {
+      "id": "FSC-1532844df85d6202",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "全금융권이 상시적으로 철저하게 보안 관리에 임하도록 IT자산 식별·관리를 의무화하고 취약점 점검·평가 제도를 내실화하겠습니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88162?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-18T00:00:00+09:00",
+      "displayDate": "2026-11-17",
+      "dept": "금융안전과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "97c8dcbed7c79dfcdba7403b3eb26bd955c119451900b010fec754e485b1e9ac"
+    },
+    {
+      "id": "FSS-790224217c4aa9f2",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "자산운용사 침해사고 대응 관련 릴레이간담회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249903&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-18T00:00:00+09:00",
+      "displayDate": "2026-11-17",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "49e89daf3808c3c82a6d3515e7232e7f63b261151d3a64135b70a48a13ab7fb8"
+    },
+    {
+      "id": "FSS-ab9b3c1b907202de",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "26.9월말 국내은행의 원화대출 연체율 현황(잠정)",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249902&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-18T00:00:00+09:00",
+      "displayDate": "2026-11-17",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "adfc414dda948d38ac13da6e47e0f7fddab4f35d9f3197082dc747acdd1faa80"
+    },
+    {
+      "id": "FSS-3d7e0bde784db7ec",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "全금융권이 상시적으로 철저하게 보안 관리에 임하도록 IT자산 식별, 관리를 의무화하고 취약점 점검, 평가 제도를 내실화하겠습니다.",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249899&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-18T00:00:00+09:00",
+      "displayDate": "2026-11-17",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "bc063261fc3655495d8a14bd112ca5e7ca76bf9ac4834113cd9695c7a8ce8561"
+    },
     {
       "id": "FSC-39b079f59031d9dd",
       "source": "FSC",
@@ -208,51 +268,6 @@
       "hash": "1c39846a9e6e9521a936e72df8461337e6a6eba944222e09913163255efb5213"
     },
     {
-      "id": "FSS-ebf247a458092a0b",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금년 세무사시험 수석합격자(한OO씨)의 CPA시험 부정행위 언급과 관련하여 안내드립니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249859&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-15T00:00:00+09:00",
-      "displayDate": "2026-11-14",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ddab8bd9725fb1412bf35f18ad05bea58ba2aadc74377d94e6868d82a84b6348"
-    },
-    {
-      "id": "FSS-b4875fddcd5792a6",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "불법사금융 원스톱 지원, 이제 센터 방문 없이도 신청 가능합니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249857&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-15T00:00:00+09:00",
-      "displayDate": "2026-11-14",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "ecf938f779cf6844bfdc38986be8fee9c1555c8e64328d8a38f471895d649c8a"
-    },
-    {
-      "id": "FSS-88944210c8d93343",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융감독원, 2026 세계투자자주간 실시",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249856&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-15T00:00:00+09:00",
-      "displayDate": "2026-11-14",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "47c50985c58599876d6627bdd900ea7099412b181f3bf646fd1bb35a568c1925"
-    },
-    {
       "id": "FSC-97d1517539a60222",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -326,21 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "6550d7c49657448c26aab2898e5e7658ded43dab83d69117cc8483e815e6fcbc"
-    },
-    {
-      "id": "FSC-11fd65eee6efcca1",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "261112(보도참고) 지배구조 개선방안(’11.12일 발표) 관련 설명자료",
-      "url": "https://www.fsc.go.kr/no010101/88138?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-13T00:00:00+09:00",
-      "displayDate": "2026-11-12",
-      "dept": "금융정책과,공정시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "6f65700389faafb31a7dce284fdfa2ca4a72662ce2cd29f981f0ef65280166a2"
     }
   ]
 }

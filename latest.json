@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T10:11:57+09:00",
+  "generatedAt": "2026-11-18T17:55:51+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,37 +8,37 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-18T10:11:57+09:00",
+        "lastSuccessAt": "2026-11-18T17:55:51+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-18T10:11:57+09:00",
+        "lastSuccessAt": "2026-11-18T17:55:51+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-18T10:11:57+09:00",
+        "lastSuccessAt": "2026-11-18T17:55:51+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-18T10:11:57+09:00",
+        "lastSuccessAt": "2026-11-18T17:55:51+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-18T10:11:57+09:00",
+        "lastSuccessAt": "2026-11-18T17:55:51+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 4,
+    "newSinceLastFeed": 1,
     "totalVisible": 20
   },
   "items": [
@@ -53,9 +53,24 @@
       "publishedAt": "2026-11-18T00:00:00+09:00",
       "displayDate": "2026-11-17",
       "dept": "금융안전과",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "97c8dcbed7c79dfcdba7403b3eb26bd955c119451900b010fec754e485b1e9ac"
+    },
+    {
+      "id": "FSS-576dc76b1f3481f2",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "전동킥보드로 사고 내고 음주운전 차량 표적 사고 유발까지... 자동차 보험사기, 이렇게 예방하세요",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249905&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-18T00:00:00+09:00",
+      "displayDate": "2026-11-17",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "d682003a0824a19e9e0a33a3dc6c4bac907f470612dab62ed7f37e50a6c3ed16"
     },
     {
       "id": "FSS-790224217c4aa9f2",
@@ -68,7 +83,7 @@
       "publishedAt": "2026-11-18T00:00:00+09:00",
       "displayDate": "2026-11-17",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "49e89daf3808c3c82a6d3515e7232e7f63b261151d3a64135b70a48a13ab7fb8"
     },
@@ -83,7 +98,7 @@
       "publishedAt": "2026-11-18T00:00:00+09:00",
       "displayDate": "2026-11-17",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "adfc414dda948d38ac13da6e47e0f7fddab4f35d9f3197082dc747acdd1faa80"
     },
@@ -98,7 +113,7 @@
       "publishedAt": "2026-11-18T00:00:00+09:00",
       "displayDate": "2026-11-17",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "bc063261fc3655495d8a14bd112ca5e7ca76bf9ac4834113cd9695c7a8ce8561"
     },
@@ -251,21 +266,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "e4dcdebecaa992e1dff2aeff0245755f83fa4dbff35d0407e7c289651815e887"
-    },
-    {
-      "id": "FSS-53cfad6be5dad185",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "정부는 최근 발생한 금융보안원의 침해사고와 관련하여 철저한 원인조사 및 재발방지 대책 마련을 지시하였습니다.",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249862&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-16T00:00:00+09:00",
-      "displayDate": "2026-11-15",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "1c39846a9e6e9521a936e72df8461337e6a6eba944222e09913163255efb5213"
     },
     {
       "id": "FSC-97d1517539a60222",

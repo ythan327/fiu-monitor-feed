@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T08:58:48+09:00",
+  "generatedAt": "2026-11-19T16:08:44+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,145 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-19T08:58:48+09:00",
+        "lastSuccessAt": "2026-11-19T16:08:44+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-19T08:58:48+09:00",
+        "lastSuccessAt": "2026-11-19T16:08:44+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-19T08:58:48+09:00",
+        "lastSuccessAt": "2026-11-19T16:08:44+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-19T08:58:48+09:00",
+        "lastSuccessAt": "2026-11-19T16:08:44+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-19T08:58:48+09:00",
+        "lastSuccessAt": "2026-11-19T16:08:44+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 1,
+    "newSinceLastFeed": 7,
     "totalVisible": 20
   },
   "items": [
+    {
+      "id": "FSC-1fac345f8ccf8502",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "깜빡 잊고 지나가버린 지난 3년간 실손보험금, ‘실손24’를 통해 한방에 청구하고 받을 수 있습니다. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88173?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-19T00:00:00+09:00",
+      "displayDate": "2026-11-18",
+      "dept": "보험과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "5cde8e8c4769ec6d042ced740d21e6dcabfe8d34f36eae928d795a81f7a7b67b"
+    },
+    {
+      "id": "FSC-c8ba9c2d1c2dddf1",
+      "source": "FSC",
+      "sourceLabel": "금융위",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "핀테크 기업에 필요한 지원사업을 AI가 찾아드립니다.. 금일 등록된 게시글",
+      "url": "https://www.fsc.go.kr/no010101/88171?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
+      "publishedAt": "2026-11-19T00:00:00+09:00",
+      "displayDate": "2026-11-18",
+      "dept": "디지털금융총괄과",
+      "isNew": true,
+      "attachments": [],
+      "hash": "b9cc8c165158ae4c1984402c2f7c95440747616e295d5563efff89270fc0117a"
+    },
+    {
+      "id": "FSS-723b2d358696af02",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융감독원, 퇴직연금 사업자 임원 간담회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249922&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-19T00:00:00+09:00",
+      "displayDate": "2026-11-18",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "f2d4906c9d70a353b377df12adaa1fac8dac530f6b557eb1c2d8e3c2997c2c12"
+    },
+    {
+      "id": "FSS-5728e2ba5469e6c3",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "깜빡 잊고 지나가버린 지난 3년간 실손보험금, ‘실손24’를 통해 한방에 청구하고 받을 수 있습니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249919&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-19T00:00:00+09:00",
+      "displayDate": "2026-11-18",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "4c98048323131d1a8026b43f6e50e459821b7195bf4919cad102dadb76afff25"
+    },
+    {
+      "id": "FSS-218d6465ea51650b",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융감독원은 제8기 옴부즈만을 신규로 위촉하였습니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249917&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-19T00:00:00+09:00",
+      "displayDate": "2026-11-18",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "a20088b69067b4bb9aadd2679f15e2c3765832bb504c2960074c9e5160cf3fc9"
+    },
+    {
+      "id": "FSS-344aa266b7c59806",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "저축성보험, 만기 후에도 최대 3년까지 연금으로 전환할 수 있습니다",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249916&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-19T00:00:00+09:00",
+      "displayDate": "2026-11-18",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "d91fcee7573d610f88a0560e35600c6c0cb60bd0eb380d4927bf70865902595f"
+    },
+    {
+      "id": "FSS-05aae70a6fb7b7cf",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융소비자보호처장, 인천대학교 방문 교육 실시",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249914&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-19T00:00:00+09:00",
+      "displayDate": "2026-11-18",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "613c48b5c062de6a251cb637d208a27e9d23e1e0cd3ce5a3f6f947884b912e04"
+    },
     {
       "id": "FSS-7f1150dad7935eab",
       "source": "FSS",
@@ -53,7 +158,7 @@
       "publishedAt": "2026-11-19T00:00:00+09:00",
       "displayDate": "2026-11-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "bdf1af494c91cc4c31331b5f4f740258218c9dca177fe8b91bd7cc829cf0a694"
     },
@@ -148,66 +253,6 @@
       "hash": "499ef6576a836415fcf821ae64311f5d2ac7e795fcb3e5540b3c69e1d179fa98"
     },
     {
-      "id": "FSS-975c52bb0f686b9e",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "회계부정, 안심하고 신고하세요. 국민권익위원회-금융감독원, 신고자 보호 강화를 위한 업무협약 체결",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249890&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-17T00:00:00+09:00",
-      "displayDate": "2026-11-16",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "86cac37ad92afca15721973dee714c05b69a67d18dd42a1f837b741f767f0926"
-    },
-    {
-      "id": "FSS-648464ac905e486f",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "금융감독원, 금융권 침해사고 관련 대부업권 설명회 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249888&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-17T00:00:00+09:00",
-      "displayDate": "2026-11-16",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "1975e64b0a622d8059352d23c586aa564144b10a4ba001e638c2231070347134"
-    },
-    {
-      "id": "FSS-3e28ad2eaf28cc65",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "전금업자, 온투업자 침해사고 대응 관련 간담회 개최",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249883&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-17T00:00:00+09:00",
-      "displayDate": "2026-11-16",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "706701705419028b2bb18f322795400d02567101832afd3f6be892bacec7dc74"
-    },
-    {
-      "id": "FSS-53d94591dec2edce",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "2026년 상반기 전자금융업 영업실적",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249882&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-17T00:00:00+09:00",
-      "displayDate": "2026-11-16",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "1e993c65b4c6eeff01f05889441528352e37ad3cc0ef5272eaee71156f97bcbf"
-    },
-    {
       "id": "FSC-48964c895a9fe8b9",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -253,21 +298,6 @@
       "hash": "eb6c64ff651614d92dc5042cd6236a40532956c73e034cc9afaf67e038755342"
     },
     {
-      "id": "FSS-97575de20d16ddb1",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "흔들리지 않는 노후 준비의 기본 원칙 퇴직연금 가이드북을 적극 활용하세요!",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249868&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-16T00:00:00+09:00",
-      "displayDate": "2026-11-15",
-      "dept": "",
-      "isNew": false,
-      "attachments": [],
-      "hash": "59cfdb5bbab69bb68c39950f696e30b40f3e1d1034d3994fbf999a4ce4872b16"
-    },
-    {
       "id": "FSC-97d1517539a60222",
       "source": "FSC",
       "sourceLabel": "금융위",
@@ -311,36 +341,6 @@
       "isNew": false,
       "attachments": [],
       "hash": "4d048621f40115d37a3eeef5cae2f8228f1ab8e94451cb6a64730fccda3a9525"
-    },
-    {
-      "id": "FSC-4a57fbff9ac60928",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "서울 가격상승폭 둔화·매물 증가…수도권 내년 1분기까지 4만 호 이상 입주",
-      "url": "https://www.fsc.go.kr/no010101/88140?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-13T00:00:00+09:00",
-      "displayDate": "2026-11-12",
-      "dept": "금융정책과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "c95c9e1356077766961875aad15c58396b479587c56246de0bbd77b5d2128ebe"
-    },
-    {
-      "id": "FSC-b10105924e5df41d",
-      "source": "FSC",
-      "sourceLabel": "금융위",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "신뢰받는 자본시장, 현장에서 묻고 답을 찾다",
-      "url": "https://www.fsc.go.kr/no010101/88139?srchCtgry=&curPage=&srchKey=&srchText=&srchBeginDt=&srchEndDt=",
-      "publishedAt": "2026-11-13T00:00:00+09:00",
-      "displayDate": "2026-11-12",
-      "dept": "자본시장과,자산운용과,공정시장과",
-      "isNew": false,
-      "attachments": [],
-      "hash": "6550d7c49657448c26aab2898e5e7658ded43dab83d69117cc8483e815e6fcbc"
     }
   ]
 }

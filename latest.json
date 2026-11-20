@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T08:26:08+09:00",
+  "generatedAt": "2026-11-20T13:11:58+09:00",
   "fullListURL": "https://github.com/ythan327/fiu-monitor-feed",
   "status": {
     "overall": "ok",
@@ -8,40 +8,55 @@
       "FSC": {
         "status": "ok",
         "label": "금융위",
-        "lastSuccessAt": "2026-11-20T08:26:08+09:00",
+        "lastSuccessAt": "2026-11-20T13:11:58+09:00",
         "itemCount": 10
       },
       "FSS": {
         "status": "ok",
         "label": "금감원",
-        "lastSuccessAt": "2026-11-20T08:26:08+09:00",
+        "lastSuccessAt": "2026-11-20T13:11:58+09:00",
         "itemCount": 10
       },
       "FIU_REPORT": {
         "status": "ok",
         "label": "FIU 보도자료",
-        "lastSuccessAt": "2026-11-20T08:26:08+09:00",
+        "lastSuccessAt": "2026-11-20T13:11:58+09:00",
         "itemCount": 0
       },
       "FIU_NOTICE": {
         "status": "ok",
         "label": "FIU 공지사항",
-        "lastSuccessAt": "2026-11-20T08:26:08+09:00",
+        "lastSuccessAt": "2026-11-20T13:11:58+09:00",
         "itemCount": 0
       },
       "FIU_SANCTIONS": {
         "status": "ok",
         "label": "FIU 제재공시",
-        "lastSuccessAt": "2026-11-20T08:26:08+09:00",
+        "lastSuccessAt": "2026-11-20T13:11:58+09:00",
         "itemCount": 0
       }
     }
   },
   "counts": {
-    "newSinceLastFeed": 10,
+    "newSinceLastFeed": 1,
     "totalVisible": 20
   },
   "items": [
+    {
+      "id": "FSS-a9085d7f829701e6",
+      "source": "FSS",
+      "sourceLabel": "금감원",
+      "category": "REPORT",
+      "categoryLabel": "보도자료",
+      "title": "금융감독원, 가상자산사업자 대상 침해사고 대응 간담회 개최",
+      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249933&menuNo=200218&pageIndex=1",
+      "publishedAt": "2026-11-20T00:00:00+09:00",
+      "displayDate": "2026-11-19",
+      "dept": "",
+      "isNew": true,
+      "attachments": [],
+      "hash": "b7afdea60876c19f920fd627b2934a69935683bff4b1c17f8995b726cd03fefd"
+    },
     {
       "id": "FSS-4182a25b3eb781cd",
       "source": "FSS",
@@ -53,7 +68,7 @@
       "publishedAt": "2026-11-20T00:00:00+09:00",
       "displayDate": "2026-11-19",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "4d8b5624adf46c11e022a2179059da35426b6f8ac570d3042850fd40528809d1"
     },
@@ -98,7 +113,7 @@
       "publishedAt": "2026-11-19T00:00:00+09:00",
       "displayDate": "2026-11-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "f2d4906c9d70a353b377df12adaa1fac8dac530f6b557eb1c2d8e3c2997c2c12"
     },
@@ -113,7 +128,7 @@
       "publishedAt": "2026-11-19T00:00:00+09:00",
       "displayDate": "2026-11-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "4c98048323131d1a8026b43f6e50e459821b7195bf4919cad102dadb76afff25"
     },
@@ -128,7 +143,7 @@
       "publishedAt": "2026-11-19T00:00:00+09:00",
       "displayDate": "2026-11-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "a20088b69067b4bb9aadd2679f15e2c3765832bb504c2960074c9e5160cf3fc9"
     },
@@ -143,7 +158,7 @@
       "publishedAt": "2026-11-19T00:00:00+09:00",
       "displayDate": "2026-11-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "d91fcee7573d610f88a0560e35600c6c0cb60bd0eb380d4927bf70865902595f"
     },
@@ -158,7 +173,7 @@
       "publishedAt": "2026-11-19T00:00:00+09:00",
       "displayDate": "2026-11-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "613c48b5c062de6a251cb637d208a27e9d23e1e0cd3ce5a3f6f947884b912e04"
     },
@@ -173,7 +188,7 @@
       "publishedAt": "2026-11-19T00:00:00+09:00",
       "displayDate": "2026-11-18",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "bdf1af494c91cc4c31331b5f4f740258218c9dca177fe8b91bd7cc829cf0a694"
     },
@@ -203,7 +218,7 @@
       "publishedAt": "2026-11-18T00:00:00+09:00",
       "displayDate": "2026-11-17",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "d682003a0824a19e9e0a33a3dc6c4bac907f470612dab62ed7f37e50a6c3ed16"
     },
@@ -218,24 +233,9 @@
       "publishedAt": "2026-11-18T00:00:00+09:00",
       "displayDate": "2026-11-17",
       "dept": "",
-      "isNew": true,
+      "isNew": false,
       "attachments": [],
       "hash": "49e89daf3808c3c82a6d3515e7232e7f63b261151d3a64135b70a48a13ab7fb8"
-    },
-    {
-      "id": "FSS-ab9b3c1b907202de",
-      "source": "FSS",
-      "sourceLabel": "금감원",
-      "category": "REPORT",
-      "categoryLabel": "보도자료",
-      "title": "26.9월말 국내은행의 원화대출 연체율 현황(잠정)",
-      "url": "https://www.fss.or.kr/fss/bbs/B0000188/view.do?nttId=249902&menuNo=200218&pageIndex=1",
-      "publishedAt": "2026-11-18T00:00:00+09:00",
-      "displayDate": "2026-11-17",
-      "dept": "",
-      "isNew": true,
-      "attachments": [],
-      "hash": "adfc414dda948d38ac13da6e47e0f7fddab4f35d9f3197082dc747acdd1faa80"
     },
     {
       "id": "FSC-39b079f59031d9dd",
